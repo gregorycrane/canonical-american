@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:mtauburn" urn="urn:cts:americanLit:anonymous.mtauburn" xml:lang="eng">
+  <ti:title xml:lang="eng">The picturesque pocket companion, and visitor's guide, through Mount Auburn</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.mtauburn.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.mtauburn" xml:lang="eng">
+    <ti:label xml:lang="eng">The picturesque pocket companion, and visitor's guide, through Mount Auburn</ti:label>
+    <ti:description xml:lang="eng">Boston, Otis Broaders and Company, 1839.</ti:description>
+  </ti:edition>
+</ti:work>

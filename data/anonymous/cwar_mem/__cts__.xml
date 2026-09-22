@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:cwar_mem" urn="urn:cts:americanLit:anonymous.cwar_mem" xml:lang="eng">
+  <ti:title xml:lang="eng">The Annals of the Civil War Written by Leading Participants North and South</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.cwar_mem.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.cwar_mem" xml:lang="eng">
+    <ti:label xml:lang="eng">The Annals of the Civil War Written by Leading Participants North and South</ti:label>
+    <ti:description xml:lang="eng">Philadelphia. 1878.</ti:description>
+  </ti:edition>
+</ti:work>

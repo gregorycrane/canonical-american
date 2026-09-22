@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:john_g_nicolay" projid="americanLit:nicol_linc" urn="urn:cts:americanLit:john_g_nicolay.nicol_linc" xml:lang="eng">
+  <ti:title xml:lang="eng">A Short Life of Abraham Lincoln, condensed from Nicolay and Hayes' Abraham Lincoln: A History</ti:title>
+  <ti:edition urn="urn:cts:americanLit:john_g_nicolay.nicol_linc.perseus-eng1" workUrn="urn:cts:americanLit:john_g_nicolay.nicol_linc" xml:lang="eng">
+    <ti:label xml:lang="eng">A Short Life of Abraham Lincoln, condensed from Nicolay and Hayes' Abraham Lincoln: A History</ti:label>
+    <ti:description xml:lang="eng">New York. The Century Corp. 1919. Published October 1902.</ti:description>
+  </ti:edition>
+</ti:work>

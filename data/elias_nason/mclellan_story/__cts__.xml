@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:elias_nason" projid="americanLit:mclellan_story" urn="urn:cts:americanLit:elias_nason.mclellan_story" xml:lang="eng">
+  <ti:title xml:lang="eng">McClellan's Own Story: the war for the union, the soldiers who fought it, the civilians who directed it, and his relations to them.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:elias_nason.mclellan_story.perseus-eng1" workUrn="urn:cts:americanLit:elias_nason.mclellan_story" xml:lang="eng">
+    <ti:label xml:lang="eng">McClellan's Own Story: the war for the union, the soldiers who fought it, the civilians who directed it, and his relations to them.</ti:label>
+    <ti:description xml:lang="eng">New York. Charles L. Webster &amp; Company. 1887.</ti:description>
+  </ti:edition>
+</ti:work>

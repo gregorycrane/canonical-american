@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:bliss_perry" projid="americanLit:perry_amlit" urn="urn:cts:americanLit:bliss_perry.perry_amlit" xml:lang="eng">
+  <ti:title xml:lang="eng">The American spirit in lierature: a chronicle of great interpreters</ti:title>
+  <ti:edition urn="urn:cts:americanLit:bliss_perry.perry_amlit.perseus-eng1" workUrn="urn:cts:americanLit:bliss_perry.perry_amlit" xml:lang="eng">
+    <ti:label xml:lang="eng">The American spirit in lierature: a chronicle of great interpreters</ti:label>
+    <ti:description xml:lang="eng">New Haven. Yale University Press. 1921.</ti:description>
+  </ti:edition>
+</ti:work>

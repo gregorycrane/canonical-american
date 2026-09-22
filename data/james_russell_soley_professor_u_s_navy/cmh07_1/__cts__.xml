@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:james_russell_soley_professor_u_s_navy" projid="americanLit:cmh07_1" urn="urn:cts:americanLit:james_russell_soley_professor_u_s_navy.cmh07_1" xml:lang="eng">
+  <ti:title xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 7.1</ti:title>
+  <ti:edition urn="urn:cts:americanLit:james_russell_soley_professor_u_s_navy.cmh07_1.perseus-eng1" workUrn="urn:cts:americanLit:james_russell_soley_professor_u_s_navy.cmh07_1" xml:lang="eng">
+    <ti:label xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 7.1</ti:label>
+    <ti:description xml:lang="eng">Atlanta, Ga. 1899</ti:description>
+  </ti:edition>
+</ti:work>

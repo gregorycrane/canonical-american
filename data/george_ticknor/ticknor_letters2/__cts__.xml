@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:george_ticknor" projid="americanLit:ticknor_letters2" urn="urn:cts:americanLit:george_ticknor.ticknor_letters2" xml:lang="eng">
+  <ti:title xml:lang="eng">Life, letters and journals of George Ticknor</ti:title>
+  <ti:edition urn="urn:cts:americanLit:george_ticknor.ticknor_letters2.perseus-eng1" workUrn="urn:cts:americanLit:george_ticknor.ticknor_letters2" xml:lang="eng">
+    <ti:label xml:lang="eng">Life, letters and journals of George Ticknor</ti:label>
+    <ti:description xml:lang="eng">Boston, J. R. Osgood and company, 1876.</ti:description>
+  </ti:edition>
+</ti:work>

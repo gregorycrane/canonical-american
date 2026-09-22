@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:rowell_cities" urn="urn:cts:americanLit:anonymous.rowell_cities" xml:lang="eng">
+  <ti:title xml:lang="eng">George P. Rowell and Company's American Newspaper Directory containing accurate lists of all the newspapers and periodicals published in the United States and territories, and the dominion of Canada, and British Colonies of North America, together with a description of the towns and cities in which they are published: description of towns and cities.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.rowell_cities.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.rowell_cities" xml:lang="eng">
+    <ti:label xml:lang="eng">George P. Rowell and Company's American Newspaper Directory containing accurate lists of all the newspapers and periodicals published in the United States and territories, and the dominion of Canada, and British Colonies of North America, together with a description of the towns and cities in which they are published: description of towns and cities.</ti:label>
+    <ti:description xml:lang="eng">New York. 1869.</ti:description>
+  </ti:edition>
+</ti:work>

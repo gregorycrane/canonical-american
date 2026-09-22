@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:j_calvin_smith" projid="americanLit:harpgaz_1855" urn="urn:cts:americanLit:j_calvin_smith.harpgaz_1855" xml:lang="eng">
+  <ti:title xml:lang="eng">Harper's statistical gazetteer of the world, particularly describing the United States of America, Canada, New Brunswick, and Nova Scotia</ti:title>
+  <ti:edition urn="urn:cts:americanLit:j_calvin_smith.harpgaz_1855.perseus-eng1" workUrn="urn:cts:americanLit:j_calvin_smith.harpgaz_1855" xml:lang="eng">
+    <ti:label xml:lang="eng">Harper's statistical gazetteer of the world, particularly describing the United States of America, Canada, New Brunswick, and Nova Scotia (reading edition)</ti:label>
+    <ti:description xml:lang="eng">Harper and brothers, publishers, 329 and 331 Pearl Street, Franklin Square, 1855, New York, New York MVP reading edition grouped into bounded ranges of gazetteer entries.</ti:description>
+  </ti:edition>
+</ti:work>

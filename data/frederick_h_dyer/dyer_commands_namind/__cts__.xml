@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:frederick_h_dyer" projid="americanLit:dyer_commands_namind" urn="urn:cts:americanLit:frederick_h_dyer.dyer_commands_namind" xml:lang="eng">
+  <ti:title xml:lang="eng">Compendium of the War of the Rebellion: Name Index of Commands</ti:title>
+  <ti:edition urn="urn:cts:americanLit:frederick_h_dyer.dyer_commands_namind.perseus-eng1" workUrn="urn:cts:americanLit:frederick_h_dyer.dyer_commands_namind" xml:lang="eng">
+    <ti:label xml:lang="eng">Compendium of the War of the Rebellion: Name Index of Commands</ti:label>
+    <ti:description xml:lang="eng">1908.</ti:description>
+  </ti:edition>
+</ti:work>

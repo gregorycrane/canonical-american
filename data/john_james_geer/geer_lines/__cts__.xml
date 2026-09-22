@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:john_james_geer" projid="americanLit:geer_lines" urn="urn:cts:americanLit:john_james_geer.geer_lines" xml:lang="eng">
+  <ti:title xml:lang="eng">Beyond the lines: A Yankee prisoner loose in Dixie</ti:title>
+  <ti:edition urn="urn:cts:americanLit:john_james_geer.geer_lines.perseus-eng1" workUrn="urn:cts:americanLit:john_james_geer.geer_lines" xml:lang="eng">
+    <ti:label xml:lang="eng">Beyond the lines: A Yankee prisoner loose in Dixie</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

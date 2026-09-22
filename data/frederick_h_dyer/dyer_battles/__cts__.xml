@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:frederick_h_dyer" projid="americanLit:dyer_battles" urn="urn:cts:americanLit:frederick_h_dyer.dyer_battles" xml:lang="eng">
+  <ti:title xml:lang="eng">Compendium of the War of the Rebellion: Battles</ti:title>
+  <ti:edition urn="urn:cts:americanLit:frederick_h_dyer.dyer_battles.perseus-eng1" workUrn="urn:cts:americanLit:frederick_h_dyer.dyer_battles" xml:lang="eng">
+    <ti:label xml:lang="eng">Compendium of the War of the Rebellion: Battles</ti:label>
+    <ti:description xml:lang="eng">1908.</ti:description>
+  </ti:edition>
+</ti:work>

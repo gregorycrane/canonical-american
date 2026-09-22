@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:john_beatty" projid="americanLit:beatty_citsold" urn="urn:cts:americanLit:john_beatty.beatty_citsold" xml:lang="eng">
+  <ti:title xml:lang="eng">The Citizen-Soldier; or, Memoirs of a Volunteer</ti:title>
+  <ti:edition urn="urn:cts:americanLit:john_beatty.beatty_citsold.perseus-eng1" workUrn="urn:cts:americanLit:john_beatty.beatty_citsold" xml:lang="eng">
+    <ti:label xml:lang="eng">The Citizen-Soldier; or, Memoirs of a Volunteer</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:charles_congdon" projid="americanLit:congdon_trib" urn="urn:cts:americanLit:charles_congdon.congdon_trib" xml:lang="eng">
+  <ti:title xml:lang="eng">Tribune Essays: Leading Articles Contributing to the New York Tribune from 1857 to 1863.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:charles_congdon.congdon_trib.perseus-eng1" workUrn="urn:cts:americanLit:charles_congdon.congdon_trib" xml:lang="eng">
+    <ti:label xml:lang="eng">Tribune Essays: Leading Articles Contributing to the New York Tribune from 1857 to 1863.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

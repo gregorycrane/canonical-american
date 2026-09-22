@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:general_joseph_e_johnston" projid="americanLit:johns_mem" urn="urn:cts:americanLit:general_joseph_e_johnston.johns_mem" xml:lang="eng">
+  <ti:title xml:lang="eng">Narrative of Military Operations During the Civil War</ti:title>
+  <ti:edition urn="urn:cts:americanLit:general_joseph_e_johnston.johns_mem.perseus-eng1" workUrn="urn:cts:americanLit:general_joseph_e_johnston.johns_mem" xml:lang="eng">
+    <ti:label xml:lang="eng">Narrative of Military Operations During the Civil War</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

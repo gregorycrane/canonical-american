@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_wentworth_higginson" projid="americanLit:higg_carlyle" urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_carlyle" xml:lang="eng">
+  <ti:title xml:lang="eng">Carlyle's laugh and other surprises</ti:title>
+  <ti:edition urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_carlyle.perseus-eng1" workUrn="urn:cts:americanLit:thomas_wentworth_higginson.higg_carlyle" xml:lang="eng">
+    <ti:label xml:lang="eng">Carlyle's laugh and other surprises</ti:label>
+    <ti:description xml:lang="eng">Houghton Mifflin Press. 1909.</ti:description>
+  </ti:edition>
+</ti:work>

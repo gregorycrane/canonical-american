@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:or1_38" urn="urn:cts:americanLit:anonymous.or1_38" xml:lang="eng">
+  <ti:title xml:lang="eng">The Atlanta (Georgia) Campaign: May 1 - September 8, 1864.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.or1_38.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.or1_38" xml:lang="eng">
+    <ti:label xml:lang="eng">The Atlanta (Georgia) Campaign: May 1 - September 8, 1864.</ti:label>
+    <ti:description xml:lang="eng">Washington, D.C. Government Printing Office. 1891</ti:description>
+  </ti:edition>
+</ti:work>

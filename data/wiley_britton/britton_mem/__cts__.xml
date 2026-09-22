@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:wiley_britton" projid="americanLit:britton_mem" urn="urn:cts:americanLit:wiley_britton.britton_mem" xml:lang="eng">
+  <ti:title xml:lang="eng">Memoirs of the Rebellion on the Border 1863.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:wiley_britton.britton_mem.perseus-eng1" workUrn="urn:cts:americanLit:wiley_britton.britton_mem" xml:lang="eng">
+    <ti:label xml:lang="eng">Memoirs of the Rebellion on the Border 1863.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

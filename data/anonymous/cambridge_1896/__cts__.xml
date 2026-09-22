@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:cambridge_1896" urn="urn:cts:americanLit:anonymous.cambridge_1896" xml:lang="eng">
+  <ti:title xml:lang="eng">The Cambridge of eighteen hundred and ninety-six: a picture of the city and its industries fifty years after its incorporation</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.cambridge_1896.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.cambridge_1896" xml:lang="eng">
+    <ti:label xml:lang="eng">The Cambridge of eighteen hundred and ninety-six: a picture of the city and its industries fifty years after its incorporation</ti:label>
+    <ti:description xml:lang="eng">Cambridge, 1896.</ti:description>
+  </ti:edition>
+</ti:work>

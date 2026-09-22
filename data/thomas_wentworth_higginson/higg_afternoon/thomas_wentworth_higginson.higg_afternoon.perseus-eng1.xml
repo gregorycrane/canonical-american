@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <teiHeader type="text" status="new"> <fileDesc> <titleStmt> <title>Afternoon landscape: poems and translations</title> <author>Thomas Wentworth Higginson</author> <funder>Tufts University</funder> </titleStmt>  <publicationStmt><publisher>Perseus Digital Library</publisher><availability><p>Converted from the legacy Perseus TEI P4 American collection.</p></availability></publicationStmt><sourceDesc> 
+<p>Longmans, Green and company. 1889. John Wilson and Son, Cambridge. </p></sourceDesc> </fileDesc> <encodingDesc> <refsDecl xml:id="CTS"><citeStructure match="/TEI/text/body" use="@n"><citeStructure unit="chapter" n="chunk" delim=":" match="div[@type='chapter']" use="@n"/></citeStructure></refsDecl></encodingDesc> <profileDesc> <langUsage> <language ident="en">English </language><language ident="la">Latin </language><language ident="grc">Greek </language><language ident="fr">French </language><language ident="it">Italian </language><language ident="es">Spanish </language></langUsage> </profileDesc> <revisionDesc><change when="2026-09-21">Converted from TEI P4 source higg.afternoon.ie.xml; CTS metadata and citations added.</change></revisionDesc></teiHeader> 
+<text xml:lang="eng"><body xml:base="urn:cts:americanLit:thomas_wentworth_higginson.higg_afternoon.perseus-eng1"> 
+<div xml:id="c.1" type="chapter" n="1" subtype="chapter"> <pb xml:id="p.3" n="3"/> 
+<head>To <persName n="Lowell,,James,Russell,," xml:id="n0203.0001.00003.00001" reg="default:Lowell,James,Russell,,"><forename>James</forename> <forename>Russell</forename> <surname>Lowell</surname></persName>, school-mate and fellow townsman, this book is inscribed.</head> <quote xml:lang="la" rend="blockquote"><l>Alter ab undecimo tum me jam ceperat annus,</l> <l>Jam fragiles poteram a terra contingere ramos.</l></quote> <quote xml:lang="la" rend="blockquote"><l>Ver erat aeternum; placidique tepentibus auris</l> <l>Mulcebant zephyri natos sine semine flores.</l></quote> 
+<p>
+
+<milestone unit="sentence" n="1"/></p><closer><signed><placeName reg="Cambridge, Middlesex, Massachusetts" key="tgn,7013527">Cambridge, Mass.</placeName>, <placeName reg="United States" key="tgn,7012149">U. S. A.</placeName>, <dateStruct value="1889--"><year reg="1889">1889</year></dateStruct>.</signed></closer></div> 
+<div xml:id="c.2" type="chapter" n="2" subtype="chapter"> <pb xml:id="p.9" n="9"/> 
+<head>Prelude.</head> <lg type="stanza"><l>I dreamed <num value="1">one</num> night that the calm hosts of heaven</l> <l>Had lost their changeless paths; and as I stood</l> <l>Beside the latticed window, I could watch</l> <l>Those strange, fair pilgrims wandering from their shrines.</l> <l>Up to the zenith rose the moon, and paused;</l> <l>Stars went and came, and waxed and waned again,</l> <l>Then vanished into nothing; meteors pale</l> <l>Stole, soft as wind-blown blossoms, down the night;</l> <l>Till I awoke to find the cold gray morn</l> <l>Hymning its lonely dirges through the pines.
+
+<milestone unit="sentence" n="2"/></l></lg><lg type="stanza"><l>Were it not better that the planets fail,</l> <l>And every heavenly orbit wander wide,</l> <l>Than that this human life, its years like stars,</l> <l>Should miss the accustomed sequence of content?
+
+<milestone unit="sentence" n="3"/><pb xml:id="p.10" n="10"/></l> <l>All times are good; life's morning let us sing,</l> <l>Its sunny noon, high noon, the whole world's pause,</l> <l>Nor less that sweet decline which ends in eve.</l> <l>Life were monotonous with its morning hours,</l> <l>Came not the hurrying years to shift our mood,</l> <l>Unfold an altered heaven and spread its glow</l> <l>O'er the changed landscape of time's afternoon.</l></lg></div> 
+<div xml:id="c.3" type="chapter" n="3" subtype="chapter"> <pb xml:id="p.11" n="11"/> 
+<head>Sonnet to duty.</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="4"/><cit><quote xml:lang="grc">qeo/s tis e)/sta e)n h(mi/n</quote> <bibl><persName n="Euripides,,,,," xml:id="n0203.0003.00011.00002" reg="mostcommon:Euripides,nomatch:0"><surname>Euripides</surname></persName>, Fragment.</bibl></cit></p></quote> <lg type="stanza"><l>Light of dim mornings; shield from heat and cold;</l> <l>Balm for all ailments; substitute for praise;</l> <l><rs type="role" reg="Comrade">Comrade</rs> of those who plod in lonely ways</l> <l>(Ways that grow lonelier as the years wax old); </l></lg><lg type="stanza"><l>Tonic for fears; check to the over-bold;</l> <l>Nurse, whose calm hand its strong restriction lays,</l> <l>Kind but resistless, on our wayward days;</l> <l>Mart, where high wisdom at vast price is sold; </l></lg><lg type="stanza"><l>Gardener, whose touch bids the rose-petals fall,</l> <l>The thorns endure; surgeon, who human hearts</l> <l>Searchest with probes, though the death-touch be given; </l></lg><lg type="stanza"><l>Spell that knits friends, but yearning lovers parts;</l> <l>Tyrant relentless o'er our blisses all;--</l> <l>Oh, can it be, thine other name is Heaven?</l></lg></div> 
+<div xml:id="c.4" type="chapter" n="4" subtype="chapter"> <pb xml:id="p.12" n="12"/> 
+<head>A jar of rose-leaves.</head> <lg type="stanza"><l>Myriad roses fade unheeded,</l> <l>Yet no note of grief is needed;</l> <l>When the ruder breezes tear them,</l> <l>Sung or songless, we can spare them.</l> <l>But the choicest petals are</l> <l>Shrined in some deep Orient jar,</l> <l>Rich without and sweet within,</l> <l>Where we cast the rose-leaves in. </l></lg><lg type="stanza"><l>Life has jars of costlier price</l> <l>Framed to hold our memories.</l> <l>There we treasure baby smiles,</l> <l>Boyish exploits, girlish wiles,</l> <l>All that made our early days</l> <l>Sweeter than these trodden ways</l> <l>Where the <name>Fates</name> our fortunes spin:</l> <l>Memory, toss the rose-leaves in!
+
+<milestone unit="sentence" n="5"/><pb xml:id="p.13" n="13"/> </l></lg><lg type="stanza"><l>What the jar holds, that shall stay;</l> <l>Time steals all the rest away.</l> <l>Cast in love's <num value="1" type="ordinal">first</num> stolen word,</l> <l><persName n="Bliss,,,,," xml:id="n0203.0004.00013.00003" reg="mostcommon:Bliss,nomatch:0"><surname>Bliss</surname></persName> when uttered, bliss when heard;</l> <l>Maiden's looks of shy surprise;</l> <l>Glances from a hero's eyes;</l> <l>Palms we risked our souls to win:</l> <l>Memory, fling the rose-leaves in!
+
+<milestone unit="sentence" n="6"/></l></lg><lg type="stanza"><l>Now more sombre and more slow</l> <l>Let the incantation grow!</l> <l>Cast in shreds of rapture brief,</l> <l>Subtle links 'twixt hope and grief;</l> <l>Vagrant fancy's dangerous toys;</l> <l>Covert dreams, narcotic joys</l> <l>Flavored with the taste of sin:</l> <l>Memory, pour the rose-leaves in!
+
+<milestone unit="sentence" n="7"/></l></lg><lg type="stanza"><l>Quit that borderland of pain!</l> <l>Cast in thoughts of nobler vein,</l> <l>Magic gifts of human breath,</l> <l>Mysteries of birth and death.
+
+<milestone unit="sentence" n="8"/><pb xml:id="p.14" n="14"/> </l></lg><lg type="stanza"><l>What if all this web of change</l> <l>But prepare for scenes more strange;</l> <l>If to die be to begin?</l> <l>Memory, heap the rose-leaves in!</l></lg></div> 
+<div xml:id="c.5" type="chapter" n="5" subtype="chapter"> <pb xml:id="p.15" n="15"/> 
+<head>Sub pondere crescit.</head> <lg type="stanza"><l>Can this be he, whose morning footstep trod</l> <l>O'er the green earth as in a regal home?</l> <l>Whose voice rang out beneath the skyey dome</l> <l>Like the high utterance of a youthful <name n="God" type="God">god</name>? </l></lg><lg type="stanza"><l>Now with wan looks and eyes that seek the sod,</l> <l>Restless and purposeless as ocean foam,</l> <l>Across the twilight fields I see him roam</l> <l>With shoulders bowed, as shrinking from the rod. </l></lg><lg type="stanza"><l>Oh lift the old-time light within thine eyes!</l> <l>Set free the pristine passion from thy tongue!</l> <l>Strength grows with burdens; make an end of sighs.
+
+<milestone unit="sentence" n="9"/></l></lg><lg type="stanza"><l>Let thy thoughts soar again their mates among,</l> <l>And as yon oriole's eager matins rise,</l> <l>Abroad once more be thy strong anthem flung!</l></lg></div> 
+<div xml:id="c.6" type="chapter" n="6" subtype="chapter"> <pb xml:id="p.16" n="16"/> 
+<head>The playmate hours.</head> <lg type="stanza"><l>Dawn lingers silent in the shade of night,</l> <l>Till on the gloaming <rs>Baby</rs>'s laughter rings.</l> <l>Then smiling Day awakes, and open flings</l> <l>Her golden doors, to speed the shining flight </l></lg><lg type="stanza"><l>Of restless hours, gay children of the light.</l> <l>Each eager playfellow to Baby brings</l> <l>Some separate gift,--a flitting bird that sings</l> <l>With her; a waving branch of berries bright; </l></lg><lg type="stanza"><l>A heap of rustling leaves; each trifle cheers</l> <l>This joyous little life but just begun.</l> <l>No weary hour to her brings sighs or tears; </l></lg><lg type="stanza"><l>And when the shadows warn the loitering sun,</l> <l>With blossoms in her hands, untouched by fears,</l> <l>She softly falls asleep, and day is done.</l></lg> 
+<p>
+
+<milestone unit="sentence" n="10"/></p><closer><signed>M. T. H.</signed></closer></div> 
+<div xml:id="c.7" type="chapter" n="7" subtype="chapter"> <pb xml:id="p.17" n="17"/> 
+<head>The Baby sorceress.</head> <lg type="stanza"><l>Our baby sits beneath the tall elm-trees,</l> <l>A wreath of tangled ribbons in her hands;</l> <l>She twines and twists the many-colored strands,</l> <l>A little sorceress, weaving destinies.
+
+<milestone unit="sentence" n="11"/></l></lg><lg type="stanza"><l>Now the pure white she grasps; now nought can please</l> <l>But strips of crimson, lurid as the brands</l> <l>From passion's fires, or yellow, like the sands</l> <l>That lend soft setting to the azure seas.
+
+<milestone unit="sentence" n="12"/></l></lg><lg type="stanza"><l>And so with sweet incessant toil she fills</l> <l>A summer hour, still following fancies new,</l> <l>Till through my heart a sudden terror thrills </l></lg><lg type="stanza"><l>Lest, as she weaves, her aimless choice prove true.</l> <l>Thank <name n="God" type="God">God</name>, our fates proceed not from our wills!</l> <l>The Power that spins the thread shall blend the hue.</l></lg></div> 
+<div xml:id="c.8" type="chapter" n="8" subtype="chapter"> <pb xml:id="p.18" n="18"/> 
+<head>Heirs of time.</head> <l>Inscribed to <persName n="Bellamy,,Edward,,," xml:id="n0203.0008.00018.00004" reg="default:Bellamy,Edward,,,"><forename>Edward</forename> <surname>Bellamy</surname></persName>.
+
+<milestone unit="sentence" n="13"/><quote rend="blockquote"> 
+<p><cit><quote xml:lang="fr">Aucun homme ne peut aliener sa souverainete, parcequa il ne pent abdiquer sa nature ou cesser daetre homme ; et de la souverainete de chaque individu nait, dans la societe, la souverainete collective de tous ou la souverainete du peuple, également inalienable.</quote>
+
+<milestone unit="sentence" n="14"/><bibl><persName n="Mennais,,Abbe,de la,," xml:id="n0203.0008.00018.00005" reg="default:Mennais,Abbe,de la,,"><forename>Abbe</forename> <forename>de la</forename> <surname>Mennais</surname></persName>, <title>Le <persName n="Peuple,,Livre,,,du" xml:id="n0203.0008.00018.00006" reg="expanded:Peuple,Livre,,,"><forename>Livre</forename> <nameLink>du</nameLink> <surname>Peuple</surname></persName></title> (<dateStruct value="1837--"><year reg="1837">1837</year></dateStruct>).</bibl></cit></p></quote> </l> <lg type="couplet"><lg type="stanza"><l>From street and square, from hill and glen</l> <l>Of this vast world beyond my door,</l> <l>I hear the tread of marching men,</l> <l>The patient armies of the poor.
+
+<milestone unit="sentence" n="15"/></l></lg><lg type="stanza"><l>The halo of the city's lamps</l> <l>Hangs, a vast torchlight, in the air;</l> <l>I watch it through the evening damps:</l> <l>The masters of the world are there.
+
+<milestone unit="sentence" n="16"/></l></lg><lg type="stanza"><l>Not ermine-clad or clothed in state,</l> <l>Their title-deeds not yet made plain;</l> <l>But waking early, toiling late,</l> <l>The heirs of all the earth remain.
+
+<milestone unit="sentence" n="17"/><pb xml:id="p.19" n="19"/> </l></lg><lg type="stanza"><l>Some day, by laws as fixed and fair</l> <l>As guide the planets in their sweep,</l> <l>The children of each outcast heir</l> <l>The harvest-fruits of time shall reap.
+
+<milestone unit="sentence" n="18"/></l></lg><lg type="stanza"><l>The peasant brain shall yet be wise,</l> <l>The untamed pulse grow calm and still;</l> <l>The blind shall see, the lowly rise,</l> <l>And work in peace <placeName key="tgn,2093723;tgn,2030396" n="0.000 000000.0000 placename;tgn,2093723;Time, Greene, Pennsylvania,Greene,Pennsylvania,United States,North and Central America;0.000 000000.0000 placename;tgn,2030396;Time, Pike, Illinois,Pike,Illinois,United States,North and Central America" reg="Time, Greene, Pennsylvania,Greene,Pennsylvania,United States,North and Central America;Time, Pike, Illinois,Pike,Illinois,United States,North and Central America">Time</placeName>'s wondrous will.
+
+<milestone unit="sentence" n="19"/></l></lg><lg type="stanza"><l>Some day, without a trumpet's call,</l> <l>This news will o'er the world be blown:</l> <l> “The heritage comes back to all!</l> <l>The myriad monarchs take their own!” </l></lg></lg></div> 
+<div xml:id="c.9" type="chapter" n="9" subtype="chapter"> <pb xml:id="p.20" n="20"/> 
+<head><num value="60">Sixty</num> and <num value="6">six</num>: or, a fountain of youth.</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="20"/><cit><quote xml:lang="la"><placeName reg="Fons">Fons</placeName>, delicium domus.</quote>
+
+<milestone unit="sentence" n="21"/><bibl>Martial.</bibl></cit></p></quote> <lg type="stanza"><l>joy of the morning,</l> <l>Darling of dawning,</l> <l>Blithe little, lithe little daughter of mine!</l> <l>While with thee ranging</l> <l>Sure I'm exchanging </l></lg><lg type="stanza"><l><num value="60">Sixty</num> of my years for <measure n="6years" type="date">six years</measure> like thine.</l> <l>Wings cannot vie with thee,</l> <l>Lightly I fly with thee </l></lg><lg type="stanza"><l><persName n="Gay,,,,," xml:id="n0203.0009.00020.00007" reg="mostcommon:Gay,nomatch:0"><surname>Gay</surname></persName> as the thistle-down over the lea.</l> <l>Life is all magic,</l> <l>Comic or tragic, </l></lg><lg type="stanza"><l>Played as thou playest it daily with me.</l> <l>Floating and ringing,</l> <l>Thy merry singing <pb xml:id="p.21" n="21"/></l> <l>Comes when the light comes, like that of the birds.</l> <l>List to the play of it!</l> <l>That is the way of it;</l> <l>All's in the music and nought in the words.</l> <l>Glad or grief-laden,</l> <l><persName n="Schubert,,,,," xml:id="n0203.0009.00021.00008" reg="mostcommon:Schubert,nomatch:0"><surname>Schubert</surname></persName> or <persName n="Haydn,,,,," xml:id="n0203.0009.00021.00009" reg="mostcommon:Haydn,nomatch:0"><surname>Haydn</surname></persName>,</l> <l>Ballad of Erin or merry Scotch lay;</l> <l>Like an evangel,</l> <l>Some baby-angel</l> <l>Brought from sky-nursery stealing away.
+
+<milestone unit="sentence" n="22"/></l></lg><lg type="stanza"><l>Surely I know it,</l> <l>Artist nor poet</l> <l>Guesses my treasure of jubilant hours.</l> <l>Sorrows, what are they?</l> <l>Nearer or far, they</l> <l>Vanish in sunshine, like dew from the flowers.</l> <l>Years, I am glad of them;</l> <l>Would that I had of them</l> <l>More and yet more, while thus mingled with thine</l> <l>Age, I make light of it,</l> <l>Fear not the sight of it,</l> <l>Time's but our playmate, whose toys are divine.</l></lg></div> 
+<div xml:id="c.10" type="chapter" n="10" subtype="chapter"> <pb xml:id="p.22" n="22"/> 
+<head><quote>Since <persName n="Cleopatra,,,,," xml:id="n0203.0010.00022.00010" reg="mostcommon:Cleopatra,nomatch:0"><surname>Cleopatra</surname></persName> died.</quote>
+
+<milestone unit="sentence" n="23"/></head> <quote rend="blockquote"> 
+<p><cit><quote><l>Since <persName n="Cleopatra,,,,," xml:id="n0203.0010.00022.00011" reg="mostcommon:Cleopatra,nomatch:0"><surname>Cleopatra</surname></persName> died,</l> <l>I have lived in such dishonor that the world</l> <l>Doth wonder at my baseness.</l></quote> <bibl><persName n="Shakespeare,,,,," xml:id="n0203.0010.00022.00012" reg="mostcommon:Shakespeare,nomatch:0"><surname>Shakespeare</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l> “Since <persName n="Cleopatra,,,,," xml:id="n0203.0010.00022.00013" reg="mostcommon:Cleopatra,nomatch:0"><surname>Cleopatra</surname></persName> died!” Long years are past,</l> <l>In <persName><forename>Antony</forename></persName>'s fancy, since the deed was done.</l> <l>Love counts its epochs, not from sun to sun,</l> <l>But by the heart-throb.
+
+<milestone unit="sentence" n="24"/>Mercilessly fast </l></lg><lg type="stanza"><l>Time has swept onward since she looked her last</l> <l>On life, a queen.
+
+<milestone unit="sentence" n="25"/>For him the sands have run</l> <l>Whole ages through their glass, and kings have won</l> <l>And lost their empires o'er earth's surface vast </l></lg><lg type="stanza"><l>Since <persName n="Cleopatra,,,,," xml:id="n0203.0010.00022.00014" reg="mostcommon:Cleopatra,nomatch:0"><surname>Cleopatra</surname></persName> died.
+
+<milestone unit="sentence" n="26"/>Ah! Love and Pain</l> <l>Make their own measure of all things that be.</l> <l>No clock's slow ticking marks their deathless strain; </l></lg><lg type="stanza"><l>The life they own is not the life we see;</l> <l>Love's single moment is eternity:</l> <l>Eternity, a thought in <persName n="Shakspeare,,,,," xml:id="n0203.0010.00022.00015" reg="mostcommon:Shakspeare,nomatch:0"><surname>Shakspeare</surname></persName>'s brain.</l></lg></div> 
+<div xml:id="c.11" type="chapter" n="11" subtype="chapter"> <pb xml:id="p.23" n="23"/> 
+<head>The soul of a butterfly.</head> <lg type="couplet"><lg type="stanza"><l>Over the field where the brown quails whistle,</l> <l>Over the ferns where the rabbits lie,</l> <l>Floats the tremulous down of a thistle.</l> <l>Is it the soul of a butterfly?
+
+<milestone unit="sentence" n="27"/></l></lg><lg type="stanza"><l>See! how they scatter and then assemble;</l> <l>Filling the air while the blossoms fade,--</l> <l>Delicate atoms, that whirl and tremble</l> <l>In the slanting sunlight that skirts the glade.</l> <l>There goes the summer's inconstant lover,</l> <l>Drifting and wandering, faint and far;</l> <l>Only bewailed by the upland plover,</l> <l>Watched by only the twilight star.
+
+<milestone unit="sentence" n="28"/></l></lg><lg type="stanza"><l>Come next <dateStruct value="-08-"><month reg="08">August</month></dateStruct>, when thistles blossom,</l> <l>See how each is alive with wings!</l> <l>Butterflies seek their souls in its bosom,</l> <l>Changed thenceforth to immortal things.</l></lg></lg></div> 
+<div xml:id="c.12" type="chapter" n="12" subtype="chapter"> <pb xml:id="p.24" n="24"/> 
+<head>Decoration.</head> <quote xml:lang="la" rend="blockquote">Manibus O date lilia plenis.</quote>
+
+<milestone unit="sentence" n="29"/><lg type="stanza"><l>Mid the flower-wreathed tombs I stand</l> <l>Bearing lilies in my hand.</l> <l>Comrades!
+
+<milestone unit="sentence" n="30"/>in what soldier-grave</l> <l>Sleeps the bravest of the brave?
+
+<milestone unit="sentence" n="31"/></l></lg><lg type="stanza"><l>Is it he who sank to rest</l> <l>With his colors round his breast?</l> <l>Friendship makes his tomb a shrine;</l> <l>Garlands veil it: ask not mine.
+
+<milestone unit="sentence" n="32"/></l></lg><lg type="stanza"><l><num value="1">One</num> low grave, yon trees beneath,</l> <l>Bears no roses, wears no wreath;</l> <l>Yet no heart more high and warm</l> <l>Ever dared the battle-storm, <pb xml:id="p.25" n="25"/> </l></lg><lg type="stanza"><l>Never gleamed a prouder eye</l> <l>In the front of victory,</l> <l>Never foot had firmer tread</l> <l>On the field where hope lay dead, </l></lg><lg type="stanza"><l>Than are hid within this tomb</l> <l>Where the untended grasses bloom,</l> <l>And no stone, with feigned distress,</l> <l>Mocks the sacred loneliness.
+
+<milestone unit="sentence" n="33"/></l></lg><lg type="stanza"><l>Youth and beauty, dauntless will,</l> <l>Dreams that life could ne'er fulfil,</l> <l>Here lie buried; here in peace</l> <l>Wrongs and woes have found release.
+
+<milestone unit="sentence" n="34"/></l></lg><lg type="stanza"><l>Turning from my comrades' eyes,</l> <l>Kneeling where a woman lies,</l> <l>I strew lilies on the grave</l> <l>Of the bravest of the brave.</l></lg></div> 
+<div xml:id="c.13" type="chapter" n="13" subtype="chapter"> <pb xml:id="p.26" n="26"/> 
+<head><quote>The snowing of the pines.</quote>
+
+<milestone unit="sentence" n="35"/></head> <lg type="stanza"><l>Softer than silence, stiller than still air,</l> <l>Float down from high pine-boughs the slender leaves.</l> <l>The forest floor its annual boon receives</l> <l>That comes like snowfall, tireless, tranquil, fair.
+
+<milestone unit="sentence" n="36"/></l></lg><lg type="stanza"><l>Gently they glide, gently they clothe the bare</l> <l>Old rocks with grace.
+
+<milestone unit="sentence" n="37"/>Their fall a mantle weaves</l> <l>Of paler yellow than autumnal sheaves</l> <l>Or those strange blossoms the witch-hazels wear.
+
+<milestone unit="sentence" n="38"/></l></lg><lg type="stanza"><l>Athwart long aisles the sunbeams pierce their way;</l> <l>High up, the crows are gathering for the night;</l> <l>The delicate needles fill the air; the jay </l></lg><lg type="stanza"><l>Takes through their golden mist his radiant flight;</l> <l>They <rs type="season">fall</rs> and <rs type="season">fall</rs>, till at <dateStruct value="-11-"><month reg="11">November</month></dateStruct>'s close</l> <l>The snow-flakes drop as lightly — snows on snows.</l></lg></div> 
+<div xml:id="c.14" type="chapter" n="14" subtype="chapter"> <pb xml:id="p.27" n="27"/> 
+<head>The lesson of the leaves.</head> <lg type="stanza"><l>thou who bearest on thy thoughtful face</l> <l>The wearied calm that follows after grief,</l> <l>See how the autumn guides each loosened leaf</l> <l>To sure repose in its own sheltered place.
+
+<milestone unit="sentence" n="39"/></l></lg><lg type="stanza"><l>Ah, not forever whirl they in the race</l> <l>Of wild forlornness round the gathered sheaf,</l> <l>Or hurrying onward in a rapture brief</l> <l>Spin o'er the moorlands into trackless space.
+
+<milestone unit="sentence" n="40"/></l></lg><lg type="stanza"><l>Some hollow captures each; some sheltering wall</l> <l>Arrests the wanderer on its aimless way;</l> <l>The autumn's pensive beauty needs them all, </l></lg><lg type="stanza"><l>And winter finds them warm, though sere and gray.</l> <l>They nurse young blossoms for the spring's sweet call,</l> <l>And shield new leaflets for the burst of <dateStruct value="-05-"><month reg="05">May</month></dateStruct>.</l></lg></div> 
+<div xml:id="c.15" type="chapter" n="15" subtype="chapter"> <pb xml:id="p.28" n="28"/> 
+<head>Vestis angelica.</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="41"/><cit><quote>It was a custom of the early <orgName n="English Church" type="church">English church</orgName> for pious laymen to be carried in the hour of death to some monastery, that they might be clothed in the habit of the religious order, and might die amid the prayers of the brotherhood.
+
+<milestone unit="sentence" n="42"/>The garment thus assumed was known as the <foreign xml:lang="la">Vestis Angelica</foreign>.</quote>
+
+<milestone unit="sentence" n="43"/><bibl>See Moroni: <title xml:lang="it"><persName n="Storico,,Dizionario,di,Erudizione," xml:id="n0203.0015.00028.00016" reg="default:Storico,Dizionario,di,Erudizione,"><forename>Dizionario</forename> <forename>di</forename> <forename>Erudizione</forename> <surname>Storico</surname></persName>-Ecclesiastica</title>, <num value="2">II</num>. <num value="78">78</num>; <num value="96">XCVI</num>. <num value="212">212</num>.</bibl></cit></p></quote> <lg type="stanza"><l>Gather, gather!
+
+<milestone unit="sentence" n="44"/>Stand</l> <l>Round her on either hand!</l> <l>O shining angel-band</l> <l>More pure than priest!</l> <l>A garment white and whole</l> <l>Weave for this passing soul,</l> <l>Whose earthly joy and dole</l> <l>Have almost ceased.
+
+<milestone unit="sentence" n="45"/></l></lg><lg type="stanza"><l>Weave it of mothers' prayers,</l> <l>Of sacred thoughts and cares,</l> <l>Of peace beneath gray hairs,</l> <l>Of hallowed pain; <pb xml:id="p.29" n="29"/></l> <l>Weave it of vanished tears,</l> <l>Of childlike hopes and fears,</l> <l>Of joys, by saintly years</l> <l>Washed free from stain.
+
+<milestone unit="sentence" n="46"/></l></lg><lg type="stanza"><l>Weave it of happy hours,</l> <l>Of smiles and summer flowers,</l> <l>Of passing sunlit showers,</l> <l>Of acts of love;</l> <l>Of footsteps that did go</l> <l>Amid life's work and woe,--</l> <l>Her eyes still fixed below,</l> <l>Her thoughts above.
+
+<milestone unit="sentence" n="47"/></l></lg><lg type="stanza"><l>Then as those eyes grow dim</l> <l>Chant we her best-loved hymn,</l> <l>While from yon church-tower's brim</l> <l>A soft chime swells.</l> <l>Her freed soul floats in bliss</l> <l>To unseen worlds from this,</l> <l>Nor knows in which it is</l> <l>She hears the bells.</l></lg></div> 
+<div xml:id="c.16" type="chapter" n="16" subtype="chapter"> <pb xml:id="p.30" n="30"/> 
+<head>To my shadow.</head> <lg type="stanza"><l>A mute companion at my side</l> <l>Paces and plods, the whole day long,</l> <l>Accepts the measure of my stride,</l> <l>Yet gives no cheer by word or song.
+
+<milestone unit="sentence" n="48"/></l></lg><lg type="stanza"><l>More close than any doggish friend,</l> <l>Not ranging far and wide, like him,</l> <l>He goes where'er my footsteps tend,</l> <l>Nor shrinks for fear of life or limb.
+
+<milestone unit="sentence" n="49"/></l></lg><lg type="stanza"><l>I do not know when <num value="1" type="ordinal">first</num> we met,</l> <l>But till each day's bright hours are done</l> <l>This grave and speechless silhouette</l> <l>Keeps me betwixt him and the sun. <pb xml:id="p.31" n="31"/> </l></lg><lg type="stanza"><l>They say he knew me when a child;</l> <l>Born with my birth, he dies with me;</l> <l>Not once from his long task beguiled,</l> <l>Though sin or shame bid others flee.
+
+<milestone unit="sentence" n="50"/></l></lg><lg type="stanza"><l>What if, when all this world of men</l> <l>Shall melt and fade and pass away,</l> <l>This deathless sprite should rise again</l> <l>And be himself my Judgment Day?</l></lg></div> 
+<div xml:id="c.17" type="chapter" n="17" subtype="chapter"> <pb xml:id="p.32" n="32"/> 
+<head><num value="2">Two</num> voyagers.</head> <lg type="stanza"><l>When <num value="1" type="ordinal">first</num> I mark upon my child's clear brow</l> <l>Thought's wrestling shadows their new struggle keep,</l> <l>Read my own conflicts in her questions deep,</l> <l>My own remorse in her repentant vow, </l></lg><lg type="stanza"><l>My own vast ignorance in her “Why?” and “How?”</l> <l>When my precautions only serve to heap</l> <l>New burdens, and my cares her needs o'erleap,</l> <l>Then to her separate destiny I bow. </l></lg><lg type="stanza"><l>So seem we like <num value="2">two</num> ships, that side by side,</l> <l>Older and younger, breast the same rough main</l> <l>Bound for <num value="1">one</num> port, whatever winds betide, </l></lg><lg type="stanza"><l>In solemn interchange of joy or pain.</l> <l>I may not hold thee back.
+
+<milestone unit="sentence" n="51"/>Though skies be dark,</l> <l>Put forth upon the seas, O priceless bark!</l></lg></div> 
+<div xml:id="c.18" type="chapter" n="18" subtype="chapter"> <pb xml:id="p.33" n="33"/> 
+<head>Sea-gulls at <placeName key="possibilities=23" n="1.000 10" reg=",">Fresh Pond</placeName>.</head> <lg type="stanza"><l>Lake of boyish dreams!
+
+<milestone unit="sentence" n="52"/>I linger round</l> <l>Thy calm, clear waters and thine altered shores</l> <l>Till thought brings back the plash of childhood's oars,--</l> <l>Long hid in memory's depths, a vanished sound.
+
+<milestone unit="sentence" n="53"/></l></lg><lg type="stanza"><l>Alone unchanged, the sea-birds yet are found</l> <l>Far floating on thy wave by threes and fours,</l> <l>Or grouped in hundreds, while a white gull soars,</l> <l>Safe, beyond gunshot of the hostile ground.
+
+<milestone unit="sentence" n="54"/></l></lg><lg type="stanza"><l>I am no nearer to those joyous birds</l> <l>Than when, long since, I watched them as a child;</l> <l>Nor am I nearer to that flock more wild,</l> <l>Most shy and vague of all elusive things,</l> <l>My unattainable thoughts, unreached by words.</l> <l>I see the flight, but never touch the wings.</l></lg></div> 
+<div xml:id="c.19" type="chapter" n="19" subtype="chapter"> <pb xml:id="p.34" n="34"/> 
+<head>The dying house.</head> <lg type="stanza"><l>She is dead; her house is dying;</l> <l>Round its long-deserted door,</l> <l>From the hillside and the moor,</l> <l>Swell the autumn breezes sighing.</l> <l>Closer to its windows press</l> <l>Pine-tree boughs in mute caress;</l> <l>Wind-sown seeds in silence come,</l> <l><persName n="Root,,,,," xml:id="n0203.0019.00034.00017" reg="mostcommon:Root,nomatch:0"><surname>Root</surname></persName>, and grow, and bud, and bloom;</l> <l>Year by year, kind Nature's grace</l> <l>Wraps and shields her dwelling-place.</l> <l>She who loved all things that grew,</l> <l>Talked with every bird that flew,</l> <l>Brought each creature to her feet</l> <l>With persuasive accents sweet,--</l> <l>Now her voice is hushed and gone,</l> <l>Yet the birds and bees keep on. <pb xml:id="p.35" n="35"/> </l></lg><lg type="stanza"><l>Oh the joy, the love, the glee,</l> <l>Sheltered once by that roof-tree!</l> <l>Song and dance and serenade,</l> <l>Joyous jest by maskers played;</l> <l>Passionate whispers on the stairs,</l> <l>Hopes unspoken, voiceless prayers;</l> <l>Greetings that repressed love's theme,</l> <l>Partings that renewed its dream;</l> <l>All the blisses, all the woes,</l> <l>Youth's brief hour of spring-time knows,--</l> <l>All have died into the past.</l> <l>Perish too the house at last!
+
+<milestone unit="sentence" n="55"/></l></lg><lg type="stanza"><l>Vagrant children come and go 'Neath the windows, murmuring low;</l> <l>Peering with impatient eye</l> <l>For a ghostly mystery.</l> <l>Some a fabled secret tell,</l> <l>Others touch the soundless bell,</l> <l>Then with hurrying step retreat</l> <l>From the echo of their feet.</l> <l>Or perchance there wander near</l> <l>Guests who once held revel here:</l> <l>Some live o'er again the days <pb xml:id="p.36" n="36"/></l> <l>Of their love's <num value="1" type="ordinal">first</num> stolen gaze;</l> <l>Or some sad soul, looking in,</l> <l>Calls back hours of blight or sin,</l> <l>Glad if her mute life may share</l> <l>In the sheltering silence there.</l> <l>Oh, what cheeks might blanch with fears,</l> <l>Had walls tongues, as they have ears!
+
+<milestone unit="sentence" n="56"/></l></lg><lg type="stanza"><l><placeName reg="Silent house">Silent house</placeName> with close-locked doors,</l> <l>Ghosts and memories haunt thy floors!</l> <l>Not a web of circumstance</l> <l>Woven here into romance</l> <l>E'er can perish; many a thread</l> <l>Must survive when thou art dead.</l> <l>Children's children shall not know</l> <l>How their doom of joy or woe</l> <l>Was determined ere their birth,</l> <l>'Neath this roof that droops to earth,</l> <l>By some love-tie here create,</l> <l>Or hereditary hate,</l> <l>Or some glance whose bliss or strife</l> <l>Was the climax of a life,</l> <l>Though its last dumb witness falls</l> <l>With the crumbling of these walls.</l></lg></div> 
+<div xml:id="c.20" type="chapter" n="20" subtype="chapter"> <pb xml:id="p.37" n="37"/> 
+<head>A song of days.</head> <lg type="stanza"><l>O radiant summer day,</l> <l>Whose air, sweet air, steals on from flowervto flower!</l> <l>Couldst thou not yield <num value="1">one</num> hour</l> <l>When the glad heart says, “This alone is <dateStruct><month>May</month></dateStruct>” ? </l></lg><lg type="stanza"><l>O passionate earthly love,</l> <l>Whose tremulous pulse beats on to life's best boon!</l> <l>Couldst thou not give <num value="1">one</num> noon,</l> <l><num value="1">One</num> noon of noons, all other bliss above?
+
+<milestone unit="sentence" n="57"/></l></lg><lg type="stanza"><l>O solemn human life,</l> <l>Whose nobler longings bid all conflict cease!</l> <l><persName n="Grant,,,,," xml:id="n0203.0020.00037.00018" reg="mostcommon:Grant,nomatch:0"><surname>Grant</surname></persName> us <num value="1">one</num> day's deep peace</l> <l>Beyond the utmost rumor of all strife.
+
+<milestone unit="sentence" n="58"/></l></lg><lg type="stanza"><l>For if no joy can stay,</l> <l>Let it at least yield <num value="1">one</num> consummate bloom,</l> <l>Or else there is no room</l> <l>To find delight in love, or life, or <dateStruct><month>May</month></dateStruct>. </l></lg></div> 
+<div xml:id="c.21" type="chapter" n="21" subtype="chapter"> <pb xml:id="p.38" n="38"/> 
+<head>Treasure in heaven.</head> <lg type="stanza"><l>If messengers we fear</l> <l>Should hither come to-day,</l> <l>And beckon me away</l> <l>From all that earth holds dear; </l></lg><lg type="stanza"><l>And I should trembling turn</l> <l>And cling to glowing life,</l> <l>Yet in the fiercest strife</l> <l>Feel heart and reason burn; </l></lg><lg type="stanza"><l>Then look into love's face,</l> <l>And see with anguish wild</l> <l>Our rosy little child</l> <l>With all her baby grace, </l></lg><lg type="stanza"><l>And stretch my feeble hand</l> <l>To keep the darling near,--</l> <l>My fainting soul would hear</l> <l>A voice from spirit-land.
+
+<milestone unit="sentence" n="59"/><pb xml:id="p.39" n="39"/> </l></lg><lg type="stanza"><l>That voice would set me free,</l> <l>With joy my pulses thrill,</l> <l>“Mamma, I need you still!</l> <l>Have you forgotten me?”</l></lg> 
+<p>
+
+<milestone unit="sentence" n="60"/></p><closer><signed>M. T. H.</signed> <dateline><dateStruct value="1883--"><year reg="1883">1883</year></dateStruct>.</dateline></closer></div> 
+<div xml:id="c.22" type="chapter" n="22" subtype="chapter"> <pb xml:id="p.40" n="40"/> 
+<head>Beneath the violets.</head> <lg type="stanza"><l>Safe 'neath the violets</l> <l>Rests the baby form;</l> <l>Every leaf that springtime sets</l> <l>Shields it from the storm.</l> <l>Peace to all vain regrets</l> <l>Mid this sunshine warm!
+
+<milestone unit="sentence" n="61"/></l></lg><lg type="stanza"><l>Shadows come and shadows go</l> <l>O'er the meadows wide;</l> <l>Twice each day, to and fro,</l> <l>Steals the river-tide;</l> <l>Each morn with sunrise-glow</l> <l>Gilds the green hillside.
+
+<milestone unit="sentence" n="62"/></l></lg><lg type="stanza"><l>Peace that no sorrow frets</l> <l>In our souls arise!</l> <l>Over all our wild regrets</l> <l>Arching, like the skies;</l> <l>While safe 'neath the violets</l> <l>Sleep the violet eyes.</l></lg> 
+<p>
+
+<milestone unit="sentence" n="63"/></p><closer><dateline><dateStruct value="1880--"><year reg="1880">1880</year></dateStruct>.</dateline></closer></div> 
+<div xml:id="c.23" type="chapter" n="23" subtype="chapter"> <pb xml:id="p.41" n="41"/> 
+<head><quote>The knock alphabet.</quote>
+
+<milestone unit="sentence" n="64"/></head> <quote rend="blockquote"> 
+<p><persName n="Kennan,Mister,,,," xml:id="n0203.0023.00041.00019" reg="mostcommon:Kennan,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Kennan</surname></persName> tells us that <persName n="Russian,,,,," xml:id="n0203.0023.00041.00020" reg="mostcommon:Russian,nomatch:0"><surname>Russian</surname></persName> prisoners converse with each other in a complex alphabet, indicated by knocking on the walls of their cells.</p></quote> <lg type="stanza"><l>Like prisoners, each within his own deep cell,</l> <l>We mortals talk together through a wall.</l> <l> “Was that low note indeed my brother's call?</l> <l>Or but a distant water-drop which fell?” </l></lg><lg type="stanza"><l>Yet to the straining ear each sound can tell</l> <l>Some woe that might the bravest heart appal,</l> <l>Or some high hope that triumphs over all:</l> <l> “Brother, I die to-morrow.” “Peace!” “All's well!” </l></lg><lg type="stanza"><l>Oh, could we once see fully, face to face,</l> <l>But <num value="1">one</num> of these our mates,--once speak aloud,</l> <l>Once meet him, heart to heart, in strong embrace,--</l></lg><lg type="stanza"><l>How would our days be glad, our hopes be proud!</l> <l>Perchance that wall is Life; and life being done,</l> <l>Death may unite these sundered cells in <num value="1">one</num>.</l></lg></div> 
+<div xml:id="c.24" type="chapter" n="24" subtype="chapter"> <pb xml:id="p.42" n="42"/> 
+<head>The reed immortal.</head> <l>Inscribed to the <rs>Boston Papyrus Club</rs>.</l> 
+<p>
+
+<milestone unit="sentence" n="65"/>[Pliny tells us that the <name>Egyptians</name> regarded the papyrus as an emblem of immortality.]</p> <lg type="stanza"><l>Reed of the stagnant waters,</l> <l>Far in the <rs>Eastern</rs> lands,</l> <l>Rearing thy peaceful daughters</l> <l>In sight of the storied sands!</l> <l>Armies and fleets defying</l> <l>Have swept by that quiet spot,</l> <l>But thine is the life undying,</l> <l>Theirs is the tale forgot.
+
+<milestone unit="sentence" n="66"/></l></lg><lg type="stanza"><l>The legions of <persName n="Alexander,,,,," xml:id="n0203.0024.00042.00021" reg="mostcommon:Alexander,nomatch:0"><surname>Alexander</surname></persName></l> <l>Are scattered and gone and fled,</l> <l>And the queen who ruled commander</l> <l>Over <persName><forename>Antony</forename></persName>, is dead; <pb xml:id="p.43" n="43"/></l> <l>The marching armies of <persName n="Cyrus,,,,," xml:id="n0203.0024.00043.00022" reg="mostcommon:Cyrus,nomatch:0"><surname>Cyrus</surname></persName></l> <l>Have vanished in earth again,</l> <l>And only the frail papyrus</l> <l>Still reigns o'er the sons of men. </l></lg><lg type="stanza"><l>Papyrus!
+
+<milestone unit="sentence" n="67"/>O reed immortal,</l> <l>Survivor of all renown!</l> <l>Thou heed'st not the solemn portal</l> <l>Where heroes and kings go down.</l> <l>The monarchs of generations</l> <l>Have died into dust away;</l> <l>O reed that outlivest nations,</l> <l>Be our symbol of strength to-day!</l></lg></div> 
+<div xml:id="c.25" type="chapter" n="25" subtype="chapter"> <pb xml:id="p.44" n="44"/> 
+<head><persName n="Craigie,,Dame,,," xml:id="n0203.0025.00044.00023" reg="default:Craigie,Dame,,,"><forename>Dame</forename> <surname>Craigie</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="68"/>[Lines read at the <rs>Longfellow Memorial Reading</rs>, <placeName key="tgn,7013528;tgn,7013527;tgn,7011980;tgn,7010874;tgn,2120866;tgn,2078704" n="0.000 000000.0000 placename;tgn,7013528;cambridge city, wayne, indiana,Wayne,Indiana,United States,North and Central America;0.000 000000.0000 placename;tgn,7013527;cambridge, middlesex, massachusetts,Middlesex,Massachusetts,United States,North and Central America;0.000 000000.0000 placename;tgn,7011980;cambridgeshire,england,united kingdom,europe,England,United Kingdom,Europe;0.000 000000.0000 placename;tgn,7010874;cambridge,cambridgeshire,england,united kingdom,europe,Cambridgeshire,England,United Kingdom,Europe;0.000 000000.0000 placename;tgn,2120866;cambridge, wisconsin,Dane,Wisconsin,United States,North and Central America;0.000 000000.0000 placename;tgn,2078704;cambridge, guernsey, ohio,Guernsey,Ohio,United States,North and Central America" reg="cambridge city, wayne, indiana,Wayne,Indiana,United States,North and Central America;cambridge, middlesex, massachusetts,Middlesex,Massachusetts,United States,North and Central America;cambridgeshire,england,united kingdom,europe,England,United Kingdom,Europe;cambridge,cambridgeshire,england,united kingdom,europe,Cambridgeshire,England,United Kingdom,Europe;cambridge, wisconsin,Dane,Wisconsin,United States,North and Central America;cambridge, guernsey, ohio,Guernsey,Ohio,United States,North and Central America">Cambridge</placeName>,</p> <l><dateStruct value="1888-02-27"><month reg="02">Feb.</month> <day reg="27">27</day>, <year reg="1888">1888</year></dateStruct>.]</l> <lg type="stanza"><l>in childish <placeName key="tgn,7013528;tgn,7013527;tgn,7011980;tgn,7010874;tgn,2120866;tgn,2078704" n="0.000 000000.0000 placename;tgn,7013528;cambridge city, wayne, indiana,Wayne,Indiana,United States,North and Central America;0.000 000000.0000 placename;tgn,7013527;cambridge, middlesex, massachusetts,Middlesex,Massachusetts,United States,North and Central America;0.000 000000.0000 placename;tgn,7011980;cambridgeshire,england,united kingdom,europe,England,United Kingdom,Europe;0.000 000000.0000 placename;tgn,7010874;cambridge,cambridgeshire,england,united kingdom,europe,Cambridgeshire,England,United Kingdom,Europe;0.000 000000.0000 placename;tgn,2120866;cambridge, wisconsin,Dane,Wisconsin,United States,North and Central America;0.000 000000.0000 placename;tgn,2078704;cambridge, guernsey, ohio,Guernsey,Ohio,United States,North and Central America" reg="cambridge city, wayne, indiana,Wayne,Indiana,United States,North and Central America;cambridge, middlesex, massachusetts,Middlesex,Massachusetts,United States,North and Central America;cambridgeshire,england,united kingdom,europe,England,United Kingdom,Europe;cambridge,cambridgeshire,england,united kingdom,europe,Cambridgeshire,England,United Kingdom,Europe;cambridge, wisconsin,Dane,Wisconsin,United States,North and Central America;cambridge, guernsey, ohio,Guernsey,Ohio,United States,North and Central America">Cambridge</placeName> days, now long ago,</l> <l>When pacing schoolward in the morning hours,</l> <l>I passed the stately homes of <placeName reg="Tory Row">Tory Row</placeName></l> <l>And paused to see <persName n="Craigie,,Dame,,," xml:id="n0203.0025.00044.00024" reg="default:Craigie,Dame,,,"><forename>Dame</forename> <surname>Craigie</surname></persName> tend her flowers.
+
+<milestone unit="sentence" n="69"/></l></lg><lg type="stanza"><l>Framed in the elm-tree boughs before her door</l> <l>The old escutcheon of our town was seen,--</l> <l>Canker-worms <hi rend="italics">pendent</hi>, yellowing leaves in <hi rend="italics">or</hi>,</l> <l>School-boys <hi rend="italics">regardant</hi>, on a field grass-green.
+
+<milestone unit="sentence" n="70"/></l></lg><lg type="stanza"><l><persName n="Craigie,,Dame,,," xml:id="n0203.0025.00044.00025" reg="default:Craigie,Dame,,,"><forename>Dame</forename> <surname>Craigie</surname></persName>, with <persName n="Spinoza,,,,," xml:id="n0203.0025.00044.00026" reg="mostcommon:Spinoza,nomatch:0"><surname>Spinoza</surname></persName> in her hand,</l> <l>Was once heard murmuring to the insect crew,</l> <l> “I will not harm you, little restless band!</l> <l>For what are mortal men but worms, like you?” <pb xml:id="p.45" n="45"/> </l></lg><lg type="stanza"><l>The trees are gone; <persName n="Craigie,,Dame,,," xml:id="n0203.0025.00045.00027" reg="default:Craigie,Dame,,,"><forename>Dame</forename> <surname>Craigie</surname></persName> too is gone,</l> <l>Her tongue long silent, and her turban furled;</l> <l>Yet 'neath her roof thought's silk-worms still spun on,</l> <l>Whose sumptuous fabric clothed a barren world.
+
+<milestone unit="sentence" n="71"/></l></lg></div> 
+<div xml:id="c.26" type="chapter" n="26" subtype="chapter"> <pb xml:id="p.46" n="46"/> 
+<head>Gifts.</head> <lg type="stanza"><l>A flawless pearl, snatched from an ocean cave,</l> <l>Remote from light or air,</l> <l>And by the mad caress of stormy wave</l> <l>Made but more pure and fair; </l></lg><lg type="stanza"><l>A diamond, wrested from earth's hidden zone,</l> <l>To whose recesses deep</l> <l>It clung, and bravely flashed a light that shone</l> <l>Where dusky shadows creep; </l></lg><lg type="stanza"><l>A sapphire, in whose heart the tender rays</l> <l>Of summer skies had met;</l> <l>A ruby, glowing with the ardent blaze</l> <l>Of suns that never set,--<pb xml:id="p.47" n="47"/> </l></lg><lg type="stanza"><l>These priceless jewels shone, <num value="1">one</num> happy day,</l> <l>On my bewildered sight:</l> <l> “We bring from earth, sea, sky,” they seemed to say,</l> <l> “Love's richness and delight.” </l></lg><lg type="stanza"><l> “For me?” I trembling cried. “Thou need'st not dread,”</l> <l>Sang heavenly voices sweet;</l> <l>And unseen hands placed on my lowly head</l> <l>This crown; for angels meet.</l></lg> 
+<p>
+
+<milestone unit="sentence" n="72"/></p><closer><signed>M. T. H.</signed></closer></div> 
+<div xml:id="c.27" type="chapter" n="27" subtype="chapter"> <pb xml:id="p.48" n="48"/> 
+<head>Dwelling-places.</head> <lg type="stanza"><l>Where is thy home, O little fair head,</l> <l>With thy sunny hair, on earth's clouded way?</l> <l> “On my lover's breast; and I take my rest,</l> <l>And I know no terror by night or day.” </l></lg><lg type="stanza"><l>Where is thy home, O little fair heart,</l> <l>With thy joyous hopes in life's shadows dim?</l> <l> “In my lover's heart; and we never part,</l> <l>For he carries me round the world with him.” </l></lg><lg type="stanza"><l>Where is thy home, O little fair soul,</l> <l>So brave 'mid the old world's sorrow and care?</l> <l> “My home is in heaven.
+
+<milestone unit="sentence" n="73"/>To me 't is given</l> <l>To win my lover to meet me there.” </l></lg></div> 
+<div xml:id="c.28" type="chapter" n="28" subtype="chapter"> <pb xml:id="p.49" n="49"/> 
+<head>To the memory of H. H.</head> <lg type="stanza"><l>O soul of fire within a woman's clay!</l> <l>Lifting with slender hands a race's wrong,</l> <l>Whose mute appeal hushed all thine early song,</l> <l>And taught thy passionate heart the loftier way,--</l></lg><lg type="stanza"><l>What shall thy place be in the realm of day?</l> <l>What disembodied world can hold thee long,</l> <l>Binding thy turbulent pulse with spell more strong?</l> <l>Dwell'st thou, with wit and jest, where poets may, </l></lg><lg type="stanza"><l>Or with ethereal women (born of air</l> <l>And poet's dreams) dost live in ecstasy,</l> <l>Teach new love-thoughts to <persName n="Shakespeare,,,,," xml:id="n0203.0028.00049.00028" reg="mostcommon:Shakespeare,nomatch:0"><surname>Shakespeare</surname></persName>'s Juliet fair, </l></lg><lg type="stanza"><l>New moods to <persName n="Cleopatra,,,,," xml:id="n0203.0028.00049.00029" reg="mostcommon:Cleopatra,nomatch:0"><surname>Cleopatra</surname></persName>?
+
+<milestone unit="sentence" n="74"/>Then, set free,</l> <l>The woes of <persName n="Shelley,,,,," xml:id="n0203.0028.00049.00030" reg="mostcommon:Shelley,nomatch:0"><surname>Shelley</surname></persName>'s Helen thou dost share,</l> <l>Or weep with poor <persName n="Rossetti,,,,," xml:id="n0203.0028.00049.00031" reg="mostcommon:Rossetti,nomatch:0"><surname>Rossetti</surname></persName>'s Rose <persName><forename>Mary</forename></persName>.</l></lg></div> 
+<div xml:id="c.29" type="chapter" n="29" subtype="chapter"> <pb xml:id="p.50" n="50"/> 
+<head>Venus Multiformis.</head> <lg type="stanza"><l><num value="3">Three</num> men on a broken deck-plank,</l> <l>With the reef and its roar ahead,</l> <l>Floated on, through a fair <dateStruct><month>June</month></dateStruct> morning,</l> <l>To a doom that was sure and dread.
+
+<milestone unit="sentence" n="75"/></l></lg><lg type="stanza"><l>Said <num value="1">one</num>, “My years have been wasted</l> <l>On a woman's terrible charms;</l> <l>But oh!
+
+<milestone unit="sentence" n="76"/>to see death draw near me,</l> <l>And to die outside of her arms!” </l></lg><lg type="stanza"><l>Said another, “Through surge and through tempest</l> <l>My eyes are fixed on her face;</l> <l>I forget the tumult of ocean</l> <l>In the joy of her last embrace.” </l></lg><lg type="stanza"><l>Said the <num value="3" type="ordinal">third</num>, “I can die unflinching</l> <l>Wherever my fortune lies;</l> <l>But oh!
+
+<milestone unit="sentence" n="77"/>her endless bereavement,</l> <l>And the rivers of tears from her eyes!” <pb xml:id="p.51" n="51"/> </l></lg><lg type="stanza"><l>While the woman they all had worshipped</l> <l>Walked out from the gray church-door</l> <l>Amid smiles and greetings and music,</l> <l>And followed by prayers of the poor.</l></lg></div> 
+<div xml:id="c.30" type="chapter" n="30" subtype="chapter"> <pb xml:id="p.52" n="52"/> 
+<head>To <persName n="Whittier,,John,Greenleaf,," xml:id="n0203.0030.00052.00032" reg="default:Whittier,John,Greenleaf,,"><forename>John</forename> <forename>Greenleaf</forename> <surname>Whittier</surname></persName>.</head> <lg type="stanza"><l>At dawn of manhood came a voice to me</l> <l>That said to startled conscience, “Sleep no more!”</l> <l>Like some loud cry that peals from door to door</l> <l>It roused a generation; and I see,</l> <l>Now looking back through years of memory,</l> <l>That all of school or college, all the lore</l> <l>Of worldly maxims, all the statesman's store,</l> <l>Were nought beside that voice's mastery.</l> <l>If any good to me or from me came</l> <l>Through life, and if no influence less divine</l> <l>Has quite usurped the place of duty's flame;</l> <l>If aught rose worthy in this heart of mine,</l> <l>Aught that, viewed backward, wears no shade of shame,</l> <l>Bless thee, old friend!
+
+<milestone unit="sentence" n="78"/>for that high call was thine.</l></lg> 
+<p>
+
+<milestone unit="sentence" n="79"/></p><closer><dateline><placeName key="tgn,7013528;tgn,7013527;tgn,7011980;tgn,7010874;tgn,2120866;tgn,2078704" n="0.000 000000.0000 placename;tgn,7013528;cambridge city, wayne, indiana,Wayne,Indiana,United States,North and Central America;0.000 000000.0000 placename;tgn,7013527;cambridge, middlesex, massachusetts,Middlesex,Massachusetts,United States,North and Central America;0.000 000000.0000 placename;tgn,7011980;cambridgeshire,england,united kingdom,europe,England,United Kingdom,Europe;0.000 000000.0000 placename;tgn,7010874;cambridge,cambridgeshire,england,united kingdom,europe,Cambridgeshire,England,United Kingdom,Europe;0.000 000000.0000 placename;tgn,2120866;cambridge, wisconsin,Dane,Wisconsin,United States,North and Central America;0.000 000000.0000 placename;tgn,2078704;cambridge, guernsey, ohio,Guernsey,Ohio,United States,North and Central America" reg="cambridge city, wayne, indiana,Wayne,Indiana,United States,North and Central America;cambridge, middlesex, massachusetts,Middlesex,Massachusetts,United States,North and Central America;cambridgeshire,england,united kingdom,europe,England,United Kingdom,Europe;cambridge,cambridgeshire,england,united kingdom,europe,Cambridgeshire,England,United Kingdom,Europe;cambridge, wisconsin,Dane,Wisconsin,United States,North and Central America;cambridge, guernsey, ohio,Guernsey,Ohio,United States,North and Central America">Cambridge</placeName>, <dateStruct value="1887-12-17"><month reg="12">Dec.</month> <day reg="17">17</day>, <year reg="1887">1887</year></dateStruct>.</dateline></closer></div> 
+<div xml:id="c.31" type="chapter" n="31" subtype="chapter"> <pb xml:id="p.53" n="53"/> 
+<head>Prologue.</head> 
+<p>
+
+<milestone unit="sentence" n="80"/>[Recited by a young lady at the <num value="1" type="ordinal">first</num> performance of the <rs type="place">Vassall House</rs> Dramatic Club, <placeName reg="Cambridge, Middlesex, Massachusetts" key="tgn,7013527">Cambridge, Mass.</placeName>, <dateStruct value="1882-12-08"><month reg="12">Dec.</month> <day reg="8">8</day>, <year reg="1882">1882</year></dateStruct>.]</p> <l>Beneath this roof the stately <persName n="Vassall,,,,," xml:id="n0203.0031.00053.00033" reg="mostcommon:Vassall,nomatch:0"><surname>Vassall</surname></persName> race</l> <l>Once swept these halls in velvet and point-lace,</l> <l>Sedately welcomed many an English lord,</l> <l>And met him with the snuff-box, not the sword.</l> <l>A <measure n="100years" type="date">hundred years</measure> are passed.
+
+<milestone unit="sentence" n="81"/>We fill the scene</l> <l>With humbler graces, less chivalric mien.</l> <l>Yet you may see upon our mimic stage</l> <l>The show and semblance of that earlier age;</l> <l>The old brocades may veil some modern form</l> <l>Of living beauty and of heart still warm;</l> <l>And we, the youths and maidens of to-day,</l> <l>Will be your vassals if you'll like our play.
+
+<milestone unit="sentence" n="82"/></l></div> 
+<div xml:id="c.32" type="chapter" n="32" subtype="chapter"> <pb xml:id="p.54" n="54"/> 
+<head><persName n="Alston,Corporal,,,," xml:id="n0203.0032.00054.00034" reg="mostcommon:Alston,Old Adam,,,:1"><roleName n="Corporal">Corporal</roleName> <surname>Alston</surname></persName>'s discourse.</head> <lg type="stanza"><l><persName n="Swift,,,,," xml:id="n0203.0032.00054.00035" reg="mostcommon:Swift,nomatch:0"><surname>Swift</surname></persName> shooting down that Southern river's bends,</l> <l>Like logs in freshet, swept our steamers on;</l> <l>Their midships lumbered up with useless bales,</l> <l>Old household stuffs and huddled clothes in rags,</l> <l>And sombre groups of sleeping negroes,--waifs</l> <l>Just taken on board from dug-outs, timbers, rafts,</l> <l>Or off the rice-fields that spread either side,</l> <l><num value="1">One</num> vast green chequer-work of dyke and pool.</l> <l>Here the swart mothers and their babies dozed 'Mid all their earthly goods; and here and there</l> <l>A silent sentinel watched a silent form</l> <l>Wrapped in a blanket, nerveless, pulseless, cold,</l> <l>Nigh to a dull red smear upon the plank,</l> <l>Or splintered shot-hole in our ship's stout side.
+
+<milestone unit="sentence" n="83"/></l></lg><lg type="stanza"><l>But I, going past them to the forward deck,</l> <l>Saw only squads of dusky soldiers, couched <pb xml:id="p.55" n="55"/></l> <l>Like some vast caravan, beneath the moon,</l> <l>A breathing mass of black and ivory;</l> <l>And o'er them all a high, shrill voice pealed forth</l> <l>The burden of exhortation.
+
+<milestone unit="sentence" n="84"/>I knew it well,</l> <l><persName n="Alston,,Old Adam,,," xml:id="n0203.0032.00055.00036" reg="default:Alston,Old Adam,,,"><forename>Old Adam</forename> <surname>Alston</surname></persName>'s voice; and thus it spoke: </l></lg><lg type="stanza"><l>”When I heard de bombshell screamina troo de woods</l> <l>Like de Judgment Day, I said widin myself,</l> <l>‘Suppose my head been took clean off dis night,</l> <l>Dey couldn't put my soul in de torments.
+
+<milestone unit="sentence" n="85"/>No,</l> <l>No!
+
+<milestone unit="sentence" n="86"/>not perceps I hab for an enemy</l> <l>De Mos' High God!’ And when de bullets come,</l> <l>Ho!
+
+<milestone unit="sentence" n="87"/>dem dar bullets a-swishina across de deck,</l> <l>I cried aloud, ‘Lord, help my congregation!</l> <l>Boys, load and fire!’” </l></lg><lg type="stanza"><l>Then rang the strong <persName n="Amens,,,,," xml:id="n0203.0032.00055.00037" reg="mostcommon:Amens,nomatch:0"><surname>Amens</surname></persName></l> <l>And bursts of laughter from glad <placeName key="tgn,7001242" n="1.000 10" reg="Africa,">African</placeName> lungs;</l> <l>Then all was still but <num value="1">one</num> blithe mocking-bird</l> <l>High on the bank, and that strange ominous fowl</l> <l>The chuck-will's-widow, and our engine's throb;</l> <l>While Southern fire-flies, twice as large as ours,</l> <l>Swarmed from the meadows to the tree-tops high</l> <l>And hung there, clustering Pleiads, earthly stars.</l></lg></div> 
+<div xml:id="c.33" type="chapter" n="33" subtype="chapter"> <pb xml:id="p.56" n="56"/> 
+<head>Waiting for the bugle.</head> 
+<p>
+
+<milestone unit="sentence" n="88"/>[Read before the <rs>Grand Army Post</rs> (<num value="56">56</num>) of veteran soldiers, at</p> <l><placeName reg="Cambridge, Middlesex, Massachusetts" key="tgn,7013527">Cambridge, Mass.</placeName>, <dateStruct value="1888-05-25"><month reg="05">May</month> <day reg="25">25</day>, <year reg="1888">1888</year></dateStruct>.]</l> <lg type="couplet"><lg type="stanza"><l>We wait for the bugle; the night-dews are cold,</l> <l>The limbs of the soldiers feel jaded and old,</l> <l>The field of our bivouac is windy and bare,</l> <l>There is lead in our joints, there is frost in our hair,</l> <l>The future is veiled and its fortunes unknown,</l> <l>As we lie with hushed breath till the bugle is blown.
+
+<milestone unit="sentence" n="89"/></l></lg><lg type="stanza"><l>At the sound of that bugle each comrade shall spring</l> <l>Like an arrow released from the strain of the string;</l> <l>The courage, the impulse of youth shall come back</l> <l>To banish the chill of the drear bivouac, <pb xml:id="p.57" n="57"/></l> <l>And sorrows and losses and cares fade away</l> <l>When that life-giving signal proclaims the new day. </l></lg><lg type="stanza"><l>Though the bivouac of age may put ice in our veins,</l> <l>And no fibre of steel in our sinew remains;</l> <l>Though the comrades of yesterday's march are not here,</l> <l>And the sunlight seems pale and the branches are sere,--</l> <l>Though the sound of our cheering dies down to a moan,</l> <l>We shall find our lost youth when the bugle is blown.</l></lg></lg></div> 
+<div xml:id="c.34" type="chapter" n="34" subtype="chapter"> <pb xml:id="p.58" n="58"/> 
+<head>Astra castra.</head> <lg type="couplet"><l>Somewhere betwixt me and the farthest star,</l> <l>Or else beyond all worlds, all space, all thought,</l> <l>Dwells that freed spirit, now transformed and taught</l> <l>To move in orbits where the immortals are.</l> <l>Does she rejoice or mourn?
+
+<milestone unit="sentence" n="90"/>Perchance from far</l> <l>Some earthly errand she but now has sought,</l> <l>By instantaneous ways among us brought,</l> <l>Ways to which night and distance yield no bar.</l> <l>Could we but reach and touch that wayward will</l> <l>On earth so hard to touch, would she be found</l> <l>Controlled or yet impetuous, free or bound,</l> <l>Tameless as ocean, or serene and still?</l> <l>If in her heart <num value="1">one</num> eager impulse stirs,</l> <l>Could heaven itself calm that wild mood of hers?
+
+<milestone unit="sentence" n="91"/></l></lg></div> 
+<div xml:id="c.35" type="chapter" n="35" subtype="chapter"> <pb xml:id="p.59" n="59"/> 
+<head>The last <placeName key="tgn,3000935;tgn,2118187;tgn,2065759;tgn,2029544" n="0.000 000000.0000 placename;tgn,3000935;Monte Palatino,Roma,Roma,Lazio,Italia,Europe,Roma,Roma,Lazio,Italia,Europe;0.000 000000.0000 placename;tgn,2118187;Fairmont, Marion, West Virginia,Marion,West Virginia,United States,North and Central America;0.000 000000.0000 placename;tgn,2065759;Palatine, Salem, New Jersey,Salem,New Jersey,United States,North and Central America;0.000 000000.0000 placename;tgn,2029544;Palatine, Cook, Illinois,Cook,Illinois,United States,North and Central America" reg="Monte Palatino,Roma,Roma,Lazio,Italia,Europe,Roma,Roma,Lazio,Italia,Europe;Fairmont, Marion, West Virginia,Marion,West Virginia,United States,North and Central America;Palatine, Salem, New Jersey,Salem,New Jersey,United States,North and Central America;Palatine, Cook, Illinois,Cook,Illinois,United States,North and Central America">Palatine</placeName> light.</head> 
+<p>
+
+<milestone unit="sentence" n="92"/><quote rend="blockquote"> 
+<p>[<num value="1">One</num> of the best-known traditions of our <placeName reg="Atlantic coast">Atlantic coast</placeName> is that of the <quote><placeName key="tgn,3000935;tgn,2118187;tgn,2065759;tgn,2029544" n="0.000 000000.0000 placename;tgn,3000935;Monte Palatino,Roma,Roma,Lazio,Italia,Europe,Roma,Roma,Lazio,Italia,Europe;0.000 000000.0000 placename;tgn,2118187;Fairmont, Marion, West Virginia,Marion,West Virginia,United States,North and Central America;0.000 000000.0000 placename;tgn,2065759;Palatine, Salem, New Jersey,Salem,New Jersey,United States,North and Central America;0.000 000000.0000 placename;tgn,2029544;Palatine, Cook, Illinois,Cook,Illinois,United States,North and Central America" reg="Monte Palatino,Roma,Roma,Lazio,Italia,Europe,Roma,Roma,Lazio,Italia,Europe;Fairmont, Marion, West Virginia,Marion,West Virginia,United States,North and Central America;Palatine, Salem, New Jersey,Salem,New Jersey,United States,North and Central America;Palatine, Cook, Illinois,Cook,Illinois,United States,North and Central America">Palatine</placeName> light,</quote> popularly associated with the wreck, off</p> <l><placeName key="tgn,2180279;tgn,2180278;tgn,2180277;tgn,2180276;tgn,2094837;tgn,1006542" n="0.000 000000.0000 placename;tgn,2180279;Block Island, Pike, Missouri,Pike,Missouri,United States,North and Central America;0.000 000000.0000 placename;tgn,2180278;Block Island, De Kalb, Indiana,De Kalb,Indiana,United States,North and Central America;0.000 000000.0000 placename;tgn,2180277;Block Island, Valdez-Cordova, Alaska,Valdez-Cordova,Alaska,United States,North and Central America;0.000 000000.0000 placename;tgn,2180276;Block Island, Prince of Wales-Outer Ketchikan, Alaska,Prince of Wales-Outer Ketchikan,Alaska,United States,North and Central America;0.000 000000.0000 placename;tgn,2094837;New Shoreham, Block Island, Washington,Block Island,Washington,Rhode Island,United States,North and Central America;0.000 000000.0000 placename;tgn,1006542;Block Island, Washington, Rhode Island,Washington,Rhode Island,United States,North and Central America" reg="Block Island, Pike, Missouri,Pike,Missouri,United States,North and Central America;Block Island, De Kalb, Indiana,De Kalb,Indiana,United States,North and Central America;Block Island, Valdez-Cordova, Alaska,Valdez-Cordova,Alaska,United States,North and Central America;Block Island, Prince of Wales-Outer Ketchikan, Alaska,Prince of Wales-Outer Ketchikan,Alaska,United States,North and Central America;New Shoreham, Block Island, Washington,Block Island,Washington,Rhode Island,United States,North and Central America;Block Island, Washington, Rhode Island,Washington,Rhode Island,United States,North and Central America">Block Island</placeName> in <dateStruct value="1720--"><year reg="1720">1720</year></dateStruct>, of a ship bearing emigrants from the</l> <l>German Palatinates.
+
+<milestone unit="sentence" n="93"/>The light is reported as appearing at irregular intervals for more than a century, and was last seen in <dateStruct value="1832--"><year reg="1832">1832</year></dateStruct>.
+
+<milestone unit="sentence" n="94"/>Its appearance is minutely described by an eye-witness, a resident physician, who saw it <dateStruct value="1810-12-20"><month reg="12">Dec.</month> <day reg="20">20</day>, <year reg="1810">1810</year></dateStruct>.
+
+<milestone unit="sentence" n="95"/>See <bibl><author><persName n="Sheffield,,,,," xml:id="n0203.0035.00059.00038" reg="mostcommon:Sheffield,nomatch:0"><surname>Sheffield</surname></persName></author>: <title><placeName key="tgn,2180279;tgn,2180278;tgn,2180277;tgn,2180276;tgn,2094837;tgn,1006542" n="0.000 000000.0000 placename;tgn,2180279;Block Island, Pike, Missouri,Pike,Missouri,United States,North and Central America;0.000 000000.0000 placename;tgn,2180278;Block Island, De Kalb, Indiana,De Kalb,Indiana,United States,North and Central America;0.000 000000.0000 placename;tgn,2180277;Block Island, Valdez-Cordova, Alaska,Valdez-Cordova,Alaska,United States,North and Central America;0.000 000000.0000 placename;tgn,2180276;Block Island, Prince of Wales-Outer Ketchikan, Alaska,Prince of Wales-Outer Ketchikan,Alaska,United States,North and Central America;0.000 000000.0000 placename;tgn,2094837;New Shoreham, Block Island, Washington,Block Island,Washington,Rhode Island,United States,North and Central America;0.000 000000.0000 placename;tgn,1006542;Block Island, Washington, Rhode Island,Washington,Rhode Island,United States,North and Central America" reg="Block Island, Pike, Missouri,Pike,Missouri,United States,North and Central America;Block Island, De Kalb, Indiana,De Kalb,Indiana,United States,North and Central America;Block Island, Valdez-Cordova, Alaska,Valdez-Cordova,Alaska,United States,North and Central America;Block Island, Prince of Wales-Outer Ketchikan, Alaska,Prince of Wales-Outer Ketchikan,Alaska,United States,North and Central America;New Shoreham, Block Island, Washington,Block Island,Washington,Rhode Island,United States,North and Central America;Block Island, Washington, Rhode Island,Washington,Rhode Island,United States,North and Central America">Block Island</placeName></title>, <ref n="page 42">p. 42</ref>.]</bibl></l></quote> </p> <lg type="couplet"><lg type="stanza"><l><persName n="Harlakenden,,Roger,,," xml:id="n0203.0035.00059.00039" reg="default:Harlakenden,Roger,,,"><forename>Roger</forename> <surname>Harlakenden</surname></persName> climbed the hill</l> <l>Where no other fisherman dared to go;</l> <l>The east-wind was blowing bitter and chill,</l> <l>Sheer was the cliff and the footing slow;</l> <l>Handgrip on rock and knee on the sod,--</l> <l>At last on the headland's height he trod.
+
+<milestone unit="sentence" n="96"/></l></lg><lg type="stanza"><l>In the days of the pirates <num value="3">three</num> footpaths led</l> <l>To that dizzy cliff; but now there was none</l> <l>Save for the fox, the goat, and the bird:</l> <l><num value="1">One</num> path o'er the seaweeds <rs type="color">green</rs> and <rs type="color">red</rs>;</l> <l>From high-water mark to the cave-mouth, <num value="1">one</num>;</l> <l>And thence o'er the <rs type="place">Pirates' Hill</rs>, the <num value="3" type="ordinal">third</num>. <pb xml:id="p.60" n="60"/> </l></lg><lg type="stanza"><l><persName n="Harlakenden,,Roger,,," xml:id="n0203.0035.00060.00040" reg="default:Harlakenden,Roger,,,"><forename>Roger</forename> <surname>Harlakenden</surname></persName> threw him down,</l> <l>Breathless at last, on the thin dry grass;</l> <l>He could see his dory that glistened brown,</l> <l>He could see the men and the women pass,</l> <l>Tending the fish-flakes, from door to door;</l> <l>And then he looked off to the ocean-floor.
+
+<milestone unit="sentence" n="97"/></l></lg><lg type="stanza"><l>Like a land-locked haven in sight of the sea</l> <l>The life of the twelvemonth past was spread;</l> <l>Peaceful contentment of heart and head</l> <l>Since the <rs>Lord</rs> had found him, from sin set free.</l> <l>Yet sometimes the thought of his wilder years</l> <l>Rushed back upon him, teeming with ill,--</l> <l>Wicked joys and delicious fears;</l> <l>And then he climbed to the <rs type="place">Pirates' Hill</rs>. </l></lg><lg type="stanza"><l>Was it worth the strength of a man like him</l> <l>To dwell by the bay, with a calm sweet wife;</l> <l>No stir in the blood, no peril of limb,</l> <l>No wild, fierce joy of the coming strife?</l> <l>Just to clean his boat and to haul the seines,</l> <l>To cook the fish by the drift-wood fire,</l> <l>To play with his boy through the autumn rains,</l> <l>And on Sunday sing with his wife in the choir?
+
+<milestone unit="sentence" n="98"/><pb xml:id="p.61" n="61"/> </l></lg><lg type="stanza"><l>Straight from the far horizon's line</l> <l>The east-wind blew; the smell of the brine</l> <l>Banished the months of weary peace,</l> <l>And bade this desolate torpor cease.</l> <l>It was almost sunset; there was the sea.</l> <l>Only a night's hard pull, and he</l> <l>With his dory made fast to a whale-ship's side</l> <l>Could rock once more on the ocean wide.
+
+<milestone unit="sentence" n="99"/></l></lg><lg type="stanza"><l>What to him the fare or the men?</l> <l>The ruder the better.
+
+<milestone unit="sentence" n="100"/>He held his own</l> <l>Still with the roughest.
+
+<milestone unit="sentence" n="101"/><name n="God" type="God">God</name>! how he longed</l> <l>To be once more where the sailors thronged,</l> <l>Or the old-time wreckers might shout again</l> <l>On some cruel isle of the middle zone!
+
+<milestone unit="sentence" n="102"/></l></lg><lg type="stanza"><l>See! with the sunset came once more</l> <l>The Palatine Light, the ship on fire!</l> <l>Each generation, son and sire,</l> <l>Had watched it gleam, since the current bore</l> <l>The fated ship to a merciless wreck,</l> <l>With the crew in sight on the blazing deck.
+
+<milestone unit="sentence" n="103"/></l></lg><lg type="stanza"><l>There was the phantom now!
+
+<milestone unit="sentence" n="104"/>the flame</l> <l>Climbed stay and halyard to pennon-staff!
+
+<milestone unit="sentence" n="105"/><pb xml:id="p.62" n="62"/></l> <l>There was neither pity nor joy nor shame</l> <l>In <persName n="Harlakenden,,Roger,,," xml:id="n0203.0035.00062.00041" reg="default:Harlakenden,Roger,,,"><forename>Roger</forename> <surname>Harlakenden</surname></persName>'s bitter laugh.</l> <l> “Let it burn!” he said; “let the ocean roar!</l> <l>I have looked on burning ships before.
+
+<milestone unit="sentence" n="106"/></l></lg><lg type="stanza"><l>“I will watch that light with a steadfast eye</l> <l>From this moment out, till the sun goes down;</l> <l>If it lasts till the last red sunbeam,!</l> <l>Will be quit this night of the cursed town!”</l> <l>Then he tried to think of his wife and child;</l> <l>But his lips grew stern, and the wind was wild.
+
+<milestone unit="sentence" n="107"/></l></lg><lg type="stanza"><l>Suddenly met him the startled face</l> <l>Of a boy who had climbed to that dizzy place,--</l> <l>Half-triumphant and yet half-scared,</l> <l>But daring whatever his father dared.</l> <l>The fisherman trembled, 'twixt wrath and fright.</l> <l>Terror next in that young voice rang:</l> <l> “Father!” it cried.
+
+<milestone unit="sentence" n="108"/><persName n="Harlakenden,,,,," xml:id="n0203.0035.00062.00042" reg="nearbymention:Harlakenden,Roger,,,"><surname>Harlakenden</surname></persName> sprang--</l> <l>Out went the gleam of the <rs>Palatine Light</rs>!
+
+<milestone unit="sentence" n="109"/></l></lg><lg type="stanza"><l>He clasped the child in his strong embrace,</l> <l>He thrust back the curls from the rosy face;</l> <l>Then faded the last bright flush of day, <pb xml:id="p.63" n="63"/> </l></lg><lg type="stanza"><l>A shadow fell on the ocean-swells,</l> <l>And soft from the mainland dim and gray</l> <l>Came the sweet, far sound of the <name>Christmas</name> bells.</l> <l>Never since then has a sailor seen</l> <l>The lurid wraith of the <rs>Palatine</rs>.</l></lg></lg></div> 
+<div xml:id="c.36" type="chapter" n="36" subtype="chapter"> <pb xml:id="p.64" n="64"/> 
+<head>Memorial ode.</head> 
+<p>
+
+<milestone unit="sentence" n="110"/>[Read before the <rs>Grand Army Posts</rs> of <placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston, Mass.</placeName>, on</p> <l>Memorial <time>Day</time>, <dateStruct value="1881-05-30"><month reg="05">May</month> <day reg="30">30</day>, <year reg="1881">1881</year></dateStruct>, by <persName n="Riddle,Mister,George,,," xml:id="n0203.0036.00064.00043" reg="default:Riddle,George,,,"><roleName n="Mister">Mr.</roleName> <forename>George</forename> <surname>Riddle</surname></persName>.]</l> <lg type="stanza"> 
+<head>I.</head> <l>Oy to the <num value="3">three</num>-hilled city!--for each year</l> <l>Heals something of the grief this day records;</l> <l>Each year the plaintive lay</l> <l>Sounds yet more far away,</l> <l>And strains of triumph suit memorial words.</l> <l>The old-time pang becomes a thrill of joy;</l> <l>Again we turn the page</l> <l>Of our heroic age,</l> <l>And read anew the tale of every patriot boy.</l> <l>A modest courage was their simple wont,</l> <l>The dauntless youths who grew to manhood here:</l> <l><persName n="Putnam,,,,," xml:id="n0203.0036.00064.00044" reg="mostcommon:Putnam,nomatch:0"><surname>Putnam</surname></persName> and <persName n="Savage,,,,," xml:id="n0203.0036.00064.00045" reg="mostcommon:Savage,nomatch:0"><surname>Savage</surname></persName>, <persName n="Perkins,,,,," xml:id="n0203.0036.00064.00046" reg="mostcommon:Perkins,nomatch:0"><surname>Perkins</surname></persName> and <persName n="Revere,,,,," xml:id="n0203.0036.00064.00047" reg="mostcommon:Revere,nomatch:0"><surname>Revere</surname></persName>.</l> <l>It needs no helmet's gleam,</l> <l>No armor's glittering beam, <pb xml:id="p.65" n="65"/></l> <l>No feudal imagery of shield or spear</l> <l>To gild the gallant deeds that roused us then,--</l> <l>When <persName n="Cass,,,,," xml:id="n0203.0036.00065.00048" reg="mostcommon:Cass,nomatch:0"><surname>Cass</surname></persName> fell dying in the battle's front,</l> <l>And <persName n="Shaw,,,,," xml:id="n0203.0036.00065.00049" reg="mostcommon:Shaw,nomatch:0"><surname>Shaw</surname></persName>'s fair head lay 'mid his dusky men. </l></lg><lg type="stanza"> 
+<head><num value="2">II</num>.</head> <l>All o'er the tranquil land</l> <l>On this Memorial Day,</l> <l>Coming from near and far,</l> <l>Men gather in the mimic guise of war.</l> <l>They bear no polished steel,</l> <l>Yet by the elbow's touch they march, they wheel,</l> <l>Or side by side they stand.</l> <l>They now are peaceful men, fair Order's sons;</l> <l>But as they halt in motionless array,</l> <l>Or bow their heads to pray,</l> <l>Into their dream intrudes</l> <l>The swift sharp crack of rifle-shots in woods;</l> <l>Into their memory swells</l> <l>The trumpet's call, the screaming of the shells;</l> <l>And ever and anon they seem to hear</l> <l>The far-off thunder of besieging guns,--</l> <l>All sounds of bygone war, all memories of the ear. <pb xml:id="p.66" n="66"/> </l></lg><lg type="stanza"> 
+<head><num value="3">III</num>.</head> <l>A little while it seems</l> <l>Since those were daily thoughts which now are dreams.</l> <l>A little while is gone</l> <l>Since, the last battle fought, the victory won,</l> <l>We saw sweet Peace come back with all her charms,</l> <l>And watched a <num value="1000000">million</num> men lay down their arms.</l> <l>But at this morning's call</l> <l>We bridge the interval;</l> <l>And yet once more, with no regretful tears,</l> <l>Live back again, though now men's blood be cooled,</l> <l>Through the long vista of the fading years</l> <l>To days when <persName n="Sumner,,,,," xml:id="n0203.0036.00066.00050" reg="mostcommon:Sumner,nomatch:0"><surname>Sumner</surname></persName> spoke, and <persName n="Andrew,,,,," xml:id="n0203.0036.00066.00051" reg="mostcommon:Andrew,nomatch:0"><surname>Andrew</surname></persName> ruled.
+
+<milestone unit="sentence" n="111"/></l></lg><lg type="stanza"> 
+<head><num value="4">IV</num>.</head> <l>Courage is <num value="1" type="ordinal">first</num> and last of what we need</l> <l>To mould a nation for triumphal sway:</l> <l>All else is empty air,</l> <l>A promise vainly fair,</l> <l>Like the bright beauty of the ocean spray <pb xml:id="p.67" n="67"/></l> <l>Tossed up toward heaven, but never reaching there.</l> <l>Not in the past, but in the future, we</l> <l>Must seek the mastery</l> <l>Of fate and fortune, thought and word and deed.</l> <l>Gone, gone for aye, the little <placeName key="tgn,2601475;tgn,2601474;tgn,2601473;tgn,2092266;tgn,2092265" n="0.000 000000.0000 placename;tgn,2601475;Puritan, Vinton, Ohio,Vinton,Ohio,United States,North and Central America;0.000 000000.0000 placename;tgn,2601474;Puritan, Santa Fe, New Mexico,Santa Fe,New Mexico,United States,North and Central America;0.000 000000.0000 placename;tgn,2601473;Puritan, Weld, Colorado,Weld,Colorado,United States,North and Central America;0.000 000000.0000 placename;tgn,2092266;Puritan, Fayette, Pennsylvania,Fayette,Pennsylvania,United States,North and Central America;0.000 000000.0000 placename;tgn,2092265;Puritan, Cambria, Pennsylvania,Cambria,Pennsylvania,United States,North and Central America" reg="Puritan, Vinton, Ohio,Vinton,Ohio,United States,North and Central America;Puritan, Santa Fe, New Mexico,Santa Fe,New Mexico,United States,North and Central America;Puritan, Weld, Colorado,Weld,Colorado,United States,North and Central America;Puritan, Fayette, Pennsylvania,Fayette,Pennsylvania,United States,North and Central America;Puritan, Cambria, Pennsylvania,Cambria,Pennsylvania,United States,North and Central America">Puritan</placeName> homes;</l> <l>Gone the beleaguered town, from out whose spires</l> <l>Flashed forth the warning fires</l> <l>Telling the <rs>Cambridge</rs> rustics, “Percy comes!”</l> <l>And gone those later days of grief and shame</l> <l>When slavery changed our court-house to a jail,</l> <l>And blood-drops stained its threshold.
+
+<milestone unit="sentence" n="112"/>Now we hail,</l> <l>After the long affray,</l> <l>A time of calmer order, wider aim,</l> <l>More mingled races, manhood's larger frame,</l> <l>A city's broader sweep, the <rs>Boston</rs> of to-day.
+
+<milestone unit="sentence" n="113"/></l></lg><lg type="stanza"> 
+<head>V.</head> <l>They say our city's star begins to wane,</l> <l>Our heroes pass away, our poets die,</l> <l>Our passionate ardors mount no more so high.</l> <l>'T is but an old alarm, the affright of wealth,</l> <l>The cowardice of culture, wasted pain!</l> <l>Freedom is hope and health!
+
+<milestone unit="sentence" n="114"/><pb xml:id="p.68" n="68"/></l> <l>The sea on which yon ocean steamers ride</l> <l>Is the same sea that rocked the shallops frail</l> <l>Of the bold Pilgrims; yonder is its tide,</l> <l>And here are we, their sons; it grows not pale,</l> <l>Nor we who walk its borders.
+
+<milestone unit="sentence" n="115"/>Never fear!</l> <l>Courage and truth are all!</l> <l>Trust in the great hereafter, and whene'er</l> <l>In some high hour of need,</l> <l>That tests the heroic breed,</l> <l><placeName reg="The Boston">The Boston</placeName> of the future sounds its call,</l> <l><persName n="Bartletts,,,,," xml:id="n0203.0036.00068.00052" reg="mostcommon:Bartletts,nomatch:0"><surname>Bartletts</surname></persName> and Lowells yet shall answer, “Here!” </l></lg></div> 
+<div xml:id="c.37" type="chapter" n="37" subtype="chapter"> <pb xml:id="p.69" n="69"/> 
+<head>Earlier poems.</head> <pb xml:id="p.70" n="70"/> 
+<div xml:id="c.37.1" type="section" n="c.37.1"> <pb xml:id="p.71" n="71"/> 
+<head>The Madonna di <placeName reg="San Sisto">San Sisto</placeName>.</head> 
+<p>
+
+<milestone unit="sentence" n="116"/>[These verses, written and published at the age of <num value="19">nineteen</num>, are here preserved, partly from their association with my dear old friend and college teacher, <persName n="Longfellow,Professor,,,," xml:id="n0203.0037.00071.00053" reg="mostcommon:Longfellow,Samuel,,,:1"><roleName n="Professor">Professor</roleName> <surname>Longfellow</surname></persName>, who liked them well enough to include them in his <quote>Estray,</quote> in <dateStruct value="1847--"><year reg="1847">1847</year></dateStruct>.]</p> <lg type="couplet"><lg type="stanza"><l>look down into my heart,</l> <l>Thou holy Mother, with thy holy Son!</l> <l>Read all my thoughts, and bid the doubts depart,</l> <l>And all the fears be done.
+
+<milestone unit="sentence" n="117"/></l></lg><lg type="stanza"><l>I lay my spirit bare,</l> <l>O blessed ones!
+
+<milestone unit="sentence" n="118"/>beneath your wondrous eyes,</l> <l>And not in vain; ye hear my heartfelt prayer,</l> <l>And your twin-gaze replies.
+
+<milestone unit="sentence" n="119"/></l></lg><lg type="stanza"><l>What says it?
+
+<milestone unit="sentence" n="120"/>All that life</l> <l>Demands of those who live, to be and do,--</l> <l>Calmness, in all its bitterest, deepest strife;</l> <l>Courage, till all is through.
+
+<milestone unit="sentence" n="121"/><pb xml:id="p.72" n="72"/> </l></lg><lg type="stanza"><l>Thou Mother!
+
+<milestone unit="sentence" n="122"/>in thy sight</l> <l>Can aught of passion or despair remain?</l> <l>Beneath those eyes' serene and holy light</l> <l>The soul is bright again.
+
+<milestone unit="sentence" n="123"/></l></lg><lg type="stanza"><l>Thou Son!
+
+<milestone unit="sentence" n="124"/>whose earnest gaze</l> <l>Looks ever forward, fearless, steady, strong;</l> <l>Beneath those eyes no doubt or weakness stays,</l> <l>Nor fear can linger long.
+
+<milestone unit="sentence" n="125"/></l></lg><lg type="stanza"><l>Thanks, that to my weak heart</l> <l>Your mingled powers, fair forms, such counsel give.</l> <l>Till I have learned the lesson ye impart,</l> <l>I have not learned to live.
+
+<milestone unit="sentence" n="126"/></l></lg><lg type="stanza"><l>And oh, till life is done</l> <l>Of your deep gaze may ne'er the impression cease!</l> <l>Still may the dark eyes whisper, “Courage!
+
+<milestone unit="sentence" n="127"/>On!”</l> <l>The mild eyes murmur, “Peace!” </l></lg></lg></div> 
+<div xml:id="c.37.2" type="section" n="c.37.2"> <pb xml:id="p.73" n="73"/> 
+<head>Hymns.</head> 
+<p>
+
+<milestone unit="sentence" n="128"/>[These <num value="3">three</num> hymns were written at the age of <num value="22">twenty-two</num>, and were published anonymously in a collection edited by my friends</p> <l><persName n="Longfellow,,Samuel,,," xml:id="n0203.0037.00073.00054" reg="default:Longfellow,Samuel,,,"><forename>Samuel</forename> <surname>Longfellow</surname></persName> and <persName n="Johnson,,Samuel,,," xml:id="n0203.0037.00073.00055" reg="default:Johnson,Samuel,,,"><forename>Samuel</forename> <surname>Johnson</surname></persName>.
+
+<milestone unit="sentence" n="129"/>They are here inserted mainly because they have secured for themselves a semblance of permanent vitality in hymn-books, and are not always correctly printed.]</l> <l>I.</l> 
+<div xml:id="c.37.3" type="section" n="c.37.3"> 
+<head>I will arise and go unto my father.</head> <lg type="couplet"><lg type="stanza"><l>To Thine eternal arms, O <name n="God" type="God">God</name>,</l> <l>Take us, Thine erring children, in;</l> <l>From dangerous paths too boldly trod,</l> <l>From wandering thoughts and dreams of sin. </l></lg><lg type="stanza"><l>Those arms were round our childish ways,</l> <l>A guard through helpless years to be;</l> <l>Oh leave not our maturer days,</l> <l>We still are helpless without Thee!
+
+<milestone unit="sentence" n="130"/></l></lg><lg type="stanza"><l>We trusted hope and pride and strength:</l> <l>Our strength proved false, our pride was vain, <pb xml:id="p.74" n="74"/></l> <l>Our dreams have faded all at length,--</l> <l>We come to Thee, <num value="0">0</num> <rs type="role2">Lord</rs>, again!
+
+<milestone unit="sentence" n="131"/></l></lg><lg type="stanza"><l>A guide to trembling steps yet be!</l> <l>Give us of Thine eternal powers!</l> <l>So shall our paths all lead to Thee,</l> <l>And life smile on like childhood's hours.</l></lg></lg></div> 
+<div xml:id="c.37.4" type="section" n="c.37.4"> 
+<head>Ii.
+
+<milestone unit="sentence" n="132"/>The hope of man.</head> <lg type="couplet"><lg type="stanza"><l>The Past is dark with sin and shame,</l> <l>The Future dim with doubt and fear;</l> <l>But, Father, yet we praise Thy name,</l> <l>Whose guardian love is always near.
+
+<milestone unit="sentence" n="133"/></l></lg><lg type="stanza"><l>For man has striven, ages long,</l> <l>With faltering steps to come to Thee,</l> <l>And in each purpose high and strong</l> <l>The influence of Thy grace could see. </l></lg><lg type="stanza"><l>He could not breathe an earnest prayer,</l> <l>But Thou wast kinder than he dreamed,</l> <l>As age by age brought hopes more fair,</l> <l>And nearer still Thy kingdom seemed.
+
+<milestone unit="sentence" n="134"/><pb xml:id="p.75" n="75"/> </l></lg><lg type="stanza"><l>But never rose within his breast</l> <l>A trust so calm and deep as now;</l> <l>Shall not the weary find a rest?</l> <l>Father, Preserver, answer Thou!
+
+<milestone unit="sentence" n="135"/></l></lg><lg type="stanza"><l>'T is dark around, 't is dark above,</l> <l>But through the shadow streams the sun;</l> <l>We cannot doubt Thy certain love;</l> <l>And Man's true aim shall yet be won!</l></lg></lg></div> 
+<div xml:id="c.37.5" type="section" n="c.37.5"> 
+<head>Iii.
+
+<milestone unit="sentence" n="136"/>Pantheism and theism.</head> <lg type="couplet"><lg type="stanza"><l>No human eyes Thy face may see,</l> <l>No human thought Thy form may know;</l> <l>But all creation dwells in Thee,</l> <l>And Thy great life through all doth flow!
+
+<milestone unit="sentence" n="137"/></l></lg><lg type="stanza"><l>And yet, O strange and wondrous thought!</l> <l>Thou art a <name n="God" type="God">God</name> who hearest prayer,</l> <l>And every heart with sorrow fraught</l> <l>To seek Thy present aid may dare.
+
+<milestone unit="sentence" n="138"/><pb xml:id="p.76" n="76"/> </l></lg><lg type="stanza"><l>And though most weak our efforts seem</l> <l>Into <num value="1">one</num> creed these thoughts to bind,</l> <l>And vain the intellectual dream</l> <l>To see and know the <rs>Eternal Mind</rs>,--</l></lg><lg type="stanza"><l>Yet Thou wilt turn them not aside</l> <l>Who cannot solve Thy life divine,</l> <l>But would give up all reason's pride</l> <l>To know their hearts approved by Thine.
+
+<milestone unit="sentence" n="139"/></l></lg><lg type="stanza"><l>So, though we faint on life's dark hill,</l> <l>And thought grow weak, and knowledge flee,</l> <l>Yet faith shall teach us courage still,</l> <l>And love shall guide us on to Thee!</l></lg></lg></div></div></div> 
+<div xml:id="c.38" type="chapter" n="38" subtype="chapter"> <pb xml:id="p.77" n="77"/> 
+<head>Poems from <quote>Thalatta.</quote>
+
+<milestone unit="sentence" n="140"/></head> 
+<p>[The <num value="2">two</num> poems which follow are from a volume called</p> <l> <quote>Thalatta; a book for the sea-side,</quote> edited by my friend <persName><forename>Samuel</forename></persName></l> <l><persName n="Longfellow,,,,," xml:id="n0203.0038.00077.00056" reg="nearbymention:Longfellow,Samuel,,,"><surname>Longfellow</surname></persName> and myself in <dateStruct value="1853--"><year reg="1853">1853</year></dateStruct>.]</l> 
+<div xml:id="c.38.6" type="section" n="c.38.6"> 
+<head>I. Calm.</head> <lg type="couplet"><lg type="stanza"><l>'T is a dull, sullen day,--the dull beach o'er</l> <l>In rippling curves the ebbing ocean flows;</l> <l>Along each tiny crest that nears the shore</l> <l>A line of soft green shadow rises, glides, and goes.
+
+<milestone unit="sentence" n="141"/></l></lg><lg type="stanza"><l>The tide recedes,--the flat smooth beach grows bare,</l> <l>More faint the low sweet plashing on my ears,</l> <l>Yet still I watch the dimpling shadows fair,</l> <l>As each is born, glides, pauses, disappears.
+
+<milestone unit="sentence" n="142"/><pb xml:id="p.78" n="78"/> </l></lg><lg type="stanza"><l>What channel needs our faith except the eyes?</l> <l><name n="God" type="God">God</name> leaves no spot of earth unglorified;</l> <l>Profuse and wasteful, lovelinesses rise;</l> <l>New beauties dawn before the old have died.
+
+<milestone unit="sentence" n="143"/></l></lg><lg type="stanza"><l>Trust thou thy joys in keeping of the <name>Power</name></l> <l>Who holds these faint soft shadows in His hand;</l> <l>Believe and live, and know that hour by hour</l> <l>Will ripple newer beauty to thy strand.</l></lg></lg></div> 
+<div xml:id="c.38.7" type="section" n="c.38.7"> <pb xml:id="p.79" n="79"/> 
+<head><num value="2">II</num>.
+
+<milestone unit="sentence" n="144"/>the morning mist.</head> <lg type="couplet"><lg type="stanza"><l>The mist that like a dim soft pall was lying,</l> <l>Mingling the gray sea with the low gray sky,</l> <l>Floats upward now; the sunny breeze is sighing,</l> <l>And Youth stands pale before his destiny:</l> <l>O passionate heart of Youth!</l> <l>Each rolling wave with herald voice is crying;</l> <l>Thou canst delay, but never shun replying,</l> <l>It calls thee living or it calls thee dying,</l> <l>Though beauty fade before the glare of truth.
+
+<milestone unit="sentence" n="145"/></l></lg><lg type="stanza"><l>Thou wanderest onward 'neath the solemn morning,</l> <l>It seems like mid-day ere the sun rides high,</l> <l>The soft mist fades, whose shadowy adorning</l> <l>Wrapt in a dreamy haze the earth and sky;</l> <l>The Ocean lies before!</l> <l>O thou art lost if thou discard the warning</l> <l>To make hot Day more fair than fairest dawning,</l> <l>Till eve look back serenely on the morning</l> <l>When Youth stood trembling on the ocean-shore.
+
+<milestone unit="sentence" n="146"/></l></lg></lg></div></div> 
+<div xml:id="c.39" type="chapter" n="39" subtype="chapter"> <pb xml:id="p.80" n="80"/> 
+<head>The <dateStruct value="-02-"><month reg="02">February</month></dateStruct> hush.</head> <lg type="couplet"><lg type="stanza"><l>Snow o'er the darkening moorlands,</l> <l>Flakes fill the quiet air;</l> <l>Drifts in the forest hollows,</l> <l>And a soft mask everywhere.
+
+<milestone unit="sentence" n="147"/></l></lg><lg type="stanza"><l>The nearest twig on the pine-tree</l> <l>Looks blue through the whitening sky,</l> <l>And the clinging beech-leaves rustle</l> <l>Though never a wind goes by. </l></lg><lg type="stanza"><l>But there's red on the wildrose berries,</l> <l>And red in the lovely glow</l> <l>On the cheeks of the child beside me,</l> <l>That once were pale, like snow.</l></lg></lg></div> 
+<div xml:id="c.40" type="chapter" n="40" subtype="chapter"> <pb xml:id="p.81" n="81"/> 
+<head><dateStruct><month>June</month></dateStruct>.</head> <lg type="couplet"><lg type="stanza"><l>She needs no teaching,--no defect is hers;</l> <l>She stands in all her beauty 'mid the trees.</l> <l>'Neath the tall pines her golden sunshine stirs</l> <l>And shifts and trembles with each passing breeze.
+
+<milestone unit="sentence" n="148"/></l></lg><lg type="stanza"><l>All the long day upon the broad green boughs</l> <l>Lieth the lustre of her lovely life,</l> <l>While too much drugged with rapture to carouse</l> <l>Broods her soft world of insect-being rife.
+
+<milestone unit="sentence" n="149"/></l></lg><lg type="stanza"><l>So without effort or perplexing thought</l> <l>She comes to claim all homage as her own,</l> <l>Clad in the richest garments Nature wrought, </l></lg><lg type="stanza"><l>Melting the strongest with her magic zone.</l> <l>O wondrous <dateStruct><month>June</month></dateStruct>!
+
+<milestone unit="sentence" n="150"/>our lives should be like thee,</l> <l>With such calm grace fulfilling destiny.</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="151"/></p><closer><signed>S. L. H.</signed></closer></div> 
+<div xml:id="c.41" type="chapter" n="41" subtype="chapter"> <pb xml:id="p.82" n="82"/> 
+<head><dateStruct value="-12-"><month reg="12">December</month></dateStruct>.</head> <lg type="couplet"><lg type="stanza"><l>The evening sky unseals its quiet fountain,</l> <l>Hushing the silence to a drowsy rain;</l> <l>It spreads a web of dimness o'er the plain</l> <l>And round each meadow tree;</l> <l>Makes this steep river-bank a dizzy mountain,</l> <l>And this wide stream a sea. </l></lg><lg type="stanza"><l>Stealing from upper headlands of deep mist,</l> <l>The dark tide bears its icebergs ocean bound,</l> <l><persName n="White,,,,," xml:id="n0203.0041.00082.00057" reg="mostcommon:White,nomatch:0"><surname>White</surname></persName> shapeless voyagers, by each other kissed,</l> <l>With rustling, ghostly sound;</l> <l>The lingering oak-leaves sigh, the birches shiver,</l> <l>Watching the wrecks of summer far and near,</l> <l>Where many a dew-drop, frozen on its bier,</l> <l>Drifts down the dusky river.
+
+<milestone unit="sentence" n="152"/></l></lg><lg type="stanza"><l>I know thee not, thou giant elm, who towerest</l> <l>With shadowy branches in the murky air;</l> <l>And this familiar grove, once light and fair,</l> <l>Frowns, an Enchanted Forest.
+
+<milestone unit="sentence" n="153"/><pb xml:id="p.83" n="83"/></l> <l>Couldst thou not choose some other night to moan,</l> <l>O hollow-hooting owl?</l> <l>There needs no spell from thy bewildered soul;</l> <l>I'm ghost enough alone.</l></lg></lg></div> 
+<div xml:id="c.42" type="chapter" n="42" subtype="chapter"> <pb xml:id="p.84" n="84"/> 
+<head>To a young convert.</head> <lg type="couplet"><lg type="stanza"><l>Lulled by sweet words and lured by saintly charms,</l> <l>I see thy weary, wandering steps begin</l> <l>To enter where the <rs type="place">Church</rs> spreads wide her arms,</l> <l>Arms that have clasped their many <num value="1000">thousands</num> in. </l></lg><lg type="stanza"><l>From turret-windows and from high-arched door</l> <l>Looks many a face of saint and martyr dear:</l> <l>“Hail, <persName n="Eve,,,,," xml:id="n0203.0042.00084.00058" reg="mostcommon:Eve,nomatch:0"><surname>Eve</surname></persName>'s lost daughter,<note anchored="yes">
+
+<milestone unit="sentence" n="154"/><quote xml:lang="la">Hevae filia exul.</quote></note> wanderer now no more!</l> <l>Earth's chill damp air shall never reach thee here!
+
+<milestone unit="sentence" n="155"/></l></lg><lg type="stanza"><l>“Here <persName n="Dante,,,,," xml:id="n0203.0042.00084.00059" reg="mostcommon:Dante,nomatch:0"><surname>Dante</surname></persName>, <persName n="Bayard,,,,," xml:id="n0203.0042.00084.00060" reg="mostcommon:Bayard,nomatch:0"><surname>Bayard</surname></persName>, <persName><forename>Catherine</forename></persName> knelt in prayer;</l> <l>Come in!
+
+<milestone unit="sentence" n="156"/>their great remembrance makes us strong.”</l> <l>Oh, enter not!
+
+<milestone unit="sentence" n="157"/>for peril haunts the air</l> <l>Which even the loveliest lips have breathed too long.
+
+<milestone unit="sentence" n="158"/><pb xml:id="p.85" n="85"/> </l></lg><lg type="stanza"><l>Come out upon the mountain tops with me!</l> <l>See the glad day break o'er their spires of blue!</l> <l>There lies within those cloisters' tracery</l> <l>A deadlier poison than in dankest dew. </l></lg><lg type="stanza"><l>The Orient sun, that in that templed span</l> <l>Lit all of beauty saintliest eyes could see,</l> <l>Still falls in blessing on the humblest man</l> <l>Who works for freedom with a soul set free.
+
+<milestone unit="sentence" n="159"/></l></lg><lg type="stanza"><l>In vain I thou canst not; yet thy cheeks grow pale</l> <l>While thy lips smile, and rapture lights thine eyes;</l> <l>The tender fascinations slow prevail,</l> <l>And half thy life before the altar dies.
+
+<milestone unit="sentence" n="160"/></l></lg><lg type="stanza"><l>Will it die all?
+
+<milestone unit="sentence" n="161"/>I know not. I can wait.</l> <l>The free air presses round the cloister door,</l> <l>And I shall listen at that stern-barred gate</l> <l>To hear thy sweet voice pray for life once more.</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="162"/></p><closer><dateline><dateStruct value="1850--"><year reg="1850">1850</year></dateStruct>.</dateline></closer></div> 
+<div xml:id="c.43" type="chapter" n="43" subtype="chapter"> <pb xml:id="p.86" n="86"/> 
+<head>Serenade by the sea.</head> 
+<p>
+
+<milestone unit="sentence" n="163"/>[Set to music by <persName n="Pegou,,M.,Albert,," xml:id="n0203.0043.00086.00061" reg="default:Pegou,M.,Albert,,"><forename>M.</forename> <forename>Albert</forename> <surname>Pegou</surname></persName>.]</p> <lg type="couplet"><lg type="stanza"><l>O'er the ocean vague and wide</l> <l>Sleep comes with the coming tide.</l> <l>Breezes lull my lady fair,</l> <l>Cool her eyelids, soothe her hair,</l> <l>While the murmuring surges seem</l> <l>To float her through a world of dream.
+
+<milestone unit="sentence" n="164"/></l></lg><lg type="stanza"><l>Shadowy sloops are gliding in</l> <l>Safe the harbor-bar within.</l> <l>Silently each phantom pale</l> <l>Drops the anchor, furls the sail.</l> <l>She, meanwhile, remote from me</l> <l>Drifts on sleep's unfathomed sea. </l></lg><lg type="stanza"><l>So may every dream of ill</l> <l>Find its anchorage, and be still;</l> <l>Sorrow furl its sails and cease</l> <l>In this midnight realm of peace;</l> <l>And each wandering thought find rest</l> <l>In the haven of her breast!</l></lg></lg></div> 
+<div xml:id="c.44" type="chapter" n="44" subtype="chapter"> <pb xml:id="p.87" n="87"/> 
+<head>The frozen cascade: the bride of the rock.</head> <l>In beauty perfected, with lavish grace,</l> <l>She casts herself about his rugged form,</l> <l>With all her vesture on, of snowy white,</l> <l>Nor left <num value="1">one</num> pendant out, <num value="1">one</num> dropping pearl.</l> <l>Could she be fairer?
+
+<milestone unit="sentence" n="165"/>Through her inmost veins</l> <l>The warm sun searches, as for some weak spot;</l> <l>But with a pride refined she smileth back:</l> <l>“I gave myself in beauty to this Rock;</l> <l>Ancient he is, and reverend and strong;</l> <l>And I will fringe him with my snowy arms,</l> <l>And lay my white cheek on his dark gray brow,</l> <l>Nor ever melt for all thy beaming eyes!”</l> 
+<p>
+
+<milestone unit="sentence" n="166"/></p><closer><signed>S. L. H.</signed></closer></div> 
+<div xml:id="c.45" type="chapter" n="45" subtype="chapter"> <pb xml:id="p.88" n="88"/> 
+<head>The things I miss.</head> <lg type="couplet"><lg type="stanza"><l>an easy thing, O Power Divine,</l> <l>To thank Thee for these gifts of Thine!</l> <l>For summer's sunshine, winter's snow,</l> <l>For hearts that kindle, thoughts that glow.</l> <l>But when shall I attain to this,--</l> <l>To thank Thee for the things I miss?
+
+<milestone unit="sentence" n="167"/></l></lg><lg type="stanza"><l>For all young Fancy's early gleams,</l> <l>The dreamed — of joys that still are dreams,</l> <l>Hopes unfulfilled, and pleasures known</l> <l>Through others' fortunes, not my own,</l> <l>And blessings seen that are not given,</l> <l>And never will be, this side heaven.
+
+<milestone unit="sentence" n="168"/></l></lg><lg type="stanza"><l>Had I too shared the joys I see,</l> <l>Would there have been a heaven for me?
+
+<milestone unit="sentence" n="169"/><pb xml:id="p.89" n="89"/></l> <l>Could I have felt thy presence near,</l> <l>Had I possessed what I held dear?</l> <l>My deepest fortune, highest bliss,</l> <l>Have grown perchance from things I miss.
+
+<milestone unit="sentence" n="170"/></l></lg><lg type="stanza"><l>Sometimes there comes an hour of calm;</l> <l>Grief turns to blessing, pain to balm;</l> <l>A Power that works above my will</l> <l>Still leads me onward, upward still.</l> <l>And then my heart attains to this,--</l> <l>To thank Thee for the things I miss.</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="171"/></p><closer><dateline><dateStruct value="1870--"><year reg="1870">1870</year></dateStruct>.</dateline></closer> <pb xml:id="p.90" n="90"/></div> 
+<div xml:id="c.46" type="chapter" n="46" subtype="chapter"> <pb xml:id="p.91" n="91"/> 
+<head>Translations.</head> <pb xml:id="p.92" n="92"/> 
+<div xml:id="c.46.8" type="section" n="c.46.8"> <pb xml:id="p.93" n="93"/> 
+<head><persName n="Sappho,,,,," xml:id="n0203.0046.00093.00062" reg="mostcommon:Sappho,nomatch:0"><surname>Sappho</surname></persName>'s ode to <persName n="Aphrodite,,,,," xml:id="n0203.0046.00093.00063" reg="mostcommon:Aphrodite,nomatch:0"><surname>Aphrodite</surname></persName>.</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="172"/><cit><quote xml:lang="grc">poikilo/qrona, a)qa/nata *)afrodi/ta.</quote><bibl><persName n="Sappho,,,,," xml:id="n0203.0046.00093.00064" reg="mostcommon:Sappho,nomatch:0"><surname>Sappho</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>Beautiful-throned, immortal <persName n="Aphrodite,,,,," xml:id="n0203.0046.00093.00065" reg="mostcommon:Aphrodite,nomatch:0"><surname>Aphrodite</surname></persName>!</l> <l>Daughter of <persName n="Zeus,,,,," xml:id="n0203.0046.00093.00066" reg="mostcommon:Zeus,nomatch:0"><surname>Zeus</surname></persName>, beguiler!
+
+<milestone unit="sentence" n="173"/>I implore thee</l> <l>Weigh me not down with weariness and anguish,</l> <l>O thou most holy!
+
+<milestone unit="sentence" n="174"/></l></lg><lg type="stanza"><l>Come to me now!
+
+<milestone unit="sentence" n="175"/>if ever thou in kindness</l> <l>Hearkenedst my words,--and often hast thou hearkened,</l> <l>Heeding, and coming from the mansion golden</l> <l>Of thy great Father, </l></lg><lg type="stanza"><l>Yoking thy chariot, borne by thy most lovely</l> <l>Consecrated birds, with dusky-tinted pinions,</l> <l>Waving swift wings from utmost heights of heaven</l> <l>Through the mid-ether; <pb xml:id="p.94" n="94"/> </l></lg><lg type="stanza"><l>Swiftly they vanished, leaving thee, O Goddess!</l> <l>Smiling, with face immortal in its beauty,</l> <l>Asking why I grieved, and why in utter longing</l> <l>I had dared call thee; </l></lg><lg type="stanza"><l>Asking what I sought, thus hopeless in desiring,</l> <l>'Wildered in brain, and spreading nets of passion—</l> <l>Alas, for whom?
+
+<milestone unit="sentence" n="176"/>and saidst thou, “Who has harmed thee?</l> <l>O my poor <persName n="Sappho,,,,," xml:id="n0203.0046.00094.00067" reg="mostcommon:Sappho,nomatch:0"><surname>Sappho</surname></persName>!
+
+<milestone unit="sentence" n="177"/></l></lg><lg type="stanza"><l>“Though now he flies, ere long he shall pursue thee;</l> <l>Fearing thy gifts, he too in turn shall bring them;</l> <l>Loveless to-day, to-morrow he shall woo thee,</l> <l>Though thou shouldst spurn him.” </l></lg><lg type="stanza"><l>Thus seek me now, O holy <persName n="Aphrodite,,,,," xml:id="n0203.0046.00094.00068" reg="mostcommon:Aphrodite,nomatch:0"><surname>Aphrodite</surname></persName>!</l> <l>Save me from anguish, give me all I ask for,--</l> <l>Gifts at thy hand!
+
+<milestone unit="sentence" n="178"/>And thine shall be the glory,</l> <l>Sacred Protector!</l></lg></div></div> 
+<div xml:id="c.47" type="chapter" n="47" subtype="chapter"> <pb xml:id="p.95" n="95"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0047.00095.00069" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="123">123</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="179"/><cit><quote xml:lang="it">Ia vidi in terra anglici costume.</quote>
+
+<milestone unit="sentence" n="180"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0047.00095.00070" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>I once beheld on earth celestial graces</l> <l>And heavenly beauties scarce to mortals known,</l> <l>Whose memory yields nor joy nor grief alone,</l> <l>But all things else in clouds and dreams effaces.
+
+<milestone unit="sentence" n="181"/></l></lg><lg type="stanza"><l>I saw how tears had left their weary traces</l> <l>Within those eyes that once the sun outshone;</l> <l>I heard those lips, in low and plaintive moan,</l> <l>Breathe words to stir the mountains from their places.
+
+<milestone unit="sentence" n="182"/></l></lg><lg type="stanza"><l>Love, wisdom, courage, tenderness, and truth</l> <l>Made, in their mourning, strains more high and dear</l> <l>Than ever wove sweet sounds for mortal ear; </l></lg><lg type="stanza"><l>And heaven seemed listening in such saddest ruth</l> <l>The very leaves upon the bough to soothe,</l> <l>Such sweetness filled the blissful atmosphere.</l></lg></div> 
+<div xml:id="c.48" type="chapter" n="48" subtype="chapter"> <pb xml:id="p.96" n="96"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0048.00096.00071" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="128">128</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="183"/><cit><quote xml:lang="it">O passi sparsi; O pensier vaghi e pronti.</quote>
+
+<milestone unit="sentence" n="184"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0048.00096.00072" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>O wandering steps!
+
+<milestone unit="sentence" n="185"/>O vague and busy dreams!</l> <l>O changeless memory!
+
+<milestone unit="sentence" n="186"/>O fierce desire!</l> <l>O passion strong!
+
+<milestone unit="sentence" n="187"/>heart weak with its own fire;</l> <l>O eyes of mine!
+
+<milestone unit="sentence" n="188"/>not eyes, but living streams; </l></lg><lg type="stanza"><l>O laurel boughs!
+
+<milestone unit="sentence" n="189"/>whose lovely garland seems</l> <l>The sole reward that glory's deeds require;</l> <l>O haunted life!
+
+<milestone unit="sentence" n="190"/>delusion sweet and dire,</l> <l>That all my days from slothful rest redeems; </l></lg><lg type="stanza"><l>O beauteous face!
+
+<milestone unit="sentence" n="191"/>where Love has treasured well</l> <l>His whip and spur, the sluggish heart to move</l> <l>At his least will; nor can it find relief.
+
+<milestone unit="sentence" n="192"/></l></lg><lg type="stanza"><l>O souls of love and passion!
+
+<milestone unit="sentence" n="193"/>if ye dwell</l> <l>Yet on this earth, and ye, great Shades of</l> <l>Love!</l> <l>Linger, and see my passion and my grief.
+
+<milestone unit="sentence" n="194"/></l></lg></div> 
+<div xml:id="c.49" type="chapter" n="49" subtype="chapter"> <pb xml:id="p.97" n="97"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0049.00097.00073" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="134">134</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="195"/><cit><quote xml:lang="it"><l>Quando <persName n="Amor,,,,," xml:id="n0203.0049.00097.00074" reg="mostcommon:Amor,nomatch:0"><surname>Amor</surname></persName> i begli occhi a terra inchina.</l></quote> <bibl><persName n="Petrarch,,,,," xml:id="n0203.0049.00097.00075" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="couplet"><l>When Love doth those sweet eyes to earth incline,</l> <l>And weaves those wandering notes into a sigh</l> <l>With his own touch, and leads a minstrelsy</l> <l>Clear-voiced and pure, angelic and divine,--</l></lg><lg type="stanza"><l>He makes sweet havoc in this heart of mine,</l> <l>And to my thoughts brings transformation high,</l> <l>So that I say, “My time has come to die,</l> <l>If fate so blest a death for me design.” </l></lg><lg type="stanza"><l>But to my soul thus steeped in joy the sound</l> <l>Brings such a wish to keep that present heaven,</l> <l>It holds my spirit back to earth as well.
+
+<milestone unit="sentence" n="196"/></l></lg><lg type="stanza"><l>And thus I live: and thus is loosed and wound</l> <l>The thread of life which unto me was given</l> <l>By this sole Siren who with us doth dwell.</l></lg></div> 
+<div xml:id="c.50" type="chapter" n="50" subtype="chapter"> <pb xml:id="p.98" n="98"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0050.00098.00076" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="223">223</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="197"/><cit><quote xml:lang="it">Qual donna attende a gloriosa fama.</quote>
+
+<milestone unit="sentence" n="198"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0050.00098.00077" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="couplet"><lg type="stanza"><l>Doth any maiden seek the glorious fame</l> <l>Of chastity, of strength, of courtesy?</l> <l>Gaze in the eyes of that sweet enemy</l> <l>Whom all the world doth as my lady name!
+
+<milestone unit="sentence" n="199"/></l></lg><lg type="stanza"><l>How honor grows, and pure devotion's flame,</l> <l>How truth is joined with graceful dignity,</l> <l>There thou mayst learn, and what the path may be</l> <l>To that high heaven which doth her spirit claim; </l></lg><lg type="stanza"><l>There learn that speech beyond all poet's skill,</l> <l>And gracious silence, and those holy ways</l> <l>Unutterable, untold by human heart.
+
+<milestone unit="sentence" n="200"/></l></lg><lg type="stanza"><l>But the infinite beauty that all eyes doth fill,</l> <l>This none can learn!
+
+<milestone unit="sentence" n="201"/>because its lovely rays</l> <l>Are given by <name n="God" type="God">God's</name> pure grace, and not by art.</l></lg></lg></div> 
+<div xml:id="c.51" type="chapter" n="51" subtype="chapter"> <pb xml:id="p.99" n="99"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0051.00099.00078" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="251">251</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="202"/><cit><quote xml:lang="it">Gli occhi di cha io parlai.</quote>
+
+<milestone unit="sentence" n="203"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0051.00099.00079" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>Those eyes, 'neath which my passionate rapture rose,</l> <l>The arms, hands, feet, the beauty that erewhile</l> <l>Could my own soul from its own self beguile,</l> <l>And in a separate world of dreams enclose; </l></lg><lg type="stanza"><l>The hair's bright tresses, full of golden glows,</l> <l>And the soft lightning of the angelic smile</l> <l>That changed this earth to some celestial isle,--</l> <l>Are now but dust, poor dust, that nothing knows.
+
+<milestone unit="sentence" n="204"/></l></lg><lg type="stanza"><l>And yet I live!
+
+<milestone unit="sentence" n="205"/>Myself I grieve and scorn,</l> <l>Left dark without the light I loved in vain,</l> <l>Adrift in tempest on a bark forlorn; </l></lg><lg type="stanza"><l>Dead is the source of all my amorous strain,</l> <l>Dry is the channel of my thoughts outworn,</l> <l>And my sad harp can sound but notes of pain.</l></lg></div> 
+<div xml:id="c.52" type="chapter" n="52" subtype="chapter"> <pb xml:id="p.100" n="100"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0052.00100.00080" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="253">253</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="206"/><cit><quote xml:lang="it">Soleasi nel mio cor.</quote>
+
+<milestone unit="sentence" n="207"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0052.00100.00081" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>She ruled in beauty o'er this heart of mine,</l> <l>A noble lady in a humble home;</l> <l>And now her time for heavenly bliss has come,</l> <l>'Tis I am mortal proved, and she divine.
+
+<milestone unit="sentence" n="208"/></l></lg><lg type="stanza"><l>The soul that all its blessings must resign,</l> <l>And love whose light no more on earth finds room</l> <l>Might rend the rocks with pity for their doom,</l> <l>Yet none their sorrows can in words enshrine; </l></lg><lg type="stanza"><l>They weep within my heart; no ears they find</l> <l>Save mine alone, and I am crushed with care,</l> <l>And nought remains to me save mournful breath.
+
+<milestone unit="sentence" n="209"/></l></lg><lg type="stanza"><l>Assuredly but dust and shade we are,</l> <l>Assuredly desire is mad and blind,</l> <l>Assuredly its hope but ends in death.</l></lg></div> 
+<div xml:id="c.53" type="chapter" n="53" subtype="chapter"> <pb xml:id="p.101" n="101"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0053.00101.00082" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="261">261</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="210"/><cit><quote xml:lang="it">Levommi il mio pensiero.</quote>
+
+<milestone unit="sentence" n="211"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0053.00101.00083" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l><emph>Dreams</emph> bore my fancy to that region where</l> <l>She dwells whom here I seek, but cannot see.</l> <l>'Mid those who in the loftiest heaven be</l> <l>I looked on her, less haughty and more fair.
+
+<milestone unit="sentence" n="212"/></l></lg><lg type="stanza"><l>She took my hand; she said, “Within this sphere,</l> <l>If hope deceive not, thou shalt dwell with me:</l> <l>I filled thy life with war's wild agony;</l> <l>Mine own day closed ere evening could appear.
+
+<milestone unit="sentence" n="213"/></l></lg><lg type="stanza"><l>My bliss no human thought can understand;</l> <l>I wait for thee alone, and that fair veil</l> <l>Of beauty thou dost love shall yet retain. “</l></lg><lg type="stanza"><l>Why was she silent then, why dropped my hand</l> <l>Ere those delicious tones could quite avail</l> <l>To bid my mortal soul in heaven remain?</l></lg></div> 
+<div xml:id="c.54" type="chapter" n="54" subtype="chapter"> <pb xml:id="p.102" n="102"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0054.00102.00084" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="302">302</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="214"/><cit><quote xml:lang="it">Gli ángeli eletti.</quote>
+
+<milestone unit="sentence" n="215"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0054.00102.00085" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>the holy angels and the spirits blest,</l> <l>Celestial bands, upon that day serene</l> <l>When <num value="1" type="ordinal">first</num> my love went by in heavenly sheen,</l> <l>Came thronging, wondering at the gracious guest.
+
+<milestone unit="sentence" n="216"/></l></lg><lg type="stanza"><l> “What light is here, in what new beauty drest?”</l> <l>They said among themselves “for none has seen</l> <l>Within this age arrive so fair a mien</l> <l>From changing earth unto immortal rest.” </l></lg><lg type="stanza"><l>And she, contented with her new-found bliss,</l> <l>Ranks with the perfect in that upper sphere,</l> <l>Yet ever and anon looks back on this </l></lg><lg type="stanza"><l>To watch for me, as if for me she stayed.</l> <l>So strive my thoughts, lest that high heaven I miss;</l> <l>I hear her call, and must not be delayed.
+
+<milestone unit="sentence" n="217"/></l></lg></div> 
+<div xml:id="c.55" type="chapter" n="55" subtype="chapter"> <pb xml:id="p.103" n="103"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0055.00103.00086" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="309">309</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="218"/><cit><quote xml:lang="it">Dicemi spesso il mio fidato speglio.</quote>
+
+<milestone unit="sentence" n="219"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0055.00103.00087" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>Oft by my faithful mirror I am told,</l> <l>And by my mind outworn and altered brow,</l> <l>My earthly powers impaired and weakened now--</l> <l> “Deceive thyself no more, for thou art old!” </l></lg><lg type="stanza"><l>Who strives with Nature's laws is over-bold,</l> <l>And Time to his commandment bids us bow.</l> <l>Like fire that waves have quenched, I calmly vow</l> <l>In life's long dream no more my sense to fold.
+
+<milestone unit="sentence" n="220"/></l></lg><lg type="stanza"><l>And while I think, our swift existence flies,</l> <l>And none can live again earth's brief career,--</l> <l>Then in my deepest heart the voice replies </l></lg><lg type="stanza"><l>Of <num value="1">one</num> who now has left this mortal sphere,</l> <l>But walked alone through earthly destinies,</l> <l>And of all women is to fame most dear.</l></lg></div> 
+<div xml:id="c.56" type="chapter" n="56" subtype="chapter"> <pb xml:id="p.104" n="104"/> 
+<head>Sonnet from <persName n="Petrarch,,,,," xml:id="n0203.0056.00104.00088" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName> (<num value="314">314</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="221"/><cit><quote xml:lang="it">Dolci durezze e placide repulse.</quote>
+
+<milestone unit="sentence" n="222"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0056.00104.00089" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> <lg type="stanza"><l>Gentle severity, repulses mild,</l> <l>Full of chaste love and pity sorrowing;</l> <l>Graceful rebukes, that had the power to bring</l> <l>Back to itself a heart by dreams beguiled; </l></lg><lg type="stanza"><l>A tender voice, whose accents undefiled</l> <l>Held sweet restraints, all duty honoring;</l> <l>The bloom of virtue; purity's sweet spring</l> <l>To cleanse away base thoughts and passions wild; </l></lg><lg type="stanza"><l>Divinest eyes to make a lover's bliss,</l> <l>Whether to bridle in the wayward mind</l> <l>Lest its wild wanderings should the pathway miss, </l></lg><lg type="stanza"><l>Or else its griefs to soothe, its wounds to bind,--</l> <l>This sweet completeness of thy life it is</l> <l>Which saved my soul; no other peace I find.</l></lg></div> 
+<div xml:id="c.57" type="chapter" n="57" subtype="chapter"> <pb xml:id="p.105" n="105"/> 
+<head>Sonnet from Camoens (<num value="42">42</num>).</head> 
+<p>
+
+<milestone unit="sentence" n="223"/>[<persName n="Browning,Mrs.,,,," xml:id="n0203.0057.00105.00090" reg="mostcommon:Browning,Elizabeth,Barrett,,:1"><roleName n="Mrs.">Mrs.</roleName> <surname>Browning</surname></persName> in <quote>Catarina to Camoens</quote> represents her as bequeathing him the ribbon from her hair; but she in reality gave it to him during her life as a substitute for the ringlet for which he pleaded.] <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="224"/><cit><quote xml:lang="it">Lindo e subtil tranqado, que ficaste.</quote>
+
+<milestone unit="sentence" n="225"/><bibl><persName n="Petrarch,,,,," xml:id="n0203.0057.00105.00091" reg="mostcommon:Petrarch,nomatch:0"><surname>Petrarch</surname></persName>.</bibl></cit></p></quote> </p> <lg type="stanza"><l>O ribbon fair, that dost with me remain</l> <l>In pawn for that sweet gift I do deserve,</l> <l>If but to win thee makes my reason swerve,</l> <l>What were it if <num value="1">one</num> ringlet I could gain?
+
+<milestone unit="sentence" n="226"/></l></lg><lg type="stanza"><l>Those golden locks thy circling knots restrain,</l> <l>Locks whose bright rays might well for sun-beams serve,</l> <l>When thou unloosest each fair coil and curve,</l> <l>Oh is it to beguile, or slay with pain?
+
+<milestone unit="sentence" n="227"/></l></lg><lg type="stanza"><l>Dear ribbon, in my hand I hold thee now;</l> <l>And were it only to assuage my grief,</l> <l>Since I can have thee only, cling to thee, </l></lg><lg type="stanza"><l>Yet tell her, thou canst never fill my vow,</l> <l>But in the reckoning of love's fond belief</l> <l>This gift for that whole debt a pledge shall be. </l></lg></div> 
+<div xml:id="c.58" type="chapter" n="58" subtype="chapter"> <pb xml:id="p.106" n="106"/> 
+<head>Sonnet from Camoens (<num value="186">186</num>).</head> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="228"/><cit><quote><lg type="couplet"><l>For we had been reading Camoens,--that poem, you remember,</l> <l>Which his lady's eyes were praised in, as the sweetest ever seen.</l></lg></quote> <bibl><persName n="Browning,,Elizabeth,Barrett,," xml:id="n0203.0058.00106.00092" reg="default:Browning,Elizabeth,Barrett,,"><forename>Elizabeth</forename> <forename>Barrett</forename> <surname>Browning</surname></persName>.</bibl></cit></p></quote> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="229"/><cit><quote xml:lang="es"><l>Os olhos onde o casto <persName n="Amor,,,,," xml:id="n0203.0058.00106.00093" reg="mostcommon:Amor,nomatch:0"><surname>Amor</surname></persName> ardia.</l></quote> <bibl>Camoens.</bibl></cit></p></quote> <lg type="stanza"><l>Those eyes from whence chaste love was wont to glow,</l> <l>And smiled to see his torches kindled there;</l> <l>That face within whose beauty strange and rare</l> <l>The rosy light of dawn gleamed o'er the snow; </l></lg><lg type="stanza"><l>That hair, which bid the envious sun to know</l> <l>His brightest beams less golden rays did wear;</l> <l>That pure white hand, that gracious form and fair:</l> <l>All these into the dust of earth must go. </l></lg><lg type="stanza"><l>O perfect beauty in its tenderest age!</l> <l>O flower cut down ere it could all unfold</l> <l>By the stern hand of unrelenting death!</l> <l>Why did not Love itself quit earth's poor stage,</l> <l>Not because here dwelt beauty's perfect mould,</l> <l>But that so soon it passed from mortal breath?</l></lg> 
+<p>
+
+<milestone unit="sentence" n="230"/></p><closer><placeName reg="Finis">Finis</placeName>.</closer></div></body> </text></TEI>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:baron_de_jomini" projid="americanLit:jomini_war" urn="urn:cts:americanLit:baron_de_jomini.jomini_war" xml:lang="eng">
+  <ti:title xml:lang="eng">Summary of the Art of War, or a New Analytical Compend of the Principle Combinations of Strategy, of Grand Tactics and of Military Policy.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:baron_de_jomini.jomini_war.perseus-eng1" workUrn="urn:cts:americanLit:baron_de_jomini.jomini_war" xml:lang="eng">
+    <ti:label xml:lang="eng">Summary of the Art of War, or a New Analytical Compend of the Principle Combinations of Strategy, of Grand Tactics and of Military Policy.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

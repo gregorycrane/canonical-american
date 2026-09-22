@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_swinton" projid="americanLit:swinton_army" urn="urn:cts:americanLit:william_swinton.swinton_army" xml:lang="eng">
+  <ti:title xml:lang="eng">Campaigns of the Army of the Potomac</ti:title>
+  <ti:edition urn="urn:cts:americanLit:william_swinton.swinton_army.perseus-eng1" workUrn="urn:cts:americanLit:william_swinton.swinton_army" xml:lang="eng">
+    <ti:label xml:lang="eng">Campaigns of the Army of the Potomac</ti:label>
+    <ti:description xml:lang="eng">1866.</ti:description>
+  </ti:edition>
+</ti:work>

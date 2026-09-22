@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_wentworth_higginson" projid="americanLit:higg_oldport" urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_oldport" xml:lang="eng">
+  <ti:title xml:lang="eng">Oldport days, with ten heliotype illustrations from views taken in Newport, R. I., expressly for this work.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_oldport.perseus-eng1" workUrn="urn:cts:americanLit:thomas_wentworth_higginson.higg_oldport" xml:lang="eng">
+    <ti:label xml:lang="eng">Oldport days, with ten heliotype illustrations from views taken in Newport, R. I., expressly for this work.</ti:label>
+    <ti:description xml:lang="eng">James R. Osgood and Co. 1873.</ti:description>
+  </ti:edition>
+</ti:work>

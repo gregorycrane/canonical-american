@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:rowell_paper" urn="urn:cts:americanLit:anonymous.rowell_paper" xml:lang="eng">
+  <ti:title xml:lang="eng">George P. Rowell and Company's American Newspaper Directory</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.rowell_paper.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.rowell_paper" xml:lang="eng">
+    <ti:label xml:lang="eng">George P. Rowell and Company's American Newspaper Directory</ti:label>
+    <ti:description xml:lang="eng">New York. 1869.</ti:description>
+  </ti:edition>
+</ti:work>

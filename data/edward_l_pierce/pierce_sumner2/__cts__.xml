@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:edward_l_pierce" projid="americanLit:pierce_sumner2" urn="urn:cts:americanLit:edward_l_pierce.pierce_sumner2" xml:lang="eng">
+  <ti:title xml:lang="eng">Memoir and letters of Charles Sumner: volume 2</ti:title>
+  <ti:edition urn="urn:cts:americanLit:edward_l_pierce.pierce_sumner2.perseus-eng1" workUrn="urn:cts:americanLit:edward_l_pierce.pierce_sumner2" xml:lang="eng">
+    <ti:label xml:lang="eng">Memoir and letters of Charles Sumner: volume 2</ti:label>
+    <ti:description xml:lang="eng">Cambridge, MA. Press of John Wilson and Son. 1877.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:brooks_medford" urn="urn:cts:americanLit:anonymous.brooks_medford" xml:lang="eng">
+  <ti:title xml:lang="eng">HISTORY OF THE TOWN OF MEDFORD, Middlesex County, Massachusetts, FROM ITS FIRST SETTLEMENT, IN 1630, TO THE PRESENT TIME, 1855.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.brooks_medford.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.brooks_medford" xml:lang="eng">
+    <ti:label xml:lang="eng">HISTORY OF THE TOWN OF MEDFORD, Middlesex County, Massachusetts, FROM ITS FIRST SETTLEMENT, IN 1630, TO THE PRESENT TIME, 1855.</ti:label>
+    <ti:description xml:lang="eng">John Wilson and son. 22 School Street. Boston. 1855.</ti:description>
+  </ti:edition>
+</ti:work>

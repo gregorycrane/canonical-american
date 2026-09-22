@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:henry_morton_stanley" projid="americanLit:stanley_life" urn="urn:cts:americanLit:henry_morton_stanley.stanley_life" xml:lang="eng">
+  <ti:title xml:lang="eng">The Autobiography of Sir Henry Morton Stanley</ti:title>
+  <ti:edition urn="urn:cts:americanLit:henry_morton_stanley.stanley_life.perseus-eng1" workUrn="urn:cts:americanLit:henry_morton_stanley.stanley_life" xml:lang="eng">
+    <ti:label xml:lang="eng">The Autobiography of Sir Henry Morton Stanley</ti:label>
+    <ti:description xml:lang="eng">The Riverside Press. Cambridge, MA. 1909.</ti:description>
+  </ti:edition>
+</ti:work>

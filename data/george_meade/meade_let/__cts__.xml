@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:george_meade" projid="americanLit:meade_let" urn="urn:cts:americanLit:george_meade.meade_let" xml:lang="eng">
+  <ti:title xml:lang="eng">The Life and Letters of George Gordon Meade, Major-General United States Army</ti:title>
+  <ti:edition urn="urn:cts:americanLit:george_meade.meade_let.perseus-eng1" workUrn="urn:cts:americanLit:george_meade.meade_let" xml:lang="eng">
+    <ti:label xml:lang="eng">The Life and Letters of George Gordon Meade, Major-General United States Army</ti:label>
+    <ti:description xml:lang="eng">1913.</ti:description>
+  </ti:edition>
+</ti:work>

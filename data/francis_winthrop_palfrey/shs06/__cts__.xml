@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:francis_winthrop_palfrey" projid="americanLit:shs06" urn="urn:cts:americanLit:francis_winthrop_palfrey.shs06" xml:lang="eng">
+  <ti:title xml:lang="eng">Southern Historical Society Papers</ti:title>
+  <ti:edition urn="urn:cts:americanLit:francis_winthrop_palfrey.shs06.perseus-eng1" workUrn="urn:cts:americanLit:francis_winthrop_palfrey.shs06" xml:lang="eng">
+    <ti:label xml:lang="eng">Southern Historical Society Papers</ti:label>
+    <ti:description xml:lang="eng">Richmond, VA. 1878.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:comte_de_paris" projid="americanLit:comte_cwar_03" urn="urn:cts:americanLit:comte_de_paris.comte_cwar_03" xml:lang="eng">
+  <ti:title xml:lang="eng">History of the Civil War in America. Vol. 3.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:comte_de_paris.comte_cwar_03.perseus-eng1" workUrn="urn:cts:americanLit:comte_de_paris.comte_cwar_03" xml:lang="eng">
+    <ti:label xml:lang="eng">History of the Civil War in America. Vol. 3.</ti:label>
+    <ti:description xml:lang="eng">Philadelphia, Jos. H. Coates and co., 1883.</ti:description>
+  </ti:edition>
+</ti:work>

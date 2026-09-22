@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:charles_a_nelson_a_m" projid="americanLit:nelson_walth" urn="urn:cts:americanLit:charles_a_nelson_a_m.nelson_walth" xml:lang="eng">
+  <ti:title xml:lang="eng">Waltham, past, present and its industries, with an historical sketch of Watertown from its settlement in 1630 to the incorporation of Waltham, January 15, 1739.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:charles_a_nelson_a_m.nelson_walth.perseus-eng1" workUrn="urn:cts:americanLit:charles_a_nelson_a_m.nelson_walth" xml:lang="eng">
+    <ti:label xml:lang="eng">Waltham, past, present and its industries, with an historical sketch of Watertown from its settlement in 1630 to the incorporation of Waltham, January 15, 1739.</ti:label>
+    <ti:description xml:lang="eng">Thomas Lewis, Landscape Photographs, 1879.</ti:description>
+  </ti:edition>
+</ti:work>

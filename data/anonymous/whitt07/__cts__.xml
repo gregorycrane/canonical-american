@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:whitt07" urn="urn:cts:americanLit:anonymous.whitt07" xml:lang="eng">
+  <ti:title xml:lang="eng">The writings of John Greenleaf Whittier</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.whitt07.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.whitt07" xml:lang="eng">
+    <ti:label xml:lang="eng">The writings of John Greenleaf Whittier</ti:label>
+    <ti:description xml:lang="eng">Boston and New York, Houghton, Mifflin and company, 1888-89</ti:description>
+  </ti:edition>
+</ti:work>

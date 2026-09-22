@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:plutarch" projid="americanLit:knight_mech" urn="urn:cts:americanLit:plutarch.knight_mech" xml:lang="eng">
+  <ti:title xml:lang="eng">Knight's Mechanical Encyclopedia</ti:title>
+  <ti:edition urn="urn:cts:americanLit:plutarch.knight_mech.perseus-eng1" workUrn="urn:cts:americanLit:plutarch.knight_mech" xml:lang="eng">
+    <ti:label xml:lang="eng">Knight's Mechanical Encyclopedia</ti:label>
+    <ti:description xml:lang="eng">1877.</ti:description>
+  </ti:edition>
+</ti:work>

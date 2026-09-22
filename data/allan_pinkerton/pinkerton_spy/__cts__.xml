@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:allan_pinkerton" projid="americanLit:pinkerton_spy" urn="urn:cts:americanLit:allan_pinkerton.pinkerton_spy" xml:lang="eng">
+  <ti:title xml:lang="eng">The spy in the rebellion; being a true history of the spy system of the United States Army during the late rebellion, revealing many secrets of the war hitherto not made public, compiled from official reports prepared for President Lincoln, General McClellan and the Provost-Marshal-General.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:allan_pinkerton.pinkerton_spy.perseus-eng1" workUrn="urn:cts:americanLit:allan_pinkerton.pinkerton_spy" xml:lang="eng">
+    <ti:label xml:lang="eng">The spy in the rebellion; being a true history of the spy system of the United States Army during the late rebellion, revealing many secrets of the war hitherto not made public, compiled from official reports prepared for President Lincoln, General McClellan and the Provost-Marshal-General.</ti:label>
+    <ti:description xml:lang="eng">1883.</ti:description>
+  </ti:edition>
+</ti:work>

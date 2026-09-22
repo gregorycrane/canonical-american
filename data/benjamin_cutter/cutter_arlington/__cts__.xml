@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:benjamin_cutter" projid="americanLit:cutter_arlington" urn="urn:cts:americanLit:benjamin_cutter.cutter_arlington" xml:lang="eng">
+  <ti:title xml:lang="eng">History of the town of Arlington, Massachusetts, ormerly the second precinct in Cambridge, or District of Menotomy, afterward the town of West Cambridge. 1635-1879 with a genealogical register of the inhabitants of the precinct.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:benjamin_cutter.cutter_arlington.perseus-eng1" workUrn="urn:cts:americanLit:benjamin_cutter.cutter_arlington" xml:lang="eng">
+    <ti:label xml:lang="eng">History of the town of Arlington, Massachusetts, ormerly the second precinct in Cambridge, or District of Menotomy, afterward the town of West Cambridge. 1635-1879 with a genealogical register of the inhabitants of the precinct.</ti:label>
+    <ti:description xml:lang="eng">Boston: David Clapp and son. 564 Washington Street, 1880.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:archibald_h_grimke" projid="americanLit:martyn_garrison" urn="urn:cts:americanLit:archibald_h_grimke.martyn_garrison" xml:lang="eng">
+  <ti:title xml:lang="eng">William Lloyd Garrison the Abolitionist</ti:title>
+  <ti:edition urn="urn:cts:americanLit:archibald_h_grimke.martyn_garrison.perseus-eng1" workUrn="urn:cts:americanLit:archibald_h_grimke.martyn_garrison" xml:lang="eng">
+    <ti:label xml:lang="eng">William Lloyd Garrison the Abolitionist</ti:label>
+    <ti:description xml:lang="eng">Funk and Wagnall's Company. New York and London. 1889.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:somerville_universalist" urn="urn:cts:americanLit:anonymous.somerville_universalist" xml:lang="eng">
+  <ti:title xml:lang="eng">History of the First Universalist Church in Somerville, Mass. Illustrated; a souvenir of the fiftieth anniversary celebrated February 15-21, 1904</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.somerville_universalist.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.somerville_universalist" xml:lang="eng">
+    <ti:label xml:lang="eng">History of the First Universalist Church in Somerville, Mass. Illustrated; a souvenir of the fiftieth anniversary celebrated February 15-21, 1904</ti:label>
+    <ti:description xml:lang="eng">Published by the Parish. 1905</ti:description>
+  </ti:edition>
+</ti:work>

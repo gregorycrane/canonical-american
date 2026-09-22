@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:jula_ward_howe" projid="americanLit:howe_rem" urn="urn:cts:americanLit:jula_ward_howe.howe_rem" xml:lang="eng">
+  <ti:title xml:lang="eng">Reminiscences: 1819-1899</ti:title>
+  <ti:edition urn="urn:cts:americanLit:jula_ward_howe.howe_rem.perseus-eng1" workUrn="urn:cts:americanLit:jula_ward_howe.howe_rem" xml:lang="eng">
+    <ti:label xml:lang="eng">Reminiscences: 1819-1899</ti:label>
+    <ti:description xml:lang="eng">Houghton and Mifflin Company, 1899</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:elizabeth_cary_agassiz" projid="americanLit:agassiz_life" urn="urn:cts:americanLit:elizabeth_cary_agassiz.agassiz_life" xml:lang="eng">
+  <ti:title xml:lang="eng">Louis Agassiz: his life and correspondence, third edition</ti:title>
+  <ti:edition urn="urn:cts:americanLit:elizabeth_cary_agassiz.agassiz_life.perseus-eng1" workUrn="urn:cts:americanLit:elizabeth_cary_agassiz.agassiz_life" xml:lang="eng">
+    <ti:label xml:lang="eng">Louis Agassiz: his life and correspondence, third edition</ti:label>
+    <ti:description xml:lang="eng">Houghton, Mifflin and company, New York, Boston, 1885</ti:description>
+  </ti:edition>
+</ti:work>

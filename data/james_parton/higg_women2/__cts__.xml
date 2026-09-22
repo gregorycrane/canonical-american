@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:james_parton" projid="americanLit:higg_women2" urn="urn:cts:americanLit:james_parton.higg_women2" xml:lang="eng">
+  <ti:title xml:lang="eng">Women of the age; being natives of the lives and deeds of the most prominent women of the present gentlemen</ti:title>
+  <ti:edition urn="urn:cts:americanLit:james_parton.higg_women2.perseus-eng1" workUrn="urn:cts:americanLit:james_parton.higg_women2" xml:lang="eng">
+    <ti:label xml:lang="eng">Women of the age; being natives of the lives and deeds of the most prominent women of the present gentlemen</ti:label>
+    <ti:description xml:lang="eng">S. M. Betts and Company. Hartford, Conn. 1871.</ti:description>
+  </ti:edition>
+</ti:work>

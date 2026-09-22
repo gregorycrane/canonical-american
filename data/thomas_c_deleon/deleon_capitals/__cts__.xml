@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_c_deleon" projid="americanLit:deleon_capitals" urn="urn:cts:americanLit:thomas_c_deleon.deleon_capitals" xml:lang="eng">
+  <ti:title xml:lang="eng">Four years in Rebel capitals: an inside view of life in the southern confederacy, from birth to death.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:thomas_c_deleon.deleon_capitals.perseus-eng1" workUrn="urn:cts:americanLit:thomas_c_deleon.deleon_capitals" xml:lang="eng">
+    <ti:label xml:lang="eng">Four years in Rebel capitals: an inside view of life in the southern confederacy, from birth to death.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:rev_james_k_ewer_company_3_third_mass_cav" projid="americanLit:ewer_masscav3_rost" urn="urn:cts:americanLit:rev_james_k_ewer_company_3_third_mass_cav.ewer_masscav3_rost" xml:lang="eng">
+  <ti:title xml:lang="eng">Roster of the Third Massachusetts Cavalry Regiment in the war for the Union</ti:title>
+  <ti:edition urn="urn:cts:americanLit:rev_james_k_ewer_company_3_third_mass_cav.ewer_masscav3_rost.perseus-eng1" workUrn="urn:cts:americanLit:rev_james_k_ewer_company_3_third_mass_cav.ewer_masscav3_rost" xml:lang="eng">
+    <ti:label xml:lang="eng">Roster of the Third Massachusetts Cavalry Regiment in the war for the Union</ti:label>
+    <ti:description xml:lang="eng">Published by direction of the Historical Committee of the Regimental Association, 1903.</ti:description>
+  </ti:edition>
+</ti:work>

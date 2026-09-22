@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:colonel_theodore_lyman" projid="americanLit:lyman_grant" urn="urn:cts:americanLit:colonel_theodore_lyman.lyman_grant" xml:lang="eng">
+  <ti:title xml:lang="eng">With Grant and Meade from the Wilderness to Appomattox</ti:title>
+  <ti:edition urn="urn:cts:americanLit:colonel_theodore_lyman.lyman_grant.perseus-eng1" workUrn="urn:cts:americanLit:colonel_theodore_lyman.lyman_grant" xml:lang="eng">
+    <ti:label xml:lang="eng">With Grant and Meade from the Wilderness to Appomattox</ti:label>
+    <ti:description xml:lang="eng">Atlantic Monthly Press. 1922.</ti:description>
+  </ti:edition>
+</ti:work>

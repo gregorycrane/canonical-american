@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:emilio_luis_f" projid="americanLit:emilio_54th" urn="urn:cts:americanLit:emilio_luis_f.emilio_54th" xml:lang="eng">
+  <ti:title xml:lang="eng">History of the Fifty-Fourth Regiment of Massachusetts Volunteer Infantry, 1863-1865</ti:title>
+  <ti:edition urn="urn:cts:americanLit:emilio_luis_f.emilio_54th.perseus-eng1" workUrn="urn:cts:americanLit:emilio_luis_f.emilio_54th" xml:lang="eng">
+    <ti:label xml:lang="eng">History of the Fifty-Fourth Regiment of Massachusetts Volunteer Infantry, 1863-1865</ti:label>
+    <ti:description xml:lang="eng">1894Boston Book Co.Boston,</ti:description>
+  </ti:edition>
+</ti:work>

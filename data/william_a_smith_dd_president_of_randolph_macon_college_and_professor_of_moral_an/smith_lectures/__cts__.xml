@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_a_smith_dd_president_of_randolph_macon_college_and_professor_of_moral_an" projid="americanLit:smith_lectures" urn="urn:cts:americanLit:william_a_smith_dd_president_of_randolph_macon_college_and_professor_of_moral_an.smith_lectures" xml:lang="eng">
+  <ti:title xml:lang="eng">Lectures on the Philosophy and Practice of Slavery as exhibited in the Institution of Domestic Slavery in the United States: withe Duties of Masters to Slaves.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:william_a_smith_dd_president_of_randolph_macon_college_and_professor_of_moral_an.smith_lectures.perseus-eng1" workUrn="urn:cts:americanLit:william_a_smith_dd_president_of_randolph_macon_college_and_professor_of_moral_an.smith_lectures" xml:lang="eng">
+    <ti:label xml:lang="eng">Lectures on the Philosophy and Practice of Slavery as exhibited in the Institution of Domestic Slavery in the United States: withe Duties of Masters to Slaves.</ti:label>
+    <ti:description xml:lang="eng">Nashville, Tenn. Stevenson and Owen: 1857,</ti:description>
+  </ti:edition>
+</ti:work>

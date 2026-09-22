@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:james_russell_lowell" projid="americanLit:lowell_books" urn="urn:cts:americanLit:james_russell_lowell.lowell_books" xml:lang="eng">
+  <ti:title xml:lang="eng">Among my books</ti:title>
+  <ti:edition urn="urn:cts:americanLit:james_russell_lowell.lowell_books.perseus-eng1" workUrn="urn:cts:americanLit:james_russell_lowell.lowell_books" xml:lang="eng">
+    <ti:label xml:lang="eng">Among my books</ti:label>
+    <ti:description xml:lang="eng">Houghton, Mifflin and Company, Boston, 1876.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_wentworth_higginson" projid="americanLit:higg_women" urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_women" xml:lang="eng">
+  <ti:title xml:lang="eng">Women and Men</ti:title>
+  <ti:edition urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_women.perseus-eng1" workUrn="urn:cts:americanLit:thomas_wentworth_higginson.higg_women" xml:lang="eng">
+    <ti:label xml:lang="eng">Women and Men</ti:label>
+    <ti:description xml:lang="eng">Harper and Brothers, Franklin Square, New York. 1888.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,4 +1,4 @@
-# canoical-american
+# canonical-american
 
 TEI P5 and CTS conversion of the Perseus nineteenth-century American collection.
 
@@ -30,6 +30,25 @@ The converter:
 
 The collection namespace is `urn:cts:americanLit:`. Generated documents use the
 version identifier `perseus-eng1`.
+
+## Harper's gazetteer
+
+Harper's 1855 gazetteer is both a historical reading text and a database of
+77,000+ place entries. After the corpus conversion, build both forms with:
+
+```bash
+make harper
+```
+
+The repository stores the original converted P5 source as the ordinary,
+GitHub-safe compressed file `sources/harpgaz_1855.p5.xml.gz`. The command
+creates the ignored build products `gazetteers/harpgaz_1855.sqlite3`, including
+an FTS5 full-text index, and the expanded TEI reading edition with citations of the form
+`letter.entry-group` (100 entries per group). Page breaks, entry IDs, named
+entities, TGN keys, and complete TEI entry markup are preserved. The bounded
+groups keep individual MVP reading views responsive; the SQLite form supports
+headword, place-name, and full-text lookup without treating a whole alphabet
+letter as one passage.
 
 ## Check an existing build
 

@@ -1,0 +1,718 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <teiHeader type="text" status="new"> <fileDesc> <titleStmt> <title>The Liberator, 32.1: Friday, Jan. 3, 1862: sample</title> <author>Digital Divide</author> <funder>IMLS</funder> </titleStmt>  <publicationStmt><publisher>Perseus Digital Library</publisher><availability><p>Converted from the legacy Perseus TEI P4 American collection.</p></availability></publicationStmt><sourceDesc> 
+<p>Boston, 1862. </p></sourceDesc> </fileDesc> <encodingDesc> <refsDecl xml:id="CTS"><citeStructure match="/TEI/text/body" use="@n"><citeStructure unit="chapter" n="chunk" delim=":" match="div[@type='chapter']" use="@n"/></citeStructure></refsDecl></encodingDesc> <profileDesc> <langUsage> <language ident="en">English </language><language ident="la">Latin </language><language ident="grc">Greek </language><language ident="fr">French </language><language ident="it">Italian </language><language ident="es">Spanish </language></langUsage> </profileDesc> <revisionDesc><change when="2026-09-21">Converted from TEI P4 source ddd.lib.samp.ie.xml; CTS metadata and citations added.</change></revisionDesc></teiHeader> 
+<text xml:lang="eng"><body xml:base="urn:cts:americanLit:digital_divide.ddd_lib_samp.perseus-eng1"> 
+<div type="chapter" xml:id="c.1" n="1" subtype="chapter"> 
+<head>Poetry.</head> 
+<div type="section" xml:id="c.1.1" n="c.1.1"> 
+<head>For the <rs>Liberator</rs>.</head> 
+<head>Liberty, <persName n="Rights,,Equal,,," key="n-0001.0001.00000.00001"><forename>Equal</forename> <surname>Rights</surname></persName>, Brotherhood with all.</head> 
+<p>
+
+<milestone unit="sentence" n="1"/>I.</p> <lg type="pentameter"><lg type="stanza"><l>It was a stirring cry through <placeName>France</placeName> that rang,</l> <l> “Liberty, <persName n="Rights,,Equal,,," key="n-0001.0001.00000.00002"><forename>Equal</forename> <surname>Rights</surname></persName>, true Brotherhood” </l> <l>Prophetic words I yet not then understood</l> <l>For not that license which to action sprang</l> <l>Was heaven-born <placeName>Liberty</placeName>, calm, stern, and just</l> <l>But wild Revenge, for injuries borne long;</l> <l>For ages of oppression, cruel wrong,</l> <l>Until the trampled people could not trust</l> <l>Their rulers, nobles, princes, kings, and priests,</l> <l>O wretched peasants, classed but with the beasts!</l> <l><placeName reg="Ye River">Ye</placeName> rose like beasts, maddened by driver's lash,</l> <l>Revengeful, headstrong, Ignorant, and rash!,</l> <l>‘Liberty, <persName n="Rights,,Equal,,," key="n-0001.0001.00000.00003"><forename>Equal</forename> <surname>Rights</surname></persName>, true Brotherhood’</l> <l>World-stirring words, soon were ye quenched in blood.</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="2"/><num value="2">II</num>.
+
+<milestone unit="sentence" n="3"/>Liberty.</p> <lg type="pentameter"><lg type="stanza"><l><persName n="America,,,,," key="n-0001.0001.00000.00004"><surname>America</surname></persName>, who in the childhood brake</l> <l>The yoke that wronged thy growing strength, awake!</l> <l>Canst thou be free, while slavery taints thy soil?</l> <l>Backsliding nation, thou once bravely stood</l> <l>For “Freedom, <persName n="Rights,,Equal,,," key="n-0001.0001.00000.00005"><forename>Equal</forename> <surname>Rights</surname></persName>, true Brotherhood” ;</l> <l>Curse not <name n="Divine Providence" type="God">God's</name> earth with forced and unpaid toil!</l> <l>Does <placeName>Freedom</placeName> mean a license to oppress?</l> <l>Does <placeName>Freedom</placeName> mean submission to a mob?</l> <l>Will <placeName>Freedom</placeName> send a brother in distress</l> <l>Back to his self-styled owner?
+
+<milestone unit="sentence" n="4"/>Will the son</l> <l>Of Infancy sold from its mother's arms,</l> <l>Of <placeName>Freedom</placeName> be unheard, to still th' alarms</l> <l>Of <persName><forename>Slavery</forename></persName>, her foe?
+
+<milestone unit="sentence" n="5"/>Wouldst thou be strong,</l> <l><persName n="America,,,,," key="n-0001.0001.00000.00006"><surname>America</surname></persName>, restrain this monster wrong!</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="6"/><num value="3">III</num>.
+
+<milestone unit="sentence" n="7"/>Equal <persName n="Rights,,,,," key="n-0001.0001.00000.00007"><surname>Rights</surname></persName>.</p> <lg type="pentameter"><lg type="stanza"><l><persName n="America,,,,," key="n-0001.0001.00000.00008"><surname>America</surname></persName>, what says thine Honored Law?</l> <l> “Free, free and equal all mankind are born;” </l> <l>None of <name n="Divine Providence" type="God">God's</name> children may a brother scorn.</l> <l>Because of race or color.
+
+<milestone unit="sentence" n="8"/><name n="Divine Providence" type="God">God</name>, who saw</l> <l>Fit, in His wisdom, mankind to divide</l> <l>In families and nations, loathes the pride</l> <l>Of class, or color, that would see a flaw</l> <l>In His appointment—make the skin a plea</l> <l>For insults vile, Did not thy statesmen draw</l> <l>From his Son's Gospel inspiration free,—</l> <l> “Call no man master; to I come to break</l> <l>Tha oppressor's bonds, and from the tyrant take</l> <l>His victims.” O, backsliding nation, turn</l> <l>To <name n="Divine Providence" type="God">God</name>, and his just laws no longer spurn!</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="9"/><num value="4">IV</num>.
+
+<milestone unit="sentence" n="10"/>Brotherhood.</p> <lg type="pentameter"><lg type="stanza"><l><persName n="America,,,,," key="n-0001.0001.00000.00009"><surname>America</surname></persName>, thy pride of skin and race</l> <l>Spurns not alone the hapless, purchased slave,</l> <l>But thy free colored children.
+
+<milestone unit="sentence" n="11"/>The least trace.</l> <l>Of Afric's blood no brotherhood can save</l> <l>From white men's haughty scorn, as set apart.</l> <l>Backsliding nation! where is the warm heart</l> <l>That beats responsive to all human kind?</l> <l>The brother's car pained by a brother's cry?</l> <l>The tearful glance from melting Pity's eye?</l> <l>Where the unprejudiced, expansive mind?</l> <l><persName n="America,,,,," key="n-0001.0001.00000.00010"><surname>America</surname></persName>, thine is an awful choice</l> <l>Proud States, now ruined, cry with warning voice,</l> <l> “Before too late, repent—avert thy doom!</l> <l>Time and Experience, stern teachers, come!” </l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="12"/>V. The <rs>Future</rs>.</p> <lg type="pentameter"><lg type="stanza"><l>Taught by Experience and <persName n="Time,,,,," key="n-0001.0001.00000.00011"><surname>Time</surname></persName>, and saved</l> <l>By counsel from the men thou once hast braved,</l> <l><persName n="America,,,,," key="n-0001.0001.00000.00012"><surname>America</surname></persName>, thou hast retraced the road—</l> <l>The downward road, strewed with old ruined States—</l> <l>And shaken off the heavy, guilty load</l> <l>Of slavery.
+
+<milestone unit="sentence" n="13"/>Now no brother, trembling waits</l> <l>The man-degrading block, the hammer's fall,</l> <l>That makes <name n="Divine Providence" type="God">God's</name> child a chattel.
+
+<milestone unit="sentence" n="14"/>Cast a pall</l> <l>Of dark oblivion o'er thy sinful youth:</l> <l>Thou didst pass through a stern baptism of blood;</l> <l>Now “Freedom, <persName n="Rights,,Equal,,," key="n-0001.0001.00000.00013"><forename>Equal</forename> <surname>Rights</surname></persName>, true Brotherhood” </l> <l>Of <rs type="color">black</rs> and <rs type="color">white</rs>, prove thy maturer growth:</l> <l>Holy and precious words! they raise a State;</l> <l>They make it honered, feared, loved, truly great.</l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="15"/></p><closer><signed><persName n="Ashby,,Jane,,," key="n-0001.0001.00000.00014"><forename>Jane</forename>  <surname>Ashby</surname></persName>.</signed> <dateline><placeName>Tonterdon</placeName>, (<placeName>England</placeName>) </dateline></closer></div> 
+<div type="section" xml:id="c.1.2" n="c.1.2"> 
+<head>For the <rs>Liberator</rs>.</head> 
+<head>The martyr of <placeName reg="Harpers Ferry, Jefferson, West Virginia" key="tgn,7016154">Harper's Ferry</placeName>.</head> <lg> <l>The earth looks sad and dreary, as if <name n="Divine Providence" type="God">God</name> with sin were weary;</l> <l>Holy secret tears are falling—sacred souls on <name n="Divine Providence" type="God">God</name> are calling;</l> <l>And all, dear <rs type="role2">Lord</rs>, who fear thee, are drawing closely near thee;</l> <l>For thy ways are growing darker, and the times are more appalling.</l> <l>Look amid the mount of leopards—look amid the dens of lions—</l> <l>Where the <rs>Son</rs> of the <rs>Beloved</rs>, where the man whom <name n="Divine Providence" type="God">God</name> has moved;</l> <l><persName n="Thon,,,,," key="n-0001.0001.00000.00015"><surname>Thon</surname></persName> bring him forth from prison, from his fetters, from his irons,</l> <l>That man whose holy love must to-day by death be proved.</l> <l>Tyrants, who this man have taken, think him not of <name n="Divine Providence" type="God">God</name> forsaken!</l> <l>Look!
+
+<milestone unit="sentence" n="16"/>What light is round him flowing see, his sacred face is glowing!</l> <l>Angel-thoughts within him waken—he goes forth to death unshaken:</l> <l>Oh! <hi>Gloria</hi> in <hi>Excelsiz</hi>, the faith <rs>John Brown</rs> is showing!</l> <l>That gallows darkly frowning, 'tis but the place of crowning—</l> <l>There the martyr's crown he gaineth, there the glory on him raineth,</l> <l>How he longeth for the moment when death, all sorrow drowning,</l> <l><name n="Divine Providence" type="God">God</name> no more His love restraineth!</l> <l>Who are these the place surrounding; in their wings a glorious sounding,</l> <l>As Impatient for the time that shall consummate this crime?</l> <l>And from these lions' dens, from these serpents in their fens,</l> <l>They shall bear him unto Heaven's general clime.</l> <l>These are angels of the <rs>Lord</rs>——the servants of his word—</l> <l>???ty melteth through the glory of their dyes,</l> <l>As is drawn the noose abhorred, of the twisted <placeName>Southern</placeName> cord,</l> <l>Round the nook of the slave's sacrifice;</l> <l>All around in order dread the tyrant armies spread,</l> <l>In pomp and in terrible array;</l> <l>This harlot nation red with the blood of guiltless dead,</l> <l>Heareth not for her own coming day!</l> <l>'Tis come, the moment dread—the cap is o'er his head—</l> <l>Heaven shuddereth!
+
+<milestone unit="sentence" n="17"/><placeName reg="Fort Hell">Hell</placeName> shouteth, “It is done!” </l> <l>He swings dead, dead, dead—the glorious soul has fled</l> <l>Of <persName n="Christ,,,,," key="n-0001.0001.00000.00016"><surname>Christ</surname></persName>'s well-beloved, martyred son!</l> <l>I heard, in visioned sleep, thunders long, and loud, and deep,</l> <l><num value="3">Three</num> nights before the time—before the time;</l> <l>And I know <name n="Divine Providence" type="God">God's</name> voice was there, bidding the dark <rs>South</rs> prepare</l> <l>For judgment on this crime—on this crime!</l> <l><placeName reg="Newport, Newport, Rhode Island" key="tgn,7014221">Newport, R. I.</placeName></l></lg> 
+<p>
+
+<milestone unit="sentence" n="18"/>S. L.L. </p></div> 
+<div type="section" xml:id="c.1.3" n="c.1.3"> 
+<head>From the <orgName n="Chicago Tribune" type="newspaper">Chicago Tribune</orgName>.</head> 
+<head>The old fogy's appeal; or, <quote>do not touch the <rs>Nigger</rs>.</quote>
+
+<milestone unit="sentence" n="19"/></head> 
+<p>Air—<hi><persName n="Doodle,,Yankee,,," key="n-0001.0001.00000.00017"><forename>Yankee</forename> <surname>Doodle</surname></persName></hi>.</p> <lg type="pentameter"><lg type="stanza"><l>Old fogies sing on every hand—</l> <l>The little man and bigger</l> <l>Wage war against the rebel band,</l> <l><hi>But</hi>, do not touch “the Nigger!” </l></lg> <lg type="stanza"><l>Strike any other martial blow,</l> <l>And use extremest rigor;</l> <l><hi>But</hi>, lest you “irritate the fee,” </l> <l>Oh, do not touch “the Nigger;” </l></lg> <lg type="stanza"><l>Let every rifle drop a man,</l> <l>Whene'er ye draw the trigger;</l> <l>Aim at what vital part you can,</l> <l><hi>But</hi>, do not touch “the Nigger!” </l></lg> <lg type="stanza"><l>'Tis true, their slaves a profit yield</l> <l>Of the very “highest figger” ;</l> <l>They work them hard in trench and field,</l> <l><hi>But</hi>, do not touch. “the Nigger!” </l></lg> <lg type="stanza"><l>What though they arm and drill the slave?</l> <l>We do not care a fig, ah!</l> <l>Let the <name>Confederate</name> banner wave,</l> <l><hi>But</hi>, do not touch “the Nigger!” </l></lg> <lg type="stanza"><l><placeName reg="Ye River">Ye</placeName> seamen in the navy, toil</l> <l>From <rs type="role2">Commodore</rs> to rigger;</l> <l>Bombard the forts, possess the soil,</l> <l><hi>But</hi>, do not touch “the Nigger!” </l></lg> <lg type="stanza"><l><placeName reg="Ye River">Ye</placeName> fossils all, at <placeName>Washington</placeName>,</l> <l>Who “Democrat” or “Whig” are,</l> <l>Confiscate what the traitors own,</l> <l><hi>But</hi>, do not touch “the Nigger!” </l></lg> <lg type="stanza"><l>A <measure n="1000000dollars" type="currency">million dollars</measure> every day</l> <l>Is a pretty costly “figger” ;</l> <l>But <hi rend="italics">any</hi> money let us pay,</l> <l>Rather than touch “the Nigger!” </l></lg> <lg type="stanza"><l>The war dyes red <orgName n="Our Country" type="newspaper">our country's</orgName> dust,</l> <l>And every hour grown bigger;</l> <l>But part with dearest friends we must,</l> <l>Sooner than touch “the Nigger.” !</l></lg> <lg type="stanza"><l>Down with the agitators, then,</l> <l>Who running such a rig are,</l> <l>The reckless Abolition men,</l> <l>Who wish to touch “the Nigger!” </l></lg> <lg type="stanza"><l>Thus sings the fogy; of the grave</l> <l>Of freedom he's the digger,</l> <l>Denies all justice to the slave,</l> <l>And whines, touch not “the Nigger!” </l></lg> <lg type="stanza"><l>But patriots, who, the war to end,</l> <l>Would wage it with all vigor,</l> <l>Cry, to the heart the arrow send!</l> <l>Give freedom to “the Nigger!” </l></lg></lg> 
+<p>
+
+<milestone unit="sentence" n="20"/></p><closer><signed><persName><forename>Plebs</forename></persName>.<note anchored="yes"> 
+<p><persName><forename>Plebs</forename></persName> does not like the word <quote>Nigger,</quote> which occurs so frequently above. He never uses it of his own accord; and employs it now as a quotation simply, it being a current word with the class represented. </p></note></signed></closer></div></div> 
+<div type="chapter" xml:id="c.2" n="2" subtype="chapter"> 
+<head>Anti-<persName><forename>Slavery</forename></persName> meeting at Bromley England.</head> 
+<p>
+
+<milestone unit="sentence" n="21"/>On <dateStruct><day type="name">Tuesday</day></dateStruct> <time>evening</time>, <dateStruct value="-11-23"><day reg="23">23d</day> <month reg="11">Nov.</month></dateStruct>, a very interesting meeting of anti-slavery friends was held in the <name>Methodist</name> <orgName n="Free Church" type="church">Free Church</orgName>, <placeName reg="Devon's Road">Devon's Road</placeName>, <placeName reg="Bromley,Greater London,England,United Kingdom,Europe;Bromley,England,United Kingdom,Europe" key="tgn,7011822;tgn,7018910">Bromley, England</placeName>. The principal object of the meeting was to hear an address from <persName n="Kinnaird,Reverend,T.,M.,," key="n-0001.0002.00000.00018"><roleName n="Reverend">the Rev.</roleName> <forename>T.</forename> <forename>M.</forename> <surname>Kinnaird</surname></persName>, (a colored minister, formerly a slave,) on behalf of a church and schools now in course of erection at <placeName>Hamilton</placeName>, <rs type="direction">West</rs> <placeName reg="Canada" key="tgn,7005685">Canada</placeName>, for escaped or liberated slaves, and others of the colored race <persName><forename>Joseph</forename></persName> A <name>Horner</name>, <rs type="role" reg="Esquire">Esq.</rs> of the National <persName n="League,,Anti,Slavery,," key="n-0001.0002.00000.00019"><forename>Anti</forename> <forename>Slavery</forename> <surname>League</surname></persName>, occupied the chair, and among the gentlemen present we noticed the following:—<persName n="Kinnaird,Reverend,T.,M.,," key="n-0001.0002.00000.00020"><roleName n="Reverend">The Rev.</roleName> <forename>T.</forename> <forename>M.</forename> <surname>Kinnaird</surname></persName>, <persName n="Pullen,,W.,H.,," key="n-0001.0002.00000.00021"><forename>W.</forename> <forename>H.</forename> <surname>Pullen</surname></persName>, esq., <persName n="Sec,the Honorable,,,," key="n-0001.0002.00000.00022"><roleName n="the Honorable">Hon.</roleName> <surname>Sec</surname></persName>. of the Leeds Young Men's Anti <orgName n="Slavery Society" type="society">Slavery Society</orgName>, <persName n="Horn,,T.,G.,," key="n-0001.0002.00000.00023"><forename>T.</forename> <forename>G.</forename> <surname>Horn</surname></persName>, <persName n="Thompson,Esquire,G.,Herbert,," key="n-0001.0002.00000.00024"><roleName n="Esquire">Esq.</roleName> <forename>G.</forename> <forename>Herbert</forename> <surname>Thompson</surname></persName>, Esq., (<rs type="role" reg="Editor">Editor</rs> of the <hi>Power Hamlets Express</hi>,) <persName n="Harvey,Mr.,Joseph,,," key="n-0001.0002.00000.00025"><roleName n="Mr.">Messrs.</roleName> <forename>Joseph</forename> <surname>Harvey</surname></persName>, <persName n="Harvey,Mr.,Thomas,,," key="n-0001.0002.00000.00026"><roleName n="Mr."/><forename>Thomas</forename> <surname>Harvey</surname></persName>, <persName n="Buff,Mr.,Thomas,,," key="n-0001.0002.00000.00027"><roleName n="Mr."/><forename>Thomas</forename> <surname>Buff</surname></persName> ham, <persName n="Catt,,R.,W.,," key="n-0001.0002.00000.00028"><forename>R.</forename> <forename>W.</forename> <surname>Catt</surname></persName>, of <placeName>Stratford</placeName>, <persName n="Andrew,,J.,J.,," key="n-0001.0002.00000.00029"><forename>J.</forename> <forename>J.</forename> <surname>Andrew</surname></persName>, and <persName n="Jefferson,,Madison,,," key="n-0001.0002.00000.00030"><forename>Madison</forename> <surname>Jefferson</surname></persName> (a gentleman of color).</p> 
+<p>
+
+<milestone unit="sentence" n="22"/>The <rs>Chairman</rs>, who was received with much applause, said—My dear friends, we have met here this evening to hear an address from a gentleman whom I am always gratified to meet, as he is a very able advocate of the anti-slavery cause.
+
+<milestone unit="sentence" n="23"/>I may remark, (as my position here to night is consequent upon my connection with that body,) that the <rs>Anti Slavery League</rs> have examined into the case of <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00031"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, and feel every confidence in recommending it to the public.
+
+<milestone unit="sentence" n="24"/>(Hear, hear.) That gentleman has already collected a very considerable sum for his church in <placeName>Canada</placeName>, and is now desirous of completing the amount as speedily as possible.
+
+<milestone unit="sentence" n="25"/>In recommending his cause to your favor able consideration, I can assure you not only of its worthiness of support, but that there is every possible guarantee that the funds obtained by <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00032"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName> are duly appropriated to the objects of his mission.
+
+<milestone unit="sentence" n="26"/>(Hear, hear.) With regard to slavery, there can be but <num value="1">one</num> feeling in an <name>English</name> meeting upon the subject (hear,)—for, although <placeName>England</placeName> has abolished slavery in her own dominions, her sympathy with the bondman has not ceased, and the claims of the <name>American</name> slave, when brought fairly before the <name>British</name> public, never fail to meet with an earnest-and warm-hearted response.
+
+<milestone unit="sentence" n="27"/>(Cheers.) If the <rs n="American people" type="group">Americans</rs> will not adopt anti slavery opinions, it is not because they have never been told better.
+
+<milestone unit="sentence" n="28"/>(Hear.) I am proud to say that we have some gentlemen here to-night, who have been the means of teaching the <rs n="American people" type="group">Americans</rs> better.
+
+<milestone unit="sentence" n="29"/>(Cheers.) We have <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00033"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, himself, who will presently address you.
+
+<milestone unit="sentence" n="30"/>We have <persName n="Pullen,Mr.,W.,H.,," key="n-0001.0002.00000.00034"><roleName n="Mr.">Mr.</roleName> <forename>W.</forename> <forename>H.</forename> <surname>Pullen</surname></persName>, Honorary Secretary to the <persName n="Anti,,Leeds,,," key="n-0001.0002.00000.00035"><forename>Leeds</forename> <surname>Anti</surname></persName> <orgName n="Slavery Society" type="society">Slavery Society</orgName>. He will tell you what his Society has told the people on the other side of the <rs>Atlantic</rs>.
+
+<milestone unit="sentence" n="31"/>(Cheers.) I am also happy to say that we have here the son of that distinguished and eloquent advocate of the rights of the slave, <persName n="Thompson,,George,,," key="n-0001.0002.00000.00036"><forename>George</forename> <surname>Thompson</surname></persName>, who, as you all know, has told the <rs n="American people" type="group">Americans</rs> again and again, in a voice of thunder, the iniquities of slavery.
+
+<milestone unit="sentence" n="32"/>(<persName n="Loud,,,,," key="n-0001.0002.00000.00037"><surname>Loud</surname></persName> cheers.) The <rs>Anti-Slavery League</rs>, which I have the honor to represent here to night, numbers among its council many true-hearted veterans in the cause.
+
+<milestone unit="sentence" n="33"/><persName n="Thompson,Mr.,George,,," key="n-0001.0002.00000.00038"><roleName n="Mr.">Mr.</roleName> <forename>George</forename> <surname>Thompson</surname></persName> is <num value="1">one</num> of them (hear). <persName n="Wilks,,Washington,,," key="n-0001.0002.00000.00039"><forename>Washington</forename> <surname>Wilks</surname></persName> is another (cheers); and <persName n="Twelvetrees,Mr.,,,," key="n-0001.0002.00000.00040"><roleName n="Mr.">Mr.</roleName> <surname>Twelvetrees</surname></persName> another.
+
+<milestone unit="sentence" n="34"/>(Cheers.) The objects of our League are to coöperate with and assist all other societies in accomplishing universal freedom, to extend the right hand of welcome and of fellowship to all fugitives from <name>American</name> despotism who reach the shores of this country, (hear,) and to show the sentiments of the <name>English</name> nation upon the subject of slavery.
+
+<milestone unit="sentence" n="35"/>(Lond. cheers.) Regarding the war now raging in <placeName>America</placeName>, let it be understood that the <rs>South</rs> are emphatically fighting for slavery, though I will not say that the <rs>North</rs> are entirely anti-slavery; but knowing the <rs>South</rs> to be so unquestionably pro-slavery, we cannot but feel a sympathy with their opponents to at least as great an extent as their own anti-slavery principles go.
+
+<milestone unit="sentence" n="36"/>(Hear, hear) I have now to introduce to you the <rs>Rev</rs>. <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00041"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, who I trust will receive a warm reception at your hands.
+
+<milestone unit="sentence" n="37"/>(Cheers.)</p> 
+<p>
+
+<milestone unit="sentence" n="38"/><rs type="role" reg="Reverend">The Rev.</rs> <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00042"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, who, on rising, was much applauded, said he always deemed it a high privilege to be permitted to offer a few words, on an <name>English</name> platform, on behalf of his oppressed country men in <placeName>America</placeName>.
+
+<milestone unit="sentence" n="39"/>The important object which had brought him there to-night grew out of that accursed system of slavery.
+
+<milestone unit="sentence" n="40"/>If it were not for that disgraceful institution, he did not believe that there would be a single countryman of his begging in this country.
+
+<milestone unit="sentence" n="41"/>(Hear.) He could hardly be said to be begging now for his own countrymen, because, when they reached <placeName>Canada</placeName>, he looked upon them as subjects of the <rs>British Crown</rs>.
+
+<milestone unit="sentence" n="42"/>(Hear.) <placeName>Canada</placeName> was the brightest spot on earth to the fugitive slave, for it was to him a place of refuge from all his hardships and all his wrongs.
+
+<milestone unit="sentence" n="43"/>It was the only-sport upon the <name>American</name> continent where a colored person was recognized as a man, or where he could call himself, his wife or his child his own The slaveholder claimed to be a <name n="Divine Providence" type="God">god</name> in his own country.
+
+<milestone unit="sentence" n="44"/>In all questions of religion, the slaveholders desired to be omnipotent.
+
+<milestone unit="sentence" n="45"/>Whatever the master was, <rs n="Roman Catholic" type="religion">Roman Catholic</rs>, <persName><forename>Baptist</forename></persName> or <placeName>Presbyterian</placeName>, that the slave must be.
+
+<milestone unit="sentence" n="46"/>The slave was not allowed to choose with what denomination he should worship.
+
+<milestone unit="sentence" n="47"/>He must do whatever his master told him.
+
+<milestone unit="sentence" n="48"/>The negro had no appeal from his master's decision.
+
+<milestone unit="sentence" n="49"/>If his master decided that he was to be burnt, he was burnt.
+
+<milestone unit="sentence" n="50"/>If his master decided that his right hand was to be cut off, it was cut off.
+
+<milestone unit="sentence" n="51"/><persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00043"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName> then gave some particulars of his own slave life and experience, by way of proving that these statements were not exaggerations, but, on the contrary, a true picture of the condition of the <name>American</name> slave.
+
+<milestone unit="sentence" n="52"/>Slavery, he emphatically declared, was an abomination of the blackest dye.
+
+<milestone unit="sentence" n="53"/>The tyrannical and brutal influences of slavery were shown in the treatment of those who had been possessed of the moral courage to tell the <rs n="American people" type="group">Americans</rs> the enormity of their crime.
+
+<milestone unit="sentence" n="54"/>Look at the influence of slavery even in the <orgName n="Senate" type="military">Senate</orgName>, as evidenced in that shameful outrage upon <persName n="Slavery,,Charles,Sumner,," key="n-0001.0002.00000.00044"><forename>Charles</forename> <forename>Sumner</forename> <surname>Slavery</surname></persName> denied the right of <persName n="Christ,,,,," key="n-0001.0002.00000.00045"><surname>Christ</surname></persName>'s reign, and claimed to reign for itself.
+
+<milestone unit="sentence" n="55"/><persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00046"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName> next made reference to his own visits to <placeName>Canada</placeName>, and stated his conviction that much could be done to elevate the position of the colored man, after his escape from bondage had been completed.
+
+<milestone unit="sentence" n="56"/>He had noticed the want of an institution for their secular and religious education, by which they might be enabled to assume respectable positions in society.
+
+<milestone unit="sentence" n="57"/>He had, therefore, come to this country, with a view to complete the establishment of a church, a school, and a temporary home for colored refugees in <placeName>Hamilton</placeName>, <rs type="direction">West</rs> <placeName reg="Canada" key="tgn,7005685">Canada</placeName>. By the erection of an institution combining these qualities, the poor fugitive who found his way to that spot need not be without food or lodging, and the means would be at hand for his education and employment.
+
+<milestone unit="sentence" n="58"/>The total cost of the building would be <measure n="600l." type="pounds">£ <num value="600">600</num></measure>. He has already collected <measure n="120l." type="pounds">£ <num value="120">120</num></measure> since his arrival in <placeName>England</placeName>.
+
+<milestone unit="sentence" n="59"/>The walls of the building were now up, and his friends in <placeName>America</placeName> wrote to say they wanted about <measure n="80l." type="pounds">£ <num value="80">80</num></measure> more to put the roof on.
+
+<milestone unit="sentence" n="60"/>(Laughter and cheers.) Having passed a high compliment to the <rs>Anti-Slavery League</rs>, the Rev. gentleman resumed his seat amidst great applause.</p> 
+<p>
+
+<milestone unit="sentence" n="61"/>The <rs>Chairman</rs> said he had now great pleasure in calling upon <persName n="Pullen,,William,Henry,," key="n-0001.0002.00000.00047"><forename>William</forename> <forename>Henry</forename> <surname>Pullen</surname></persName>, Esq., <rs type="role" reg="Secretary">Secretary</rs> of the <persName n="Anti,,Leeds,,," key="n-0001.0002.00000.00048"><forename>Leeds</forename> <surname>Anti</surname></persName> <orgName n="Slavery Society" type="society">Slavery Society</orgName>, to address the meeting.</p> 
+<p>
+
+<milestone unit="sentence" n="62"/><persName n="Pullen,Mr.,,,," key="n-0001.0002.00000.00049"><roleName n="Mr.">Mr.</roleName> <surname>Pullen</surname></persName>, who was well received, said, although he was a long way from home, yet, when he was at an <persName n="Anti,,,,," key="n-0001.0002.00000.00050"><surname>Anti</surname></persName>-<persName><forename>Slavery</forename></persName> meeting, he was always at home.
+
+<milestone unit="sentence" n="63"/>(Hear, hear,) In reference to the doings of the <persName n="Anti,,Leeds,,," key="n-0001.0002.00000.00051"><forename>Leeds</forename> <surname>Anti</surname></persName> <orgName n="Slavery Society" type="society">Slavery Society</orgName>, he must, of course, feel some modesty in speaking of the subject.
+
+<milestone unit="sentence" n="64"/>He might, however, state that, although they had commenced on a small scale, they had now greatly extended their operations, and frequently held meetings in large halls, which he was glad to say were always crowded.
+
+<milestone unit="sentence" n="65"/>(Hear.) The <rs>Anti-Slavery League</rs> was a desideratum, the want of which had long been felt.
+
+<milestone unit="sentence" n="66"/>He was very glad of its formation, and should always feel happy to render it his best assistance.
+
+<milestone unit="sentence" n="67"/>(Cheers.) He entirely sympathized with the mission of <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00052"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName> to this country, and hoped he would be speedily enabled to accomplish the result he desired.
+
+<milestone unit="sentence" n="68"/>It was a good and noble idea to educate and clothe the poor fugitives from slaveholding tyranny, and fit them for the ordinary paths of life, that they might give the lie to the unjust assertion that the black man was inferior to the white.
+
+<milestone unit="sentence" n="69"/>(Cheers.)</p> 
+<p>
+
+<milestone unit="sentence" n="70"/>The <rs>Chairman</rs> said it was with much pleasure that he now called upon <persName n="Thompson,Mr.,George,Herbert,," key="n-0001.0002.00000.00053"><roleName n="Mr.">Mr.</roleName> <forename>George</forename> <forename>Herbert</forename> <surname>Thompson</surname></persName>, son of that distinguished orator, <persName n="Thompson,Mr.,George,,," key="n-0001.0002.00000.00054"><roleName n="Mr.">Mr.</roleName> <forename>George</forename> <surname>Thompson</surname></persName>, and editor of the <hi>Tower Hamlets Express</hi>, to address the meeting.</p> 
+<p>
+
+<milestone unit="sentence" n="71"/><persName n="Thompson,Mr.,Herbert,,," key="n-0001.0002.00000.00055"><roleName n="Mr.">Mr.</roleName> <forename>Herbert</forename> <surname>Thompson</surname></persName> said that, although he had come with the intention of listening, and not of speaking, he was ready to respond to the <rs>Chairman</rs>'s call by a few brief sentences.
+
+<milestone unit="sentence" n="72"/>The <rs>Chairman</rs> had made reference to his father's anti-slavery efforts, and, for his own part, he was glad to have an opportunity of assuring them how thoroughly he participated in that abhorrence of the atrocious crime of slaveholding which had been <num value="1">one</num> of the leading principles of his father's life.
+
+<milestone unit="sentence" n="73"/>He expressed his thorough approval of the cause for which <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00056"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, was pleading, and concluded by moving a vote of thanks to that gentleman in the following terms:--<quote>That the thanks of this meeting be given to the <rs>Rev</rs>. <persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00057"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, together with its best wishes for the speedy success of his mission to <placeName>England</placeName></quote> (Cheers.)</p> 
+<p>
+
+<milestone unit="sentence" n="74"/><persName n="Jefferson,Mr.,Madison,,," key="n-0001.0002.00000.00058"><roleName n="Mr.">Mr.</roleName> <forename>Madison</forename> <surname>Jefferson</surname></persName> seconded the resolution, which was unanimously carried.</p> 
+<p>
+
+<milestone unit="sentence" n="75"/><persName n="Kinnaird,Mr.,,,," key="n-0001.0002.00000.00059"><roleName n="Mr.">Mr.</roleName> <surname>Kinnaird</surname></persName>, in reply, said he was delighted to have the opportunity of meeting the son of <persName n="Thompson,Mr.,George,,," key="n-0001.0002.00000.00060"><roleName n="Mr.">Mr.</roleName> <forename>George</forename> <surname>Thompson</surname></persName> on that occasion.
+
+<milestone unit="sentence" n="76"/>There was no man in the ranks of the <rs>Abolitionists</rs> more honored or admired than <persName n="Thompson,,George,,," key="n-0001.0002.00000.00061"><forename>George</forename> <surname>Thompson</surname></persName>, the veteran friend of the oppressed, who had fought by the side of <persName n="Wilberforce,,,,," key="n-0001.0002.00000.00062"><surname>Wilberforce</surname></persName>, <persName n="Buxton,,,,," key="n-0001.0002.00000.00063"><surname>Buxton</surname></persName> and <persName><forename>Brougham</forename></persName>, the triumphant battle of <persName n="Emancipation,,Negro,,," key="n-0001.0002.00000.00064"><forename>Negro</forename> <surname>Emancipation</surname></persName> in the <placeName reg="West Indies" key="tgn,7004550">West Indies</placeName>.</p></div> 
+<div type="chapter" xml:id="c.3" n="3" subtype="chapter"> 
+<head>The news from <placeName>England</placeName>.</head> 
+<p>
+
+<milestone unit="sentence" n="77"/>by <persName n="Smith,,Gerrit,,," key="n-0001.0003.00000.00065"><forename>Gerrit</forename> <surname>Smith</surname></persName>.</p> 
+<p>
+
+<milestone unit="sentence" n="78"/>Alas!
+
+<milestone unit="sentence" n="79"/>That this news should find us still embarrassed, and still diddling with the negro question!
+
+<milestone unit="sentence" n="80"/>Alas!
+
+<milestone unit="sentence" n="81"/>That we should still have <num value="1">one</num> war upon our hands, while we are threatened with another!
+
+<milestone unit="sentence" n="82"/>Had we, as we should have done, disposed of this question at the beginning of the war, then would its beginning have also been its ending.
+
+<milestone unit="sentence" n="83"/>If slavery was not, as it certainly was, the sole cause of the war, it, nevertheless, was that vulnerable spot in the foe at which we should have struck without a moment's delay.
+
+<milestone unit="sentence" n="84"/>Instead of repelling the negroes, bond and free, by insults and cruel treatment, we could have brought them all to our side by simply inviting them to it.
+
+<milestone unit="sentence" n="85"/>As it is, the war has grown into a very formidable <num value="1">one</num>; and the threatened <num value="1">one</num> growing out of it will be far more formidable; whereas, had we not acted insanely on the negro question, we should have dreaded neither.
+
+<milestone unit="sentence" n="86"/>More than this, had we, as it was so easy to do, struck instant death into the <num value="1" type="ordinal">first</num> war, we should have escaped the threat of this <num value="2" type="ordinal">second</num> <num value="1">one</num>.</p> 
+<p>
+
+<milestone unit="sentence" n="87"/>For what is it that the <name>English</name> press threatens us with war?
+
+<milestone unit="sentence" n="88"/>It is for compelling the <name n="United Kingdom">English</name> ship to give up the <rs>Rebel Commissioners</rs>.
+
+<milestone unit="sentence" n="89"/>So it says.
+
+<milestone unit="sentence" n="90"/>This is the ostensible reason.
+
+<milestone unit="sentence" n="91"/>But would not <placeName>England</placeName>—she who is so famous for clinging to an almost entirely unqualified and unlimited right of search—have done the same thing in like circumstances?
+
+<milestone unit="sentence" n="92"/>If she would not, then she would not have been herself.
+
+<milestone unit="sentence" n="93"/>Had a part of her home counties revolted, and sent a couple of their rebels to <placeName>America</placeName> for help, would she not have caught them, if she could? and in whatever circumstances they might have been found?
+
+<milestone unit="sentence" n="94"/>If she says she would not, there is not on all the earth <num value="1">one</num> <quote>Jew Apella</quote> so credulous as to believe her.
+
+<milestone unit="sentence" n="95"/>If she confesses she would, then is she self-convicted, not only of trampling in her boundless dishonesty on the great and never-to-be-violated principle of doing as we would be done by, but of insulting us by claiming that we ought to be tame and base enough to forbear to do that which her self-respect and high spirit would prompt her to do.</p> 
+<p>
+
+<milestone unit="sentence" n="96"/>But perhaps <placeName>England</placeName> would not have done, as we did.
+
+<milestone unit="sentence" n="97"/>Her naval captains have, however, taken <num value="1000">thousands</num> of seamen from our ships—these captains constituting themselves the sole accusers, witnesses and judges in the cases.
+
+<milestone unit="sentence" n="98"/>It was chiefly for such outrages that we declared was against her in <dateStruct value="1812--"><year reg="1812">1812</year></dateStruct>. The instance, of the <placeName reg="San Jacinto">San Jacinto</placeName> and <persName n="Trent,,,,," key="n-0001.0003.00000.00066"><surname>Trent</surname></persName> is not like these.
+
+<milestone unit="sentence" n="99"/>In this instance, there was no question, because no doubt, of personal identity.
+
+<milestone unit="sentence" n="100"/>But, I repeat, perhaps <placeName>England</placeName> would not have done as we did.
+
+<milestone unit="sentence" n="101"/>In a case so aggravated, she would, perhaps, nay, probably, have taken ship and all.
+
+<milestone unit="sentence" n="102"/>By the way, it may be that we did act illegally in not seizing the ship as well as the rebels, and subjecting her to a formal trial: but if in this we fell into a mistake, could <placeName>England</placeName> be so mean as to make war upon us for it?—for a mistake which was prompted by a kind and generous regard for the comfort and interests of <rs n="Englishman" type="group">Englishmen</rs>?
+
+<milestone unit="sentence" n="103"/>Surely, if <placeName>England</placeName> is not noble enough to refuse to punish for <hi rend="italics">any</hi> mere mistake, she is, nevertheless, not monstrous enough to punish for the mistake, which grow solely out of the desire to serve her.</p> 
+<p>
+
+<milestone unit="sentence" n="104"/>But wherein have we harmed <placeName>England</placeName> in this matter?
+
+<milestone unit="sentence" n="105"/>We have insulted her, is the answer.
+
+<milestone unit="sentence" n="106"/>We have not, however, intended to insult her: and an unintended insult is really no insult.
+
+<milestone unit="sentence" n="107"/>If, in my eagerness to overtake the man who has deeply injured me, I run rudely through my neighbor's house, he will not only not accuse me of insulting him, but he will pardon so much to my very excusable eagerness as to leave but little ground of any kind of complaint against me.
+
+<milestone unit="sentence" n="108"/>Surely, if <placeName>England</placeName> were but to ask her own heart how she would feel toward men in her own bosom, who, without the slightest provocation, were busy in breaking up her nation, and in plundering and slaughtering her people, she would be more disposed to shed tears of pity for us than to make war upon us.</p> 
+<p>
+
+<milestone unit="sentence" n="109"/>It is not possible that <placeName>England</placeName> will make war upon us for what we did to the <rs>Trent</rs>, and for doing which she has herself furnished us innumerable precedents, It is not possible that she will so ignore, nay, so deny and dishonor her own history.
+
+<milestone unit="sentence" n="110"/>I will not believe that <placeName>England</placeName>, whom I have ever loved and honored almost as if she were my own country, and who, whatever prejudiced and passionate <name>American</name> writers have written to the contrary, has hitherto, during our great and sore trial, done nothing through her government, nor through the great body of her people, to justify the attempt by a portion (happily a very small and very unworthy portion) of our press to stir up our national feeling against her—I say, I will not believe that this loved and honored <placeName>England</placeName> will make war upon us for a deed in which we intended her no wrong; in which, so far as her own example is authority, there is no wrong; and in which, in the light of reason, and, as it will prove in the judgment of mankind, there is no wrong.
+
+<milestone unit="sentence" n="111"/>She could not make so causeless a war upon us, without deeply and broadly blotting her own character, and the character of modern civilization.
+
+<milestone unit="sentence" n="112"/>But, after all, what better is our modern civilization than a mere blot and botch if the nation, which is preëminently its exponent, can be guilty, and without the least real cause of provocation, and upon pretexts as frivolous as they are false, of seeking to destroy a sister nation?—a sister nation, too, whose present embarrassments and distresses appeal so strongly to every good heart?
+
+<milestone unit="sentence" n="113"/>Moreover, how little will it argue for the cause of human rights and popular institutions, if the nation, which claims to be the chief champion of that cause, can wage so wicked a war upon a nation claiming no humbler relation to that precious cause?</p> 
+<p>
+
+<milestone unit="sentence" n="114"/>What, then, do I hold that <placeName>England</placeName> should do in this case?.</p> 
+<p>
+
+<milestone unit="sentence" n="115"/><num value="1" type="ordinal">1st</num>. Reprimand, or more severely punish, the <rs>Captain</rs> of the <rs>Trent</rs> for his very gross and very guilty violation of our rights in furnishing exceedingly important facilities to our enemy.
+
+<milestone unit="sentence" n="116"/>This our Government should have promptly insisted on, and not have suffered <placeName>England</placeName> to get the start of us with her absurd counter claim.
+
+<milestone unit="sentence" n="117"/>This is a case in which not we, but <placeName>England</placeName>, should have been made defendant.
+
+<milestone unit="sentence" n="118"/>It is her <rs type="role2">Captain</rs> who is the real offender.
+
+<milestone unit="sentence" n="119"/>Ours is, at the most, but a nominal <num value="1">one</num>.
+
+<milestone unit="sentence" n="120"/>In the conduct of her <rs type="role2">Captain</rs> were the spirit and purpose, as well as the doing, of wrong.
+
+<milestone unit="sentence" n="121"/>The conduct of ours, on the contrary, was prompted by the spirit and purpose of doing right; and if, in any respect, it was erroneous, it was simply in regard to the <hi rend="italics">forms</hi> of doing right.
+
+<milestone unit="sentence" n="122"/>Moreover, the guilt of her <rs type="role2">Captain</rs> can be diminished by nothing that was seemingly or really guilty in ours.
+
+<milestone unit="sentence" n="123"/>The criminality of taking the rebels into the <rs>Trent</rs> was none the less, because of any mistakes which attended the getting of them out.
+
+<milestone unit="sentence" n="124"/>Nevertheless, <placeName>England</placeName> takes no action against him.
+
+<milestone unit="sentence" n="125"/>Her policy is to have her guilty <rs type="role2">Captain</rs> lost sight of in her bluster about our innocent <num value="1">one</num>.
+
+<milestone unit="sentence" n="126"/>To screen the thief, she cries, <quote>Stop thief!</quote>
+
+<milestone unit="sentence" n="127"/>Her policy is to prevent us from getting the true issue before the public mind, by occupying it with her false <num value="1">one</num>.</p> 
+<p>
+
+<milestone unit="sentence" n="128"/>How preposterous is the claim of <placeName>England</placeName> to her right to make war, because we took our rebellious subjects from her ship!
+
+<milestone unit="sentence" n="129"/>The taking of them into her ship is the only thing in the case which can possibly furnish cause of war.
+
+<milestone unit="sentence" n="130"/><hi>That</hi>, of unless amply apologized for, does, in the light of international law, furnish abundant cause of war.</p> 
+<p>
+
+<milestone unit="sentence" n="131"/>Did ever hypocrisy and impudence go farther than in <placeName>England</placeName>'s putting American on trial!
+
+<milestone unit="sentence" n="132"/>Was there ever a more emphatic <quote>putting the saddle on the wrong horse</quote> ? I overtake the thief who has stolen my watch, and jerk it from his pocket.
+
+<milestone unit="sentence" n="133"/>He turns to the people, not to confess his theft, but to protest against my rudeness, and to have me, instead of himself, regarded as the criminal!</p> 
+<p>
+
+<milestone unit="sentence" n="134"/>An old fable tells us that a council of animals, with the lion at their head, put an ass on trial for having <quote>broused the bigness of his tongue.</quote>
+
+<milestone unit="sentence" n="135"/>The lion (<placeName>England</placeName>) was constrained to confess that he had himself eaten sheep, and shepherds too.
+
+<milestone unit="sentence" n="136"/>Nevertheless, it was the offence of the ass (American) that caused the council to shudder with horror.
+
+<milestone unit="sentence" n="137"/><quote>What!
+
+<milestone unit="sentence" n="138"/>Eat another's grass?
+
+<milestone unit="sentence" n="139"/>O shame!</quote>
+
+<milestone unit="sentence" n="140"/>And so the virtuous rascals condemned him to die, and rejoiced anew in their conscious innocence.</p> 
+<p>
+
+<milestone unit="sentence" n="141"/>Moreover, <placeName>England</placeName>, instead of turning to her own conscience with the true case, has the brazen effrontery to appeal to our conscience with her trumped — up case.
+
+<milestone unit="sentence" n="142"/>Which of the parties in this instance needs conscience-quickening, is no less certain than in the instance of the footpad and the traveller, whom he had robbed of his bags of gold.
+
+<milestone unit="sentence" n="143"/>The poor traveller meekly asked for a few coins to defray his expenses homeward.
+
+<milestone unit="sentence" n="144"/><quote>Take them from <num value="1">one</num> of the bags,</quote> said the footpad, with an air of chivalrous, magnanimity, but, on seeing the traveller take half a dozen instead of <num value="2">two</num> or <num value="3">three</num>, he exclaimed, <quote>Why, man, have you no conscience?</quote>
+
+<milestone unit="sentence" n="145"/><placeName>England</placeName>; through her subject and???, entered into a conspiracy against <persName n="America,,,,," key="n-0001.0003.00000.00067"><surname>America</surname></persName>.
+
+<milestone unit="sentence" n="146"/><persName n="America,,,,," key="n-0001.0003.00000.00068"><surname>America</surname></persName>, through her subject and servant, forbore to punish the wickedness, and simply stopped it.
+
+<milestone unit="sentence" n="147"/>And yet <placeName>England</placeName> bids us to our conscience!</p> 
+<p>
+
+<milestone unit="sentence" n="148"/>Why should <placeName>England</placeName> protect her <rs type="role2">Captain</rs>?
+
+<milestone unit="sentence" n="149"/>Her <rs type="role2">Queen</rs>, in her last <dateStruct value="-05-"><month reg="05">May</month></dateStruct>'s Proclamation, warned him that, for doing what he has done, he should <quote>in no wise obtain any protection.</quote>
+
+<milestone unit="sentence" n="150"/>He had full knowledge of the official character of the rebels, and at least inferential knowledge of their bearing dispatches with them.
+
+<milestone unit="sentence" n="151"/>But, besides that the whole spirit of it is against what he has done, her Proclamation specifies <quote>officers</quote> and <quote>dispatches</quote> in the list of what her subjects are prohibited to carry <quote>for the use or service of either of the contending parties.</quote>
+
+<milestone unit="sentence" n="152"/></p> 
+<p><placeName>England</placeName> did not protect the <rs>Captain</rs> of her mail-<term type="ship">steamer</term>, <rs type="ship">Teviot</rs>, who, during our war with <placeName>Mexico</placeName>, was guilty of carrying the <placeName>Mexican</placeName> <persName n="Paredez,General,,,," key="n-0001.0003.00000.00069"><roleName n="General">General</roleName> <surname>Paredez</surname></persName>. He was suspended.
+
+<milestone unit="sentence" n="153"/>Why does she spare the <rs>Captain</rs> of the <placeName>Trent</placeName>?
+
+<milestone unit="sentence" n="154"/>Is it because she has more sympathy with the <orgName n="Southern Confederacy" type="newspaper">Southern Confederacy</orgName> than she had with <placeName>Mexico</placeName>?—and is, therefore, more tender toward him who serves the former, than she was toward him who served the latter?
+
+<milestone unit="sentence" n="155"/>But it will, perhaps, be said, that we have not demanded satisfaction in this case as we did in that.
+
+<milestone unit="sentence" n="156"/><placeName>England</placeName>, nevertheless, knows that we are entitled to it; and that she is bound to satisfy us for the wrongs she did us, before she complains of the way we took to save ourselves from the deep injury with which that great and guilty wrong threatened us.
+
+<milestone unit="sentence" n="157"/>In this connexion, I add, that if, upon her own principles and precedents, the <rs>Captain</rs> of the <rs>Trent</rs> deserves punishment for what he did, she is estopped from magnifying into a grave offence our undoing what he did.</p> 
+<p>
+
+<milestone unit="sentence" n="158"/><num value="2" type="ordinal">2d</num>. The next thing which <placeName>England</placeName> should do is to give instructions, or rather to repeat those in the <rs>Queen</rs>'s Proclamation, that no more rebel <rs type="role2">Commissioners</rs> be received into her vessels.</p> 
+<p>
+
+<milestone unit="sentence" n="159"/><num value="3" type="ordinal">3d</num>. And then she should inform us whether, in the case of a vessel that shall hereafter offend in this wise, she would have us take the vessel itself, or take but the <rs>Commissioners</rs>.
+
+<milestone unit="sentence" n="160"/>It is true that, whatever her preference, we would probably insist in every case in taking the vessel:—for it is not probable that we shall again expose ourselves in such a case to the charge of taking too little.
+
+<milestone unit="sentence" n="161"/>It is, however, also true, that, should she prefer our taking the vessel, we will <hi rend="italics">certainly</hi> never take less.</p> 
+<p>
+
+<milestone unit="sentence" n="162"/>But such instructions and information, although they would provide for future cases, would leave the present case unprovided for, and <placeName>England</placeName> might still say that she could not acquiesce in our having, in this case, taken the <rs>Commissioners</rs> instead of the <term type="ship">vessel</term> <rs type="ship">What</rs> then?
+
+<milestone unit="sentence" n="163"/>She ought to be content with the expression of our regret that we did not take the mode of her choice, and the more so as that mode could not have been followed by any different result in respect to our getting possession of the <rs>Commissioners</rs>.
+
+<milestone unit="sentence" n="164"/>But this might not satisfy her:—and what then?
+
+<milestone unit="sentence" n="165"/>She should generously wait until this unnatural and horrid war is off our hands; and if the parties could not then agree, they should submit the case to an <name>Umpire</name>.
+
+<milestone unit="sentence" n="166"/>If, however, she should call for an <persName n="Umpire,,,,," key="n-0001.0003.00000.00070"><surname>Umpire</surname></persName> <hi rend="italics">now</hi>, then, although the civilized world would think badly of her for it, and our own nation be very slow to forgive her for it, I would, nevertheless, in my abhorrence of all war, have our Government consent to an <persName n="Umpire,,,,," key="n-0001.0003.00000.00071"><surname>Umpire</surname></persName> <hi rend="italics">now</hi>. Nay, in the spirit of this abhorrence, and for the sake of peace, I would go much farther.
+
+<milestone unit="sentence" n="167"/>If no other concession we could make would satisfy <placeName>England</placeName>, I would have our Government propose to surrender the rebels, <persName n="Mason,,,,," key="n-0001.0003.00000.00072"><surname>Mason</surname></persName> and <persName n="Slidell,,,,," key="n-0001.0003.00000.00073"><surname>Slidell</surname></persName>, in case the <rs>English Government</rs> would say, distinctly and solemnly, that it would not itself disturb neutral vessels having on board rebels who had gone out from <placeName>England</placeName> in quest of foreign aid to overturn the <rs>English Government</rs>.
+
+<milestone unit="sentence" n="168"/>An ineffably base Government would it prove itself to be should it refuse to say this, and yet declare war on the ground of our capture of rebels who were on their way for foreign help to overturn our government.</p> 
+<p>
+
+<milestone unit="sentence" n="169"/>I spoke of my abhorrence of all war.
+
+<milestone unit="sentence" n="170"/>Our life-long opponents of war find themselves unexpectedly in sympathy with mighty armies.
+
+<milestone unit="sentence" n="171"/>They have to confess that they never anticipated a rebellion so vast; still less did they ever anticipate that <placeName>England</placeName> would be guilty of coming to the help of such a satanic rebellion.</p> 
+<p>
+
+<milestone unit="sentence" n="172"/>I have said that <placeName>England</placeName> will not go to war with us in the case of the <rs>Trent</rs>.
+
+<milestone unit="sentence" n="173"/>Nevertheless, I am not without fear that her Government will be driven to declare war against us.
+
+<milestone unit="sentence" n="174"/>The <rs>Government</rs> of no other nation (and this is honorable to <placeName>England</placeName>) is more influenced by the people.
+
+<milestone unit="sentence" n="175"/>By such an affair as the capture of <persName n="Mason,,,,," key="n-0001.0003.00000.00074"><surname>Mason</surname></persName> and <persName n="Slidell,,,,," key="n-0001.0003.00000.00075"><surname>Slidell</surname></persName>, the patriotism of the least-informed and superficial and excitable part of her people is easily and extensively wrought upon.
+
+<milestone unit="sentence" n="176"/>With this part of her people the inviolability of the <name>British</name> flag is more than all earth besides.
+
+<milestone unit="sentence" n="177"/>But it is not by that capture, nor by those classes to whom it appeals with such peculiar power, that the <rs>Government</rs> will be moved.
+
+<milestone unit="sentence" n="178"/>If an irresistible pressure comes upon the <rs>Government</rs>, it will come from those people who long for the cotton and the free trade of the <rs>South</rs>, and who have allowed themselves to get angry with the <rs>North</rs> by foolishly misconstruing our high tariff (which is simply a necessary war measure) into a <hi rend="italics">hostile commercial measure</hi>. The capture of <persName n="Mason,,,,," key="n-0001.0003.00000.00076"><surname>Mason</surname></persName> and <persName n="Slidell,,,,," key="n-0001.0003.00000.00077"><surname>Slidell</surname></persName> will be only the pretext, not the provocation; only the occasion, not the cause of the war.</p> 
+<p>
+
+<milestone unit="sentence" n="179"/>If <placeName>England</placeName> wishes to go to war with us for any wrongs we have done her, she shall not have the chance—for we will promptly repair the wrongs, at whatever sacrifice of property or pride.
+
+<milestone unit="sentence" n="180"/>But if, as I still honor and love her too much to believe, she wishes to go to war with us at any rate, and chooses this our time of trouble as her time to make us an easy prey, then will she be gratified.
+
+<milestone unit="sentence" n="181"/>It will be but fair, however, to advertise her that she must not take our fighting in the war with the rebels as a sample of what will be our fighting in the war with herself.
+
+<milestone unit="sentence" n="182"/>The former is fooling.
+
+<milestone unit="sentence" n="183"/>The latter will be fighting.
+
+<milestone unit="sentence" n="184"/>On all subjects connected with slavery, and therefore in a war about slavery, we <rs n="American people" type="group">Americans</rs> are fools.
+
+<milestone unit="sentence" n="185"/>We cannot help it.
+
+<milestone unit="sentence" n="186"/>We have worshipped the idol so long and so devoutly; that when in its all-influential presence, we cannot be men.
+
+<milestone unit="sentence" n="187"/>The powers of our moral nature are, however, not destroyed; they are but perverted.
+
+<milestone unit="sentence" n="188"/>And such an outrage as the <name>English</name> press threatens us with will restore their legitimate use.
+
+<milestone unit="sentence" n="189"/>Our manhood is not dead; it but sleeps.
+
+<milestone unit="sentence" n="190"/>And as it was when the <rs>Philistines</rs> fell upon the bound <rs>Samson</rs>, that the <rs>Spirit</rs> of the <rs>Lord</rs> came to his help, so, when the <rs>English</rs> shall fall upon the worse-bound.
+
+<milestone unit="sentence" n="191"/><rs n="American people" type="group">Americans</rs>, this sleeping manhood will awake. And it will awake to assort itself, not merely against the <rs>English</rs>, but against the rebels also.
+
+<milestone unit="sentence" n="192"/>And it will do this mightily, because it will, at the same time, be asserting itself against its own life-long degradations, and the hateful cause of them.
+
+<milestone unit="sentence" n="193"/>Let us but know that <placeName>England</placeName>, to whom we have done no wrong, has resolved to come to the help of the <rs>Pro-Slavery Rebellion</rs>, and our deep indignation against her, combining with our deeper indignation against ourselves, will arm us with the spirit and the power to snap the <quote>cords,</quote> and <quote>green withs,</quote> and <quote>new ropes,</quote> with which slavery has bound us, and to dash to the dust the foul idol whose worship has so demented and debased us.
+
+<milestone unit="sentence" n="194"/>Yes, let us hear this month that <placeName>England</placeName> has declared war against us, and this month will witness our Proclamation of <persName><forename>Liberty</forename></persName> to every slave in the land.
+
+<milestone unit="sentence" n="195"/>No thanks will be due her for the happy effect upon us of her Declaration of War. No thanks will be due her that the <rs>Declaration</rs> will have the effect to save us—to save us by making us antislavery.
+
+<milestone unit="sentence" n="196"/>No more half-way measures, and no more nonsense on the subject of slavery, shall we then propose.
+
+<milestone unit="sentence" n="197"/>There will be no more talk then of freeing <num value="1">one</num> sort of slaves, and continuing the other in slavery; but we shall then invite every negro in the land, bond and free, to identity himself, <quote>arm and soul,</quote> with our cause.
+
+<milestone unit="sentence" n="198"/>And then there will be no more talk of <hi rend="italics">swapping off</hi> taxes for negroes, and no more talk of colonizing and apprenticing them.
+
+<milestone unit="sentence" n="199"/>Then we shall be eager to lift up the negroes into the enjoyment of all the rights of manhood, that so we may have in them <hi rend="italics">men</hi> to stand by our side, and help us make short work with the present war, and with that with which we are threatened.</p> 
+<p>
+
+<milestone unit="sentence" n="200"/>Owing to the bewitching and debauching influence of slavery upon our whole nation, there are, even in the Free States, divisions among us in regard to the present war.
+
+<milestone unit="sentence" n="201"/>But, should <placeName>England</placeName> so causelessly, cruelly and meanly force a war, upon us, there will be no divisions among us in regard to that war—nor, indeed, will there then be in regard to the other.
+
+<milestone unit="sentence" n="202"/>And so deep and abiding will be our sense of her boundless injustice, that there will never be any among us to welcome propositions of peace with <placeName>England</placeName>, until her war with us shall, have reached the result of our subjugation, or of her expulsion from every part of the <rs>Continent</rs> of <placeName reg="North America" key="tgn,1000001">North America</placeName>. Moreover, we shall rejoin to hear of the crushing of her power every where—for we shall feel that the nation which can be guilty of such a war is fit to govern no where—in the <rs>Eastern</rs> no more than in the <placeName>Western</placeName> hemisphere.</p></div> 
+<div type="chapter" xml:id="c.4" n="4" subtype="chapter"> 
+<head>Change in <placeName>Washington</placeName>.</head> 
+<p>
+
+<milestone unit="sentence" n="203"/>To-day treason is bolder in <placeName reg="New England" key="tgn,7014203">New England</placeName>, the sanctuary of loyalty, than here at the seat of government.
+
+<milestone unit="sentence" n="204"/>The hearts of patriots are gladdened all the day, at the signs of fear that show the harmless venom, of slavery's minions.
+
+<milestone unit="sentence" n="205"/>Liberty is exultant, defiant; while slavery crouches and skulks.
+
+<milestone unit="sentence" n="206"/>Night after night, martial bands of music fill the air with inspiring strains to call the champions of freedom, of senatorial dignity, to the balconies, to utter bold denunciations of slavery as the father whence sprung the monster treason.
+
+<milestone unit="sentence" n="207"/>The vast throngs that gather in the streets shout loudest when the utterance of the orator is most defiant of the great crime of the country.</p> 
+<p>
+
+<milestone unit="sentence" n="208"/>We often see the former haughty advocates of <quote>the institution</quote> creeping about the corners of the streets, talking in bated breath of the <quote>sad changes</quote> from the time when republican meetings were broken up by pro-slavery mobs, and to-day, when <placeName reg="Jim Lane">Jim Lane</placeName> of <placeName reg="Kansas" key="tgn,7007254">Kansas</placeName>, and <persName n="Lovejoy,,Owen,,," key="n-0001.0004.00000.00078"><forename>Owen</forename> <surname>Lovejoy</surname></persName> of <placeName reg="Illinois" key="tgn,7007251">Illinois</placeName>, standing on the steps of <placeName reg="Willard's Hotel">Willard's Hotel</placeName>, are rapturously cheered when they proclaim themselves the advocates of emancipation.</p> 
+<p>
+
+<milestone unit="sentence" n="209"/>The lecture system has been inaugurated in <placeName>Washington</placeName> for the purpose of introducing <persName n="Beecher,,,,," key="n-0001.0004.00000.00079"><surname>Beecher</surname></persName>, <persName n="Phillips,,,,," key="n-0001.0004.00000.00080"><surname>Phillips</surname></persName>, <persName n="Emerson,,,,," key="n-0001.0004.00000.00081"><surname>Emerson</surname></persName>, <persName n="Curtis,,,,," key="n-0001.0004.00000.00082"><surname>Curtis</surname></persName> and others of like character to an audience at the <rs>Capital</rs>.
+
+<milestone unit="sentence" n="210"/>The lecture room of the <placeName reg="Smithsonian Institute">Smithsonian Institute</placeName> was duly procured.
+
+<milestone unit="sentence" n="211"/>That, of all places, should be the <num value="1">one</num>.
+
+<milestone unit="sentence" n="212"/>There should be the theatre of their triumph. Strenuous efforts were made to defeat the object, by appeals to <persName n="Henry,Professor,,,," key="n-0001.0004.00000.00083"><roleName n="Professor">Professor</roleName> <surname>Henry</surname></persName>, but in vain.
+
+<milestone unit="sentence" n="213"/><persName n="Brownson,,O.,A.,," key="n-0001.0004.00000.00084"><forename>O.</forename> <forename>A.</forename> <surname>Brownson</surname></persName> was announced to give the <num value="1" type="ordinal">first</num> lecture.
+
+<milestone unit="sentence" n="214"/>The press interfered.
+
+<milestone unit="sentence" n="215"/><placeName>Baltimore</placeName> papers raised the alarm, and threatened.
+
+<milestone unit="sentence" n="216"/>They even condescended to sneer.
+
+<milestone unit="sentence" n="217"/>The <hi>Star</hi> of this city was shocked.
+
+<milestone unit="sentence" n="218"/>The antediluvian sheet, called the <hi>Intelligencer</hi>, maintained a disgraceful silence.
+
+<milestone unit="sentence" n="219"/>Only the <hi>Republican</hi> spoke in favor, and that earnestly.
+
+<milestone unit="sentence" n="220"/>The opposition finally shirked into the darkness of night, and spent its force in mutilating the posted bills giving notice of the lecture.
+
+<milestone unit="sentence" n="221"/>The night at length arrived, and the room capable of seating <dateStruct value="1500--"><year reg="1500">1500</year></dateStruct> people was filled.
+
+<milestone unit="sentence" n="222"/><persName n="Brownson,Mr.,,,," key="n-0001.0004.00000.00085"><roleName n="Mr.">Mr.</roleName> <surname>Brownson</surname></persName> was great, but his audience was worthy of the orator and his theme.
+
+<milestone unit="sentence" n="223"/>He was bold, kindling as his audience cheered his brave sallies, and his heavy blows fell upon the crest of slavery as</p> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="224"/></p><l>The sword of <persName><forename>Michael</forename></persName> smote and felled squadrons at once.</l></quote> 
+<p>
+
+<milestone unit="sentence" n="225"/>Never have the proprietors of that room been so startled as by the repeated and continued applause that followed every telling blow upon the shackles of the slave.
+
+<milestone unit="sentence" n="226"/>The next day was <num value="1">one</num> of congratulation, and the rooms of the departments were audience chambers for republican advocates of liberty, who wickedly witnessed with pleasure the tortures of the old place men, whose hearts still yearned for the flesh-spots of <placeName>Egypt</placeName>.</p> 
+<p>
+
+<milestone unit="sentence" n="227"/>Last <dateStruct><day type="name">Friday</day></dateStruct> <time>night</time>, <persName><forename>Rev</forename></persName>. <persName n="Storrs,Mr.,,,," key="n-0001.0004.00000.00086"><roleName n="Mr.">Mr.</roleName> <surname>Storrs</surname></persName> of <placeName reg="Brooklyn, New York, Kings, New York" key="tgn,7015822">Brooklyn, N. Y.</placeName>, entertained an audience full as large as that of the week before.
+
+<milestone unit="sentence" n="228"/>He was brilliant; and the glitter of his rhetoric charmed his listeners from the beginning.
+
+<milestone unit="sentence" n="229"/>Towards the close of his lecture, the temper of the multitude was displayed when he alluded to <name>American</name> slavery, and cut with his keen blade where <persName n="Brownson,,,,," key="n-0001.0004.00000.00087"><surname>Brownson</surname></persName> had smashed with his ponderous weapon.
+
+<milestone unit="sentence" n="230"/>Loud and repeated were the cheers that will gladden our hearts till <persName n="Phillips,,Wendell,,," key="n-0001.0004.00000.00088"><forename>Wendell</forename> <surname>Phillips</surname></persName> shall stand in his peerless might to slay the monster in his ancient stronghold.</p> 
+<p>
+
+<milestone unit="sentence" n="231"/></p><closer><signed><persName n="corr,,Washington,,," key="n-0001.0004.00000.00089"><forename>Washington</forename>  <surname>corr</surname></persName>. of <orgName n="Independent Democrat" type="newspaper">Independent Democrat</orgName>.</signed></closer></div> 
+<div type="chapter" xml:id="c.5" n="5" subtype="chapter"> 
+<head>Just the other way.</head> 
+<p>
+
+<milestone unit="sentence" n="232"/>The following advertisement will explain itself:— 
+<text><body> 
+<p>
+
+<milestone unit="sentence" n="233"/><measure n="500dollars" type="currency">$500</measure> <hi>Reward</hi>. Rund away from me on de <num value="7" type="ordinal">7th</num> of dis month, my <persName n="Rhett,Massa,Julan,,," key="n-0001.0005.00000.00090"><roleName n="Massa">massa</roleName> <forename>Julan</forename> <surname>Rhett</surname></persName>. <persName><roleName n="Massa">Massa</roleName> <forename>Rhett</forename></persName> am <measure n="5feet" type="distance">five feet</measure> <measure n="11inches" type="distance">eleven inches</measure> high, big shoulders, brack hair, curly shaggy whiskers, low forehed an dark face.
+
+<milestone unit="sentence" n="234"/>He make big fuss when he go mong de gemmen, he talk ver big, and use de name ob de Lord all ob de time.
+
+<milestone unit="sentence" n="235"/>Calls heself <quote>Suddern gemmen,</quote> but I suppose now will try to pass beself off as a brack man or mulatter.
+
+<milestone unit="sentence" n="236"/><persName><roleName n="Massa">Massa</roleName> <forename>Rhett</forename></persName> has a deep scar on his shoulder from a fight, scratch cross de left eye, made by my Dinah when he tried to whip her.
+
+<milestone unit="sentence" n="237"/>He nober look people in do face.
+
+<milestone unit="sentence" n="238"/>I more dan spce he will make track for <placeName>Bergen</placeName> kounty, in de furrin land of Jarsay, where I imagine he hab a few friends.</p> 
+<p>
+
+<milestone unit="sentence" n="239"/>I will gib <measure n="400dollars" type="currency">four hundred dollars</measure> for him if alive, an' <num value="500">five hundred</num> if anybody show him dead.
+
+<milestone unit="sentence" n="240"/>If he cum back to his kind niggers widout much trouble, dis chile will receive him lubbingly.</p> 
+<p>
+
+<milestone unit="sentence" n="241"/></p><closer><signed><persName n="Rhett,,Samro,,," key="n-0001.0005.00000.00091"><forename>Samro</forename>  <surname>Rhett</surname></persName>.</signed> <dateline><placeName reg="Beaufort, Beaufort, South Carolina" key="tgn,7013364">Beaufort, S. C.</placeName>, <dateStruct value="1861-11-09"><month reg="11">Nov.</month> <day reg="9">9</day>, <year reg="1861">1861</year></dateStruct>.</dateline> wit.</closer></body></text> </p></div> 
+<div type="chapter" xml:id="c.6" n="6" subtype="chapter"> 
+<head>What's the matter! a Recantation</head> 
+<p>
+
+<milestone unit="sentence" n="242"/><persName n="Redpath,,James,,," key="n-0001.0006.00000.00092"><forename>James</forename> <surname>Redpath</surname></persName>, formerly the <placeName>Kansas</placeName> correspondent of the <hi>Tribune</hi>, and a man known as belonging to the more progressive school of Abolition philosophers—a man who has been charged with having done almost as much as any other in fomenting discord between different States of the <rs>Union</rs>——now comes out in a public acknowledgment of past errors, repudiating the mischievous doctrines disseminated in former days, and announces his retirement as a political editor and such time as he shall have <quote>attained a clearer and more humane and <name>Christian</name> view of the duties of the freeman to the enslaved.</quote>
+
+<milestone unit="sentence" n="243"/>Here is <persName n="Redpath,Mr.,,,," key="n-0001.0006.00000.00093"><roleName n="Mr.">Mr.</roleName> <surname>Redpath</surname></persName>'s card, published in the <hi>Pine and Palm</hi>, a newspaper devoted to the promotion of Haytien colonization.— 
+<text><body> 
+<head>A Preparatory word.</head> 
+<p>
+
+<milestone unit="sentence" n="244"/>Having become sincerely convinced that many of the political doctrines that I have advocated in my writings are dangerous and abhorrent to the higher insight: <hi rend="italics">the murderous policy, for example, of inciting the slaves to insurrection</hi>, which I have urged repeatedly, and with terribly mistaken real—I wish to announce here that I shall retire from any participation in the political management of this journal, excepting for the purpose of retracting past errors, until such time as I feel that I have attained a clearer and more humane and <name>Christian</name> view of the duties of the freeman to the enslaved.</p> 
+<p>
+
+<milestone unit="sentence" n="245"/>I shall confine myself exclusively to the editing of the outside pages of the paper.
+
+<milestone unit="sentence" n="246"/>The name of the acting editor will be duly announced.
+
+<milestone unit="sentence" n="247"/>The articles signed with an asterisk (*) were mine; of these.
+
+<milestone unit="sentence" n="248"/>I will retract many; my associates, who indicate their respective writings by the initial L, and by the marks †, ‡, and §, are alone responsible for their thoughts thus labelled.
+
+<milestone unit="sentence" n="249"/>I repudiate my war doctrines, utterly and forever. </p> 
+<p>
+
+<milestone unit="sentence" n="250"/></p><closer><signed><persName n="Redpath,,James,,," key="n-0001.0006.00000.00094"><forename>James</forename>  <surname>Redpath</surname></persName>,</signed></closer></body></text> </p> 
+<p>
+
+<milestone unit="sentence" n="251"/>This frank acknowledgment is certainly very noble in <persName n="Redpath,Mr.,,,," key="n-0001.0006.00000.00095"><roleName n="Mr.">Mr.</roleName> <surname>Redpath</surname></persName>, and if it is a presage of a general conversion from the abolition ranks, there is more hope for the country.</p> 
+<p>
+
+<milestone unit="sentence" n="252"/></p><closer><signed><orgName n="New York Journal of commerce" type="newspaper">N. Y. Journal of Commerce</orgName>.</signed></closer></div> 
+<div type="chapter" xml:id="c.7" n="7" subtype="chapter"> 
+<head>A Convert.</head> 
+<p>
+
+<milestone unit="sentence" n="253"/>We have often been puzzled to know how a genuine Abolitionist could at the same time be a conscientious man, but we doubt not there are many such.
+
+<milestone unit="sentence" n="254"/>The most wofully deluded persons are often perfectly honest in their belief, and we regard abolitionism as an unfortunate and mischievous delusion.
+
+<milestone unit="sentence" n="255"/>The rain-working class of individuals who have heretofore composed the abolition party are in a fair way to have their eyes opened by the present crisis, and those who are slow to learn may expect to have their wits sharpened by the lash of public opinion.
+
+<milestone unit="sentence" n="256"/>It is a hopeful symptom, however, to find now and then some notorious Abolitionist discovering, like <persName n="Saul,,,,," key="n-0001.0007.00000.00096"><surname>Saul</surname></persName> of old, the dangerous error of his ways.
+
+<milestone unit="sentence" n="257"/>Such a case is that of <persName n="Redpath,Mr.,,,," key="n-0001.0007.00000.00097"><roleName n="Mr.">Mr.</roleName> <surname>Redpath</surname></persName>, whose conversion we take pleasure in presenting in his own words, as published in the <hi>Pine and Palm</hi>, a paper of which he has long had control.</p> 
+<p>
+
+<milestone unit="sentence" n="258"/></p><closer><signed><placeName reg="Evansville, Vanderburgh, Indiana" key="tgn,7014154">Evansville (Ind.)</placeName> Gazette.<note anchored="yes"> 
+<p>The <rs>Gazette</rs> is a sheet full of treasonable designs and tendencies.)</p></note></signed></closer></div> 
+<div type="chapter" xml:id="c.8" n="8" subtype="chapter"> 
+<head>The <name>American</name> type Setting Machine.</head> 
+<p>
+
+<milestone unit="sentence" n="259"/>We learn that <persName n="Felt,Mr.,Charles,W.,," key="n-0001.0008.00000.00098"><roleName n="Mr.">Mr.</roleName> <forename>Charles</forename> <forename>W.</forename> <surname>Felt</surname></persName>, who is now in <placeName>England</placeName>, has received orders for some of his type composing machines from responsible parties in the trade.
+
+<milestone unit="sentence" n="260"/><persName n="Felt,Mr.,,,," key="n-0001.0008.00000.00099"><roleName n="Mr.">Mr.</roleName> <surname>Felt</surname></persName> took out with him credentials of <hi rend="italics">the highest</hi> character, and this substantial endorsement must be very gratifying to those gentlemen who have taken an interest in promoting this important enterprise.</p> 
+<p>
+
+<milestone unit="sentence" n="261"/>We are glad to know that the <num value="1" type="ordinal">first</num> of these machines will probably be built in this country, and hope that it may continue to be the case, so that the opportunity will be afforded for employing the labor and capital of our own country.—</p><closer><orgName n="Boston Courier" type="newspaper">Boston Courier</orgName>.</closer></div> 
+<div type="chapter" xml:id="c.9" n="9" subtype="chapter"> 
+<head rend="center"><measure n="40dollars" type="currency">$40</measure> <persName n="Parker,,,,," key="n-0001.0009.00000.00100"><surname>Parker</surname></persName>.
+
+<milestone unit="sentence" n="262"/><measure n="40dollars" type="currency">$40</measure> <lb/><rs n="sewing machines" type="product">Sewing Machines</rs>, <measure n="40dollars" type="currency">Price Forty dollars</measure>.</head> 
+<p>
+
+<milestone unit="sentence" n="263"/>This is a new style, <num value="1" type="ordinal">first</num> class, double thread, <persName n="Machine,,Family,,," key="n-0001.0009.00000.00101"><forename>Family</forename> <surname>Machine</surname></persName>, made and licensed under the patents of <persName n="Howe,,,,," key="n-0001.0009.00000.00102"><surname>Howe</surname></persName>, <persName n="Wheeler,,,,," key="n-0001.0009.00000.00103"><surname>Wheeler</surname></persName> &amp; <persName n="Wilson,,,,," key="n-0001.0009.00000.00104"><surname>Wilson</surname></persName>, and <persName n="Grover,,,,," key="n-0001.0009.00000.00105"><surname>Grover</surname></persName> &amp; <persName n="Baker,,,,," key="n-0001.0009.00000.00106"><surname>Baker</surname></persName>, and its construction is the best combination of the various patents owned and used by these parties, and the patents of the Parker Sewing Company <hi>They were</hi> awarded a <hi><persName n="Medal,,Silver,,," key="n-0001.0009.00000.00107"><forename>Silver</forename> <surname>Medal</surname></persName></hi> at the last Fair of the <rs>Mechanics</rs>' Charitable Association, and are the best finished and most substantially made <persName n="Machines,,Family,,," key="n-0001.0009.00000.00108"><forename>Family</forename> <surname>Machines</surname></persName> now in the market.</p> 
+<p>
+
+<milestone unit="sentence" n="264"/><hi rend="italics">Sales Room, <num value="188">188</num></hi> <placeName reg="Washington street">Washington street</placeName>.</p> 
+<p>
+
+<milestone unit="sentence" n="265"/><persName n="Leonard,,George,E.,," key="n-0001.0009.00000.00109"><forename n="George">Geo.</forename> <forename>E.</forename> <surname>Leonard</surname></persName>, Agent.</p> 
+<p>
+
+<milestone unit="sentence" n="266"/>Agents wanted everywhere.</p> 
+<p>
+
+<milestone unit="sentence" n="267"/>All kinds of <persName n="Machine,,Sewing,,," key="n-0001.0009.00000.00110"><forename>Sewing</forename> <surname>Machine</surname></persName> work done at short notice.</p> 
+<p>
+
+<milestone unit="sentence" n="268"/><placeName>Boston</placeName>, <dateStruct value="1861-01-18"><month reg="01">Jan.</month> <day reg="18">18</day>, <year reg="1861">1861</year></dateStruct>. Sin.</p> 
+<div type="section" xml:id="c.9.4" n="c.9.4"> 
+<head>Important Testimony</head> 
+<p>
+
+<milestone unit="sentence" n="269"/> 
+<text><body> 
+<head>Report of the judges of the last Fair of the <rs>Massachusetts Charitable Mechanic Association</rs>.</head> 
+<head><num value="4">Four</num> <persName n="Parker,,,,," key="n-0001.0009.00000.00111"><surname>Parker</surname></persName>'s <rs n="sewing machines" type="product">Sewing Machines</rs>.</head> 
+<p>
+
+<milestone unit="sentence" n="270"/>This <persName n="Machine,,,,," key="n-0001.0009.00000.00112"><surname>Machine</surname></persName> is so constructed that it embraces the combinations of the various patents owned and used by <persName n="Howe,,Elias,,," key="n-0001.0009.00000.00113"><forename>Elias</forename> <surname>Howe</surname>, <genName>Jr.</genName></persName>, <persName n="Wheeler,,,,," key="n-0001.0009.00000.00114"><surname>Wheeler</surname></persName> &amp; <persName n="Wilson,,,,," key="n-0001.0009.00000.00115"><surname>Wilson</surname></persName>, and <persName n="Grover,,,,," key="n-0001.0009.00000.00116"><surname>Grover</surname></persName> &amp; <persName n="Baker,,,,," key="n-0001.0009.00000.00117"><surname>Baker</surname></persName>, for which these parties pay tribute.
+
+<milestone unit="sentence" n="271"/>These together with <persName n="Parker,,,,," key="n-0001.0009.00000.00118"><surname>Parker</surname></persName>'s improvements, make it a beautiful <persName n="Machine,,,,," key="n-0001.0009.00000.00119"><surname>Machine</surname></persName>.
+
+<milestone unit="sentence" n="272"/>They are sold from <measure n="40dollars" type="currency">$40</measure> to <measure n="120dollars" type="currency">$120</measure> each.
+
+<milestone unit="sentence" n="273"/>They are very perfect in their mechanism, being adjusted before leaving the manufactory, in such a manner that they cannot get deranged.
+
+<milestone unit="sentence" n="274"/>The feed, which is a very essential point in a good <persName n="Machine,,,,," key="n-0001.0009.00000.00120"><surname>Machine</surname></persName>, is sample, positive and complete.
+
+<milestone unit="sentence" n="275"/>The apparatus for gauging the length of stitch is very simple and effective.
+
+<milestone unit="sentence" n="276"/>The tension, as well as other parts, is well arranged.
+
+<milestone unit="sentence" n="277"/>There is another feature which strikes your committee favorably, viz. there is no wheel below the table between the standards, to come in contact with the dress of the operator, and therefore no danger from oil or dirt.
+
+<milestone unit="sentence" n="278"/>This machine makes the double look-stitch, but is so arranged that it lays the ridge upon the back quite flat and smooth, doing away, in a great measure, with the objection sometimes urged on that account.</p></body></text> </p> 
+<p>
+
+<milestone unit="sentence" n="279"/><cit><quote><persName n="Parker,,,,," key="n-0001.0009.00000.00121"><surname>Parker</surname></persName>'s <rs n="sewing machines" type="product">Sewing Machines</rs> have many qualities that recommend them to use in families.
+
+<milestone unit="sentence" n="280"/>The several parts are planned together, so that it is always adjusted and ready for work, and not liable to get out of repair.
+
+<milestone unit="sentence" n="281"/>It is the beat finished, and most firmly and substantially made machine in the Fair.
+
+<milestone unit="sentence" n="282"/>Its motions are all positive, its tension easily adjusted, and it leaves no ridge on the back of the work.
+
+<milestone unit="sentence" n="283"/>It will hem, fell, stitch, run, bind and gather, and the work cannot be ripped, except designedly.
+
+<milestone unit="sentence" n="284"/>It sews from common spools, with silk, linen or cotton, with equal facility, The <hi rend="italics">stitch</hi> made upon this machine was recently awarded the <num value="1" type="ordinal">first</num> prize at the <placeName>Tennessee</placeName> <orgName n="State Fair" type="fair">State Fair</orgName>, for its superiority.</quote>
+
+<milestone unit="sentence" n="285"/><bibl><orgName n="Boston Traveller" type="newspaper">Boston Traveller</orgName>.</bibl></cit> </p> 
+<p>
+
+<milestone unit="sentence" n="286"/><cit><quote>We would call the attention of our readers to the advertisement, in another column, of the <persName n="Machine,,Parker,Sewing,," key="n-0001.0009.00000.00122"><forename>Parker</forename> <forename>Sewing</forename> <surname>Machine</surname></persName>. This is a licensed machine, being a combination of the various patents of <persName n="Howe,,,,," key="n-0001.0009.00000.00123"><surname>Howe</surname></persName>, <persName n="Wheeler,,,,," key="n-0001.0009.00000.00124"><surname>Wheeler</surname></persName> &amp; <persName n="Wilson,,,,," key="n-0001.0009.00000.00125"><surname>Wilson</surname></persName>, and <persName n="Grover,,,,," key="n-0001.0009.00000.00126"><surname>Grover</surname></persName> &amp; <persName n="Baker,,,,," key="n-0001.0009.00000.00127"><surname>Baker</surname></persName>, with those of the <persName n="Machine,,Parker,Sewing,," key="n-0001.0009.00000.00128"><forename>Parker</forename> <forename>Sewing</forename> <surname>Machine</surname></persName> Company: consequently, it has the advantage of such machines—<num value="1" type="ordinal">first</num>, in being a licensed machine, <num value="2" type="ordinal">second</num>, from the fact that it embraces all of the most important improvements which have heretofore been made in <rs n="sewing machines" type="product">sewing Machines</rs>; <num value="3" type="ordinal">third</num>, it requires no readjustment, all the various parts being made right and pinned together, instead of being adjusted by screws, thus avoiding all liability of getting out of order without actually breaking them; and also the necessity of the purchaser learning, as with others, how to regulate all the various motions to the machine.
+
+<milestone unit="sentence" n="287"/>The favor with which the <persName n="Machine,,Parker,Sewing,," key="n-0001.0009.00000.00129"><forename>Parker</forename> <forename>Sewing</forename> <surname>Machine</surname></persName> has already been received by the public warrants us in the belief that it is by far the best machine now in market.</quote>
+
+<milestone unit="sentence" n="288"/><bibl>South <orgName n="Reading Gazette" type="newspaper">Reading Gazette</orgName>, <dateStruct value="1860-11-24"><month reg="11">Nov.</month> <day reg="24">24</day>, <year reg="1860">1860</year></dateStruct>.</bibl></cit> </p> 
+<p>
+
+<milestone unit="sentence" n="289"/><cit><quote>The <persName n="Machine,,Parker,Sewing,," key="n-0001.0009.00000.00130"><forename>Parker</forename> <forename>Sewing</forename> <surname>Machine</surname></persName> is taking the lead in the market.
+
+<milestone unit="sentence" n="290"/>For beauty and finish of its workmanship, it cannot be excelled.
+
+<milestone unit="sentence" n="291"/>It is well and strongly made—strength and utility combined—and is emphatically the <hi rend="italics">cheapest</hi> and best machine now made.
+
+<milestone unit="sentence" n="292"/>The ladies are delighted with it, and when consulted, invariably give <persName n="Parker,,,,," key="n-0001.0009.00000.00131"><surname>Parker</surname></persName>'s machine the preference over all others.
+
+<milestone unit="sentence" n="293"/>We are pleased to learn that the gentlemanly Agent, <persName n="Leonard,,George,E.,," key="n-0001.0009.00000.00132"><forename>George</forename> <forename>E.</forename> <surname>Leonard</surname></persName>, <num value="188">188</num>? <placeName reg="Washington street">Washington street</placeName>, <placeName>Boston</placeName>, has a large number of elders for these machines, and sells them as fast as they can be manufactured, notwithstanding the dullness of the times, and while other manufacturers have almost wholly depended operations.
+
+<milestone unit="sentence" n="294"/>This fact, of itself, speaks more strongly in its favor than any thing we can mention; for were it not for its superior merits, it would have suffered from the general depression, instead of flourishing among the wrecks of its rivals.
+
+<milestone unit="sentence" n="295"/>What we tell you is no fictions but go and buy <num value="1">one</num> of them, and you will say that <quote>half of its good qualities had never been told you.</quote>
+
+<milestone unit="sentence" n="296"/>Every man who regards the health and happiness of his wife should buy <num value="1">one</num> of these machines to assist her in lessening life's toilsome task.</quote>
+
+<milestone unit="sentence" n="297"/><bibl>Marlboroa Gazette, <dateStruct value="1861-07-13"><month reg="07">July</month> <day reg="13">13</day>, <year reg="1861">1861</year></dateStruct>.</bibl></cit> </p></div></div> 
+<div type="chapter" xml:id="c.10" n="10" subtype="chapter"> 
+<head>Just published,</head> 
+<p>
+
+<milestone unit="sentence" n="298"/><hi rend="italics">And for sale at the <placeName reg="Anti-Slavery Office">Anti-Slavery Office</placeName>, <placeName reg="Washington Street 221">221 Washington Street</placeName></hi>,</p> 
+<p>
+
+<milestone unit="sentence" n="299"/>an elaborate <persName n="Work,,,,," key="n-0001.0010.00000.00133"><surname>Work</surname></persName>, entitled <quote>Relation of the <orgName n="Commissioners American Board" type="board">American Board of Commissioners</orgName> for <persName n="Missions,,Foreign,,," key="n-0001.0010.00000.00134"><forename>Foreign</forename> <surname>Missions</surname></persName> to <persName><forename>Slavery</forename></persName>.
+
+<milestone unit="sentence" n="300"/>By <persName n="Whipple,,Charles,K.,," key="n-0001.0010.00000.00135"><forename>Charles</forename> <forename>K.</forename> <surname>Whipple</surname></persName>,</quote> —a volume of nearly <num value="230">230</num> pages.
+
+<milestone unit="sentence" n="301"/>In cloth, <measure n="37cents" type="currency">37 cents</measure>—in paper covers, <measure n="23cents" type="currency">23 cents</measure>. <dateStruct value="-08-30"><month reg="08">Aug.</month> <day reg="30">30</day></dateStruct>.</p></div></body> </text></TEI>

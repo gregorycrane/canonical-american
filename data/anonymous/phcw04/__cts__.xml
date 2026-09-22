@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:phcw04" urn="urn:cts:americanLit:anonymous.phcw04" xml:lang="eng">
+  <ti:title xml:lang="eng">The Photographic History of The Civil War: in ten volumes</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.phcw04.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.phcw04" xml:lang="eng">
+    <ti:label xml:lang="eng">The Photographic History of The Civil War: in ten volumes</ti:label>
+    <ti:description xml:lang="eng">Review of Reviews. New York. 1912.</ti:description>
+  </ti:edition>
+</ti:work>

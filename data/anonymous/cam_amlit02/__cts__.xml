@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:cam_amlit02" urn="urn:cts:americanLit:anonymous.cam_amlit02" xml:lang="eng">
+  <ti:title xml:lang="eng">Cambridge History of American Literature: volume 2</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.cam_amlit02.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.cam_amlit02" xml:lang="eng">
+    <ti:label xml:lang="eng">Cambridge History of American Literature: volume 2</ti:label>
+    <ti:description xml:lang="eng">Cambridge University Press, 1917-1921.</ti:description>
+  </ti:edition>
+</ti:work>

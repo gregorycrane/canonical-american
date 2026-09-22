@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:somerville_leaves01" urn="urn:cts:americanLit:anonymous.somerville_leaves01" xml:lang="eng">
+  <ti:title xml:lang="eng">Historic leaves</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.somerville_leaves01.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.somerville_leaves01" xml:lang="eng">
+    <ti:label xml:lang="eng">Historic leaves</ti:label>
+    <ti:description xml:lang="eng">Somerville Historical Society, 1903.</ti:description>
+  </ti:edition>
+</ti:work>

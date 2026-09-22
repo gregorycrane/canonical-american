@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:merrill_camb" urn="urn:cts:americanLit:anonymous.merrill_camb" xml:lang="eng">
+  <ti:title xml:lang="eng">Cambridge sketches</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.merrill_camb.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.merrill_camb" xml:lang="eng">
+    <ti:label xml:lang="eng">Cambridge sketches</ti:label>
+    <ti:description xml:lang="eng">Young Women's Christian Association, 1896. The Pinkham Press, Boston.</ti:description>
+  </ti:edition>
+</ti:work>

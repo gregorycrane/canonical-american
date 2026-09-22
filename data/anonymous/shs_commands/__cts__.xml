@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:shs_commands" urn="urn:cts:americanLit:anonymous.shs_commands" xml:lang="eng">
+  <ti:title xml:lang="eng">A Roster of General Officers, Heads of Departments, Senators, Representatives, Military Organizations, &amp;c., &amp;c., in Confederate Service during the War between the States.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:anonymous.shs_commands.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.shs_commands" xml:lang="eng">
+    <ti:label xml:lang="eng">A Roster of General Officers, Heads of Departments, Senators, Representatives, Military Organizations, &amp;c., &amp;c., in Confederate Service during the War between the States.</ti:label>
+    <ti:description xml:lang="eng">Richmond, VA. Southern Historical Society. 1876.</ti:description>
+  </ti:edition>
+</ti:work>

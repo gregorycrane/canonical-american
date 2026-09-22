@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:waitt_ernest_linden" projid="americanLit:waitt_mass19" urn="urn:cts:americanLit:waitt_ernest_linden.waitt_mass19" xml:lang="eng">
+  <ti:title xml:lang="eng">History of the Nineteenth regiment, Massachusetts volunteer infantry, 1861-1865</ti:title>
+  <ti:edition urn="urn:cts:americanLit:waitt_ernest_linden.waitt_mass19.perseus-eng1" workUrn="urn:cts:americanLit:waitt_ernest_linden.waitt_mass19" xml:lang="eng">
+    <ti:label xml:lang="eng">History of the Nineteenth regiment, Massachusetts volunteer infantry, 1861-1865</ti:label>
+    <ti:description xml:lang="eng">Salem Press Co., Salem, Ma., 1906.</ti:description>
+  </ti:edition>
+</ti:work>

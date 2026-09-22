@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:digital_divide" projid="americanLit:ddd_lib_samp" urn="urn:cts:americanLit:digital_divide.ddd_lib_samp" xml:lang="eng">
+  <ti:title xml:lang="eng">The Liberator, 32.1: Friday, Jan. 3, 1862: sample</ti:title>
+  <ti:edition urn="urn:cts:americanLit:digital_divide.ddd_lib_samp.perseus-eng1" workUrn="urn:cts:americanLit:digital_divide.ddd_lib_samp" xml:lang="eng">
+    <ti:label xml:lang="eng">The Liberator, 32.1: Friday, Jan. 3, 1862: sample</ti:label>
+    <ti:description xml:lang="eng">Boston, 1862.</ti:description>
+  </ti:edition>
+</ti:work>

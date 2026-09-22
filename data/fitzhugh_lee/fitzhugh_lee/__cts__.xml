@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:fitzhugh_lee" projid="americanLit:fitzhugh_lee" urn="urn:cts:americanLit:fitzhugh_lee.fitzhugh_lee" xml:lang="eng">
+  <ti:title xml:lang="eng">General Lee</ti:title>
+  <ti:edition urn="urn:cts:americanLit:fitzhugh_lee.fitzhugh_lee.perseus-eng1" workUrn="urn:cts:americanLit:fitzhugh_lee.fitzhugh_lee" xml:lang="eng">
+    <ti:label xml:lang="eng">General Lee</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

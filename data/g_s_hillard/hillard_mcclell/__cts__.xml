@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:g_s_hillard" projid="americanLit:hillard_mcclell" urn="urn:cts:americanLit:g_s_hillard.hillard_mcclell" xml:lang="eng">
+  <ti:title xml:lang="eng">Life and Campaigns of George B. McClellan, Major-General, U. S. Army</ti:title>
+  <ti:edition urn="urn:cts:americanLit:g_s_hillard.hillard_mcclell.perseus-eng1" workUrn="urn:cts:americanLit:g_s_hillard.hillard_mcclell" xml:lang="eng">
+    <ti:label xml:lang="eng">Life and Campaigns of George B. McClellan, Major-General, U. S. Army</ti:label>
+    <ti:description xml:lang="eng">Philadelphia. Lippincott &amp; Co. 1864.</ti:description>
+  </ti:edition>
+</ti:work>

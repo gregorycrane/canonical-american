@@ -40,7 +40,7 @@ def validate(root: Path) -> int:
         refs = doc.find("./tei:teiHeader/tei:encodingDesc/tei:refsDecl", TEI)
         if refs is None or not refs.xpath(".//tei:citeStructure", namespaces=TEI):
             errors.append(f"{path}: missing CTS citeStructure")
-        if not body.xpath("./tei:div[@type='chapter'][@n]", namespaces=TEI):
+        if not body.xpath(".//tei:div[@type='chapter'][@n]", namespaces=TEI):
             errors.append(f"{path}: no citable chapter")
         work_cts = path.parent / "__cts__.xml"
         group_cts = path.parent.parent / "__cts__.xml"
@@ -57,4 +57,3 @@ def validate(root: Path) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(validate(Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()))
-

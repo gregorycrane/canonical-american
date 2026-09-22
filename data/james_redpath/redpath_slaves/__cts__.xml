@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:james_redpath" projid="americanLit:redpath_slaves" urn="urn:cts:americanLit:james_redpath.redpath_slaves" xml:lang="eng">
+  <ti:title xml:lang="eng">The Roving Editor: or, Talks with Slaves in the Southern States.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:james_redpath.redpath_slaves.perseus-eng1" workUrn="urn:cts:americanLit:james_redpath.redpath_slaves" xml:lang="eng">
+    <ti:label xml:lang="eng">The Roving Editor: or, Talks with Slaves in the Southern States.</ti:label>
+    <ti:description xml:lang="eng">A. B. Burdick, 1859.</ti:description>
+  </ti:edition>
+</ti:work>
