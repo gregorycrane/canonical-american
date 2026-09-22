@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:brig_gen_bradley_t_johnson" projid="americanLit:cmh02_1" urn="urn:cts:americanLit:brig_gen_bradley_t_johnson.cmh02_1" xml:lang="eng">
-  <ti:title xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 2.1</ti:title>
-  <ti:edition urn="urn:cts:americanLit:brig_gen_bradley_t_johnson.cmh02_1.perseus-eng1" workUrn="urn:cts:americanLit:brig_gen_bradley_t_johnson.cmh02_1" xml:lang="eng">
-    <ti:label xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 2.1</ti:label>
-    <ti:description xml:lang="eng">Atlanta, Ga. 1899</ti:description>
-  </ti:edition>
-</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:capers_ellison" projid="americanLit:cmh05" urn="urn:cts:americanLit:capers_ellison.cmh05" xml:lang="eng">
+  <ti:title xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 5</ti:title>
+  <ti:edition urn="urn:cts:americanLit:capers_ellison.cmh05.perseus-eng1" workUrn="urn:cts:americanLit:capers_ellison.cmh05" xml:lang="eng">
+    <ti:label xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 5</ti:label>
+    <ti:description xml:lang="eng">Atlanta, Ga. 1899</ti:description>
+  </ti:edition>
+</ti:work>

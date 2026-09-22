@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:capt_calvin_d_cowles_23d_u_s_infantry" projid="americanLit:atlas_index" urn="urn:cts:americanLit:capt_calvin_d_cowles_23d_u_s_infantry.atlas_index" xml:lang="eng">
-  <ti:title xml:lang="eng">The Official Military Atlas of the Civil War</ti:title>
-  <ti:edition urn="urn:cts:americanLit:capt_calvin_d_cowles_23d_u_s_infantry.atlas_index.perseus-eng1" workUrn="urn:cts:americanLit:capt_calvin_d_cowles_23d_u_s_infantry.atlas_index" xml:lang="eng">
-    <ti:label xml:lang="eng">The Official Military Atlas of the Civil War</ti:label>
-    <ti:description xml:lang="eng">Washington, Government Printing Office: 1891-1895.</ti:description>
-  </ti:edition>
-</ti:work>

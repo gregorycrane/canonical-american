@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:wilson_john_harrison" projid="americanLit:wilson_dana" urn="urn:cts:americanLit:wilson_john_harrison.wilson_dana" xml:lang="eng">
+  <ti:title xml:lang="eng">The life of Charles Henry Dana</ti:title>
+  <ti:edition urn="urn:cts:americanLit:wilson_john_harrison.wilson_dana.perseus-eng1" workUrn="urn:cts:americanLit:wilson_john_harrison.wilson_dana" xml:lang="eng">
+    <ti:label xml:lang="eng">The life of Charles Henry Dana</ti:label>
+    <ti:description xml:lang="eng">Harper and Brothers, New York and London, 1907.</ti:description>
+  </ti:edition>
+</ti:work>

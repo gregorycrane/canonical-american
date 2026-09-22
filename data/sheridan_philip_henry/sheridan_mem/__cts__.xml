@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:sheridan_philip_henry" projid="americanLit:sheridan_mem" urn="urn:cts:americanLit:sheridan_philip_henry.sheridan_mem" xml:lang="eng">
+  <ti:title xml:lang="eng">Personal Memoirs of P. H. Sheridan, General, United States Army.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:sheridan_philip_henry.sheridan_mem.perseus-eng1" workUrn="urn:cts:americanLit:sheridan_philip_henry.sheridan_mem" xml:lang="eng">
+    <ti:label xml:lang="eng">Personal Memoirs of P. H. Sheridan, General, United States Army.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

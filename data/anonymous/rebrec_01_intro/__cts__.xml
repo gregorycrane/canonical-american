@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:rebrec_01_intro" urn="urn:cts:americanLit:anonymous.rebrec_01_intro" xml:lang="eng">
-  <ti:title xml:lang="eng">Rebellion Record: Introduction.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:anonymous.rebrec_01_intro.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.rebrec_01_intro" xml:lang="eng">
-    <ti:label xml:lang="eng">Rebellion Record: Introduction.</ti:label>
-    <ti:description xml:lang="eng">Van Nostrand. New York, New York. 1862.</ti:description>
-  </ti:edition>
-</ti:work>

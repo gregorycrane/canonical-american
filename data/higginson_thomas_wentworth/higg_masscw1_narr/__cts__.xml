@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:higginson_thomas_wentworth" projid="americanLit:higg_masscw1_narr" urn="urn:cts:americanLit:higginson_thomas_wentworth.higg_masscw1_narr" xml:lang="eng">
+  <ti:title xml:lang="eng">Massachusetts in the Army and Navy during the war of 1861-1865, vol. 1: prelminary narrative</ti:title>
+  <ti:edition urn="urn:cts:americanLit:higginson_thomas_wentworth.higg_masscw1_narr.perseus-eng1" workUrn="urn:cts:americanLit:higginson_thomas_wentworth.higg_masscw1_narr" xml:lang="eng">
+    <ti:label xml:lang="eng">Massachusetts in the Army and Navy during the war of 1861-1865, vol. 1: prelminary narrative</ti:label>
+    <ti:description xml:lang="eng">Boston, Wright &amp; Potter, 1895-96.</ti:description>
+  </ti:edition>
+</ti:work>

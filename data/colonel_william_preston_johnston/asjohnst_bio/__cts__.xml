@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:colonel_william_preston_johnston" projid="americanLit:asjohnst_bio" urn="urn:cts:americanLit:colonel_william_preston_johnston.asjohnst_bio" xml:lang="eng">
-  <ti:title xml:lang="eng">The Life of General Albert Sidney Johnston: His Service in the Armies of the United States, the Republic of Texas, and the Confederate States.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:colonel_william_preston_johnston.asjohnst_bio.perseus-eng1" workUrn="urn:cts:americanLit:colonel_william_preston_johnston.asjohnst_bio" xml:lang="eng">
-    <ti:label xml:lang="eng">The Life of General Albert Sidney Johnston: His Service in the Armies of the United States, the Republic of Texas, and the Confederate States.</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

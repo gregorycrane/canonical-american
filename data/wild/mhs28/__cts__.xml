@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:wild" projid="americanLit:mhs28" urn="urn:cts:americanLit:wild.mhs28" xml:lang="eng">
-  <ti:title xml:lang="eng">Medford Historical Society Papers</ti:title>
-  <ti:edition urn="urn:cts:americanLit:wild.mhs28.perseus-eng1" workUrn="urn:cts:americanLit:wild.mhs28" xml:lang="eng">
-    <ti:label xml:lang="eng">Medford Historical Society Papers</ti:label>
-    <ti:description xml:lang="eng">Medford, MA. 1925.</ti:description>
-  </ti:edition>
-</ti:work>

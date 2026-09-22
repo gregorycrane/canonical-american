@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:john_d_billings_ba06c5d6" projid="americanLit:billings_hard" urn="urn:cts:americanLit:john_d_billings_ba06c5d6.billings_hard" xml:lang="eng">
-  <ti:title xml:lang="eng">Hardtack and Coffee: The Unwritten Story of Army Life</ti:title>
-  <ti:edition urn="urn:cts:americanLit:john_d_billings_ba06c5d6.billings_hard.perseus-eng1" workUrn="urn:cts:americanLit:john_d_billings_ba06c5d6.billings_hard" xml:lang="eng">
-    <ti:label xml:lang="eng">Hardtack and Coffee: The Unwritten Story of Army Life</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

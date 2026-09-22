@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:charles_e_stowe" projid="americanLit:stowe_stowe" urn="urn:cts:americanLit:charles_e_stowe.stowe_stowe" xml:lang="eng">
-  <ti:title xml:lang="eng">Harriet Beecher Stowe compiled from her letters and journals by her son Charles Edward Stowe</ti:title>
-  <ti:edition urn="urn:cts:americanLit:charles_e_stowe.stowe_stowe.perseus-eng1" workUrn="urn:cts:americanLit:charles_e_stowe.stowe_stowe" xml:lang="eng">
-    <ti:label xml:lang="eng">Harriet Beecher Stowe compiled from her letters and journals by her son Charles Edward Stowe</ti:label>
-    <ti:description xml:lang="eng">Houghton, Mifflin and Company, The Riverside Press, Cambridge, 1889.</ti:description>
-  </ti:edition>
-</ti:work>

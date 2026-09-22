@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:louisa_may_alcott" projid="americanLit:alcott_hosp" urn="urn:cts:americanLit:louisa_may_alcott.alcott_hosp" xml:lang="eng">
-  <ti:title xml:lang="eng">Hospital Sketches: An Army Nurse's True Account of her Experience during the Civil War.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:louisa_may_alcott.alcott_hosp.perseus-eng1" workUrn="urn:cts:americanLit:louisa_may_alcott.alcott_hosp" xml:lang="eng">
-    <ti:label xml:lang="eng">Hospital Sketches: An Army Nurse's True Account of her Experience during the Civil War.</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

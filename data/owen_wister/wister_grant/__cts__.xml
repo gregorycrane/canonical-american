@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:owen_wister" projid="americanLit:wister_grant" urn="urn:cts:americanLit:owen_wister.wister_grant" xml:lang="eng">
-  <ti:title xml:lang="eng">Ulysses S. Grant</ti:title>
-  <ti:edition urn="urn:cts:americanLit:owen_wister.wister_grant.perseus-eng1" workUrn="urn:cts:americanLit:owen_wister.wister_grant" xml:lang="eng">
-    <ti:label xml:lang="eng">Ulysses S. Grant</ti:label>
-    <ti:description xml:lang="eng">Boston. Small, Maynard and Company. 1901.</ti:description>
-  </ti:edition>
-</ti:work>

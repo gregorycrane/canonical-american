@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:caroline_e_whitcomb" projid="americanLit:whitcomb_maliart2" urn="urn:cts:americanLit:caroline_e_whitcomb.whitcomb_maliart2" xml:lang="eng">
-  <ti:title xml:lang="eng">History of the Second Massachusetts Battery of Light Artillery (Nims' Battery): 1861-1865, compiled from records of the Rebellion, official reports, diaries and rosters</ti:title>
-  <ti:edition urn="urn:cts:americanLit:caroline_e_whitcomb.whitcomb_maliart2.perseus-eng1" workUrn="urn:cts:americanLit:caroline_e_whitcomb.whitcomb_maliart2" xml:lang="eng">
-    <ti:label xml:lang="eng">History of the Second Massachusetts Battery of Light Artillery (Nims' Battery): 1861-1865, compiled from records of the Rebellion, official reports, diaries and rosters</ti:label>
-    <ti:description xml:lang="eng">The Rumford Press, Concord, N. H., 1912.</ti:description>
-  </ti:edition>
-</ti:work>

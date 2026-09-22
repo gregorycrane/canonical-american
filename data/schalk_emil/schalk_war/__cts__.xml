@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:schalk_emil" projid="americanLit:schalk_war" urn="urn:cts:americanLit:schalk_emil.schalk_war" xml:lang="eng">
+  <ti:title xml:lang="eng">The Art of War written expressly for and dedicated to the U.S. Volunteer Army.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:schalk_emil.schalk_war.perseus-eng1" workUrn="urn:cts:americanLit:schalk_emil.schalk_war" xml:lang="eng">
+    <ti:label xml:lang="eng">The Art of War written expressly for and dedicated to the U.S. Volunteer Army.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

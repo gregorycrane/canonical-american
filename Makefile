@@ -1,22 +1,15 @@
 PYTHON ?= python3
 SOURCE ?= /Users/gcrane/Desktop/OldMacintoshHD/sgml/texts/cwar/xml
-HARPER_SOURCE := sources/harpgaz_1855.p5.xml.gz
-HARPER_TEI := data/j_calvin_smith/harpgaz_1855/j_calvin_smith.harpgaz_1855.perseus-eng1.xml
-
-.PHONY: build harper beta-code validate test
+.PHONY: build beta-code validate test audit-entities
 
 build:
 	$(PYTHON) tools/convert_p4.py --source "$(SOURCE)" --output . --force
 
-harper:
-	$(PYTHON) tools/build_harper_gazetteer.py \
-	  $(HARPER_SOURCE) \
-	  --reading-output $(HARPER_TEI) \
-	  --database gazetteers/harpgaz_1855.sqlite3
+audit-entities:
+	$(PYTHON) tools/audit_entities.py . --output entity_audit_baseline.json
 
 beta-code:
-	$(PYTHON) tools/convert_beta_code.py data \
-	  --gzip sources/harpgaz_1855.p5.xml.gz
+	$(PYTHON) tools/convert_beta_code.py data
 
 validate:
 	$(PYTHON) tools/validate_corpus.py .

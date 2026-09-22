@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:buchanan_james" projid="americanLit:buchanan_admin" urn="urn:cts:americanLit:buchanan_james.buchanan_admin" xml:lang="eng">
+  <ti:title xml:lang="eng">Buchanan's administration on the eve of the rebellion</ti:title>
+  <ti:edition urn="urn:cts:americanLit:buchanan_james.buchanan_admin.perseus-eng1" workUrn="urn:cts:americanLit:buchanan_james.buchanan_admin" xml:lang="eng">
+    <ti:label xml:lang="eng">Buchanan's administration on the eve of the rebellion</ti:label>
+    <ti:description xml:lang="eng">Appleton and Company, 1866.</ti:description>
+  </ti:edition>
+</ti:work>

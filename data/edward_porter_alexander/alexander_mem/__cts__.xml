@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:edward_porter_alexander" projid="americanLit:alexander_mem" urn="urn:cts:americanLit:edward_porter_alexander.alexander_mem" xml:lang="eng">
-  <ti:title xml:lang="eng">Military memoirs of a Confederate: a critical narrative</ti:title>
-  <ti:edition urn="urn:cts:americanLit:edward_porter_alexander.alexander_mem.perseus-eng1" workUrn="urn:cts:americanLit:edward_porter_alexander.alexander_mem" xml:lang="eng">
-    <ti:label xml:lang="eng">Military memoirs of a Confederate: a critical narrative</ti:label>
-    <ti:description xml:lang="eng">1907.</ti:description>
-  </ti:edition>
-</ti:work>

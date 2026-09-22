@@ -24,6 +24,10 @@ The converter:
 - adds `text/@xml:lang`, `body/@xml:base`, and a modern CTS
   `refsDecl/citeStructure` for top-level chapters;
 - emits `data/<textgroup>/<work>/__cts__.xml` and version files;
+- assigns personal-author textgroups stable surname-first identifiers (for
+  example, `higginson_thomas_wentworth`) while retaining natural display names;
+- groups multi-contributor serials such as the Medford and Southern Historical
+  Society papers under explicit `series_...` textgroups;
 - records every source-to-CTS mapping in `conversion_manifest.csv`;
 - records recoveries, skipped files, unknown entities, and structural changes in
   `conversion_report.json`.
@@ -34,8 +38,7 @@ version identifier `perseus-eng1`.
 ### Greek Beta Code
 
 Legacy Greek inside `<foreign xml:lang="grc">` is converted to NFC Unicode
-Greek during the P4-to-P5 build. To audit and update an existing checkout,
-including Harper's compressed reproducible source, run:
+Greek during the P4-to-P5 build. To audit and update an existing checkout run:
 
 ```bash
 make beta-code
@@ -45,24 +48,8 @@ The command writes `beta_code_conversion.json` with every original and converted
 span. Existing Unicode Greek and the known `Zzz` authority-control placeholder
 are left unchanged.
 
-## Harper's gazetteer
-
-Harper's 1855 gazetteer is both a historical reading text and a database of
-77,000+ place entries. After the corpus conversion, build both forms with:
-
-```bash
-make harper
-```
-
-The repository stores the original converted P5 source as the ordinary,
-GitHub-safe compressed file `sources/harpgaz_1855.p5.xml.gz`. The command
-creates the ignored build products `gazetteers/harpgaz_1855.sqlite3`, including
-an FTS5 full-text index, and the expanded TEI reading edition with citations of the form
-`letter.entry-group` (100 entries per group). Page breaks, entry IDs, named
-entities, TGN keys, and complete TEI entry markup are preserved. The bounded
-groups keep individual MVP reading views responsive; the SQLite form supports
-headword, place-name, and full-text lookup without treating a whole alphabet
-letter as one passage.
+Harper's gazetteer and other database-like reference works are maintained in
+the separate `anglophoneref` repository.
 
 ## Check an existing build
 

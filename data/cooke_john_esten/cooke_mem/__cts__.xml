@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:cooke_john_esten" projid="americanLit:cooke_mem" urn="urn:cts:americanLit:cooke_john_esten.cooke_mem" xml:lang="eng">
+  <ti:title xml:lang="eng">Wearing of the Gray: Being Personal Portraits, Scenes, and Adventures of War.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:cooke_john_esten.cooke_mem.perseus-eng1" workUrn="urn:cts:americanLit:cooke_john_esten.cooke_mem" xml:lang="eng">
+    <ti:label xml:lang="eng">Wearing of the Gray: Being Personal Portraits, Scenes, and Adventures of War.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

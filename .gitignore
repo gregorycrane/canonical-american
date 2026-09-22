@@ -1,6 +1,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-# Reproducible Harper build products; use `make harper` after checkout.
-gazetteers/*.sqlite3
-data/j_calvin_smith/harpgaz_1855/j_calvin_smith.harpgaz_1855.perseus-eng1.xml

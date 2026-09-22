@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:george_bancroft" projid="americanLit:bancroft06" urn="urn:cts:americanLit:george_bancroft.bancroft06" xml:lang="eng">
-  <ti:title xml:lang="eng">History of the United States from the Discovery of the American Continent</ti:title>
-  <ti:edition urn="urn:cts:americanLit:george_bancroft.bancroft06.perseus-eng1" workUrn="urn:cts:americanLit:george_bancroft.bancroft06" xml:lang="eng">
-    <ti:label xml:lang="eng">History of the United States from the Discovery of the American Continent</ti:label>
-    <ti:description xml:lang="eng">Boston: Little, Brown and Company, 1859</ti:description>
-  </ti:edition>
-</ti:work>

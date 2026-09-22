@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:halleck_h_wager" projid="americanLit:halleck_mil" urn="urn:cts:americanLit:halleck_h_wager.halleck_mil" xml:lang="eng">
+  <ti:title xml:lang="eng">Elements of Military Art and Science; or, Course of Instruction in Strategy, Fortification, Tactis of Battles &amp;c., Embracing the Duties of Staff, Infantry, Cavalry, Artillery and Engineers. Adapted to the Use of Volunteers and Militia.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:halleck_h_wager.halleck_mil.perseus-eng1" workUrn="urn:cts:americanLit:halleck_h_wager.halleck_mil" xml:lang="eng">
+    <ti:label xml:lang="eng">Elements of Military Art and Science; or, Course of Instruction in Strategy, Fortification, Tactis of Battles &amp;c., Embracing the Duties of Staff, Infantry, Cavalry, Artillery and Engineers. Adapted to the Use of Volunteers and Militia.</ti:label>
+    <ti:description xml:lang="eng">Scanned printed text</ti:description>
+  </ti:edition>
+</ti:work>

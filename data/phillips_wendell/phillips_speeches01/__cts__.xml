@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:phillips_wendell" projid="americanLit:phillips_speeches01" urn="urn:cts:americanLit:phillips_wendell.phillips_speeches01" xml:lang="eng">
+  <ti:title xml:lang="eng">Speeches, Lectures and Letters of Wendell Phillips: Volume 1</ti:title>
+  <ti:edition urn="urn:cts:americanLit:phillips_wendell.phillips_speeches01.perseus-eng1" workUrn="urn:cts:americanLit:phillips_wendell.phillips_speeches01" xml:lang="eng">
+    <ti:label xml:lang="eng">Speeches, Lectures and Letters of Wendell Phillips: Volume 1</ti:label>
+    <ti:description xml:lang="eng">Lee and Shepard, 1891.</ti:description>
+  </ti:edition>
+</ti:work>

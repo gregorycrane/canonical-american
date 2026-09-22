@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_h_herndon" projid="americanLit:linc_hern" urn="urn:cts:americanLit:william_h_herndon.linc_hern" xml:lang="eng">
-  <ti:title xml:lang="eng">Herndon's Lincoln: The True Story of a Great Life</ti:title>
-  <ti:edition urn="urn:cts:americanLit:william_h_herndon.linc_hern.perseus-eng1" workUrn="urn:cts:americanLit:william_h_herndon.linc_hern" xml:lang="eng">
-    <ti:label xml:lang="eng">Herndon's Lincoln: The True Story of a Great Life</ti:label>
-    <ti:description xml:lang="eng">The Herndon's Lincoln Pubishing Company, Springfield, Ill., 1888.</ti:description>
-  </ti:edition>
-</ti:work>

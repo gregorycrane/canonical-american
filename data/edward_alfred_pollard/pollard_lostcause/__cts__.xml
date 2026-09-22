@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:edward_alfred_pollard" projid="americanLit:pollard_lostcause" urn="urn:cts:americanLit:edward_alfred_pollard.pollard_lostcause" xml:lang="eng">
-  <ti:title xml:lang="eng">The lost cause; a new Southern history of the War of the Confederates ... Drawn from official sources and approved by the most distinguished Confederate leaders.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:edward_alfred_pollard.pollard_lostcause.perseus-eng1" workUrn="urn:cts:americanLit:edward_alfred_pollard.pollard_lostcause" xml:lang="eng">
-    <ti:label xml:lang="eng">The lost cause; a new Southern history of the War of the Confederates ... Drawn from official sources and approved by the most distinguished Confederate leaders.</ti:label>
-    <ti:description xml:lang="eng">1866.</ti:description>
-  </ti:edition>
-</ti:work>

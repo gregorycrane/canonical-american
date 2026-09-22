@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:higginson_thomas_wentworth" projid="americanLit:higg_lett" urn="urn:cts:americanLit:higginson_thomas_wentworth.higg_lett" xml:lang="eng">
+  <ti:title xml:lang="eng">Letters and Journals of Thomas Wentworth Higginson</ti:title>
+  <ti:edition urn="urn:cts:americanLit:higginson_thomas_wentworth.higg_lett.perseus-eng1" workUrn="urn:cts:americanLit:higginson_thomas_wentworth.higg_lett" xml:lang="eng">
+    <ti:label xml:lang="eng">Letters and Journals of Thomas Wentworth Higginson</ti:label>
+    <ti:description xml:lang="eng">Boston and New York. Houhgton Mifflin Company. 1921.</ti:description>
+  </ti:edition>
+</ti:work>

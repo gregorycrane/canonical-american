@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:anonymous" projid="americanLit:rebrec_04_poetry" urn="urn:cts:americanLit:anonymous.rebrec_04_poetry" xml:lang="eng">
-  <ti:title xml:lang="eng">Rebellion Record: a Diary of American Events: Poetry and Incidents.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:anonymous.rebrec_04_poetry.perseus-eng1" workUrn="urn:cts:americanLit:anonymous.rebrec_04_poetry" xml:lang="eng">
-    <ti:label xml:lang="eng">Rebellion Record: a Diary of American Events: Poetry and Incidents.</ti:label>
-    <ti:description xml:lang="eng">Van Nostrand. New York, New York. 1862.</ti:description>
-  </ti:edition>
-</ti:work>

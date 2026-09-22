@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:isaac_o_best" projid="americanLit:best_ny121" urn="urn:cts:americanLit:isaac_o_best.best_ny121" xml:lang="eng">
-  <ti:title xml:lang="eng">History of the 121st New York State Infantry</ti:title>
-  <ti:edition urn="urn:cts:americanLit:isaac_o_best.best_ny121.perseus-eng1" workUrn="urn:cts:americanLit:isaac_o_best.best_ny121" xml:lang="eng">
-    <ti:label xml:lang="eng">History of the 121st New York State Infantry</ti:label>
-    <ti:description xml:lang="eng">Chicago. 1921.</ti:description>
-  </ti:edition>
-</ti:work>

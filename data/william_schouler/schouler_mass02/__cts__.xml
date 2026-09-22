@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_schouler" projid="americanLit:schouler_mass02" urn="urn:cts:americanLit:william_schouler.schouler_mass02" xml:lang="eng">
-  <ti:title xml:lang="eng">A history of Massachusetts in the Civil War: Volume 2</ti:title>
-  <ti:edition urn="urn:cts:americanLit:william_schouler.schouler_mass02.perseus-eng1" workUrn="urn:cts:americanLit:william_schouler.schouler_mass02" xml:lang="eng">
-    <ti:label xml:lang="eng">A history of Massachusetts in the Civil War: Volume 2</ti:label>
-    <ti:description xml:lang="eng">1871E. P. DUtton and CoBoston,</ti:description>
-  </ti:edition>
-</ti:work>

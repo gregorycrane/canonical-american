@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:john_jay_chapman" projid="americanLit:chapman_garrison" urn="urn:cts:americanLit:john_jay_chapman.chapman_garrison" xml:lang="eng">
-  <ti:title xml:lang="eng">William Lloyd Garrison</ti:title>
-  <ti:edition urn="urn:cts:americanLit:john_jay_chapman.chapman_garrison.perseus-eng1" workUrn="urn:cts:americanLit:john_jay_chapman.chapman_garrison" xml:lang="eng">
-    <ti:label xml:lang="eng">William Lloyd Garrison</ti:label>
-    <ti:description xml:lang="eng">Boston, the Atlantic Monthly Press, 1921.</ti:description>
-  </ti:edition>
-</ti:work>

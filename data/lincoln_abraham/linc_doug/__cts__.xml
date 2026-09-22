@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:lincoln_abraham" projid="americanLit:linc_doug" urn="urn:cts:americanLit:lincoln_abraham.linc_doug" xml:lang="eng">
+  <ti:title xml:lang="eng">Debates of Lincoln and Douglas: Carefully Prepared by the Reporters of Each Party at the times of their Delivery.</ti:title>
+  <ti:edition urn="urn:cts:americanLit:lincoln_abraham.linc_doug.perseus-eng1" workUrn="urn:cts:americanLit:lincoln_abraham.linc_doug" xml:lang="eng">
+    <ti:label xml:lang="eng">Debates of Lincoln and Douglas: Carefully Prepared by the Reporters of Each Party at the times of their Delivery.</ti:label>
+    <ti:description xml:lang="eng">Columbus: Follett, Foster and Company, 1860.</ti:description>
+  </ti:edition>
+</ti:work>

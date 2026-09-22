@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:dyer_frederick_h" projid="americanLit:dyer_regiments" urn="urn:cts:americanLit:dyer_frederick_h.dyer_regiments" xml:lang="eng">
+  <ti:title xml:lang="eng">Compendium of the War of the Rebellion: Regimental Histories</ti:title>
+  <ti:edition urn="urn:cts:americanLit:dyer_frederick_h.dyer_regiments.perseus-eng1" workUrn="urn:cts:americanLit:dyer_frederick_h.dyer_regiments" xml:lang="eng">
+    <ti:label xml:lang="eng">Compendium of the War of the Rebellion: Regimental Histories</ti:label>
+    <ti:description xml:lang="eng">1908.</ti:description>
+  </ti:edition>
+</ti:work>

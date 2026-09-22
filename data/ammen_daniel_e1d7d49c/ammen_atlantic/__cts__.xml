@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:ammen_daniel_e1d7d49c" projid="americanLit:ammen_atlantic" urn="urn:cts:americanLit:ammen_daniel_e1d7d49c.ammen_atlantic" xml:lang="eng">
+  <ti:title xml:lang="eng">The Atlantic coast</ti:title>
+  <ti:edition urn="urn:cts:americanLit:ammen_daniel_e1d7d49c.ammen_atlantic.perseus-eng1" workUrn="urn:cts:americanLit:ammen_daniel_e1d7d49c.ammen_atlantic" xml:lang="eng">
+    <ti:label xml:lang="eng">The Atlantic coast</ti:label>
+    <ti:description xml:lang="eng">New York. Scribner. 1905.</ti:description>
+  </ti:edition>
+</ti:work>

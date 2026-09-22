@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_wentworth_higginson" projid="americanLit:higg_newworld" urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_newworld" xml:lang="eng">
-  <ti:title xml:lang="eng">The new world and the new book</ti:title>
-  <ti:edition urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_newworld.perseus-eng1" workUrn="urn:cts:americanLit:thomas_wentworth_higginson.higg_newworld" xml:lang="eng">
-    <ti:label xml:lang="eng">The new world and the new book</ti:label>
-    <ti:description xml:lang="eng">Boston, Lee and Shepard Publishers, 1892.</ti:description>
-  </ti:edition>
-</ti:work>

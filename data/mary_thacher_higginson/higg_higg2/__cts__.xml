@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:mary_thacher_higginson" projid="americanLit:higg_higg2" urn="urn:cts:americanLit:mary_thacher_higginson.higg_higg2" xml:lang="eng">
-  <ti:title xml:lang="eng">Thomas Wentworth Higginson: the story of his life</ti:title>
-  <ti:edition urn="urn:cts:americanLit:mary_thacher_higginson.higg_higg2.perseus-eng1" workUrn="urn:cts:americanLit:mary_thacher_higginson.higg_higg2" xml:lang="eng">
-    <ti:label xml:lang="eng">Thomas Wentworth Higginson: the story of his life</ti:label>
-    <ti:description xml:lang="eng">Books for libraries press. Freeport, New York. 1914.</ti:description>
-  </ti:edition>
-</ti:work>

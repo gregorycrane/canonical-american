@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:adam_badeau" projid="americanLit:badeau_grantp" urn="urn:cts:americanLit:adam_badeau.badeau_grantp" xml:lang="eng">
-  <ti:title xml:lang="eng">Grant in peace: from Appomattox to Mount McGregor, a personal memoir</ti:title>
-  <ti:edition urn="urn:cts:americanLit:adam_badeau.badeau_grantp.perseus-eng1" workUrn="urn:cts:americanLit:adam_badeau.badeau_grantp" xml:lang="eng">
-    <ti:label xml:lang="eng">Grant in peace: from Appomattox to Mount McGregor, a personal memoir</ti:label>
-    <ti:description xml:lang="eng">S. S. Scranton and Co., Hartford, 1887.</ti:description>
-  </ti:edition>
-</ti:work>

@@ -21,6 +21,40 @@ SAMPLE = '''<?xml version="1.0"?>
 
 
 class ConvertP4Tests(unittest.TestCase):
+    def test_author_ids_are_surname_first(self):
+        self.assertEqual(
+            convert_p4.author_group_id("Thomas Wentworth Higginson"),
+            "higginson_thomas_wentworth",
+        )
+        self.assertEqual(convert_p4.author_group_id("Jane Doe"), "doe_jane")
+        self.assertEqual(convert_p4.author_group_id("Col. John C. Moore"), "moore_john_c")
+        self.assertEqual(convert_p4.author_group_id("Heros von Borcke"), "von_borcke_heros")
+        self.assertEqual(convert_p4.author_group_id("Waitt, Ernest Linden"), "waitt_ernest_linden")
+
+    def test_serial_publications_get_series_textgroups(self):
+        self.assertEqual(
+            convert_p4.series_textgroup("mhs27.ie.xml"),
+            ("series_medford_historical_society_papers", "Medford Historical Society Papers"),
+        )
+        self.assertEqual(
+            convert_p4.series_textgroup("shs01.ie.xml"),
+            ("series_southern_historical_society_papers", "Southern Historical Society Papers"),
+        )
+        self.assertIsNone(convert_p4.series_textgroup("bancroft02.ie.xml"))
+
+    def test_series_issue_metadata_uses_encoded_volume_and_date(self):
+        record = {
+            "titles": ["Southern Historical Society Papers", "Volume 3."],
+            "title": "Southern Historical Society Papers",
+            "source_desc": "Richmond, VA. 1877.",
+            "group_id": "series_southern_historical_society_papers",
+            "work_id": "shs03",
+        }
+        self.assertEqual(
+            convert_p4.series_issue_metadata(record),
+            ("Volume 3", "Volume 3", "1877"),
+        )
+
     def test_converts_sample_and_builds_cts(self):
         with tempfile.TemporaryDirectory() as temp:
             temp = Path(temp)
@@ -43,6 +77,7 @@ class ConvertP4Tests(unittest.TestCase):
             self.assertIsNotNone(tree.find(".//tei:refsDecl[@xml:id='CTS']", {**ns, "xml": convert_p4.XML_NS}))
             self.assertTrue((version.parent / "__cts__.xml").exists())
             self.assertTrue((version.parent.parent / "__cts__.xml").exists())
+            self.assertEqual(version.parent.parent.name, "doe_jane")
 
     def test_streaming_converter_preserves_structure(self):
         with tempfile.TemporaryDirectory() as temp:

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:james_parton" projid="americanLit:parton_greeley" urn="urn:cts:americanLit:james_parton.parton_greeley" xml:lang="eng">
-  <ti:title xml:lang="eng">The life of Horace Greeley</ti:title>
-  <ti:edition urn="urn:cts:americanLit:james_parton.parton_greeley.perseus-eng1" workUrn="urn:cts:americanLit:james_parton.parton_greeley" xml:lang="eng">
-    <ti:label xml:lang="eng">The life of Horace Greeley</ti:label>
-    <ti:description xml:lang="eng">New York. Mason Brothers. 1855.</ti:description>
-  </ti:edition>
-</ti:work>

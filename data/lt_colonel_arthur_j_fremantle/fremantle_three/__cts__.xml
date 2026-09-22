@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:lt_colonel_arthur_j_fremantle" projid="americanLit:fremantle_three" urn="urn:cts:americanLit:lt_colonel_arthur_j_fremantle.fremantle_three" xml:lang="eng">
-  <ti:title xml:lang="eng">Three Months in the Southern States</ti:title>
-  <ti:edition urn="urn:cts:americanLit:lt_colonel_arthur_j_fremantle.fremantle_three.perseus-eng1" workUrn="urn:cts:americanLit:lt_colonel_arthur_j_fremantle.fremantle_three" xml:lang="eng">
-    <ti:label xml:lang="eng">Three Months in the Southern States</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

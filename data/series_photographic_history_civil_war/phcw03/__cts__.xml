@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_photographic_history_civil_war" projid="americanLit:phcw03" urn="urn:cts:americanLit:series_photographic_history_civil_war.phcw03" xml:lang="eng">
+  <ti:title xml:lang="eng">Volume 3: The Decisive Battles</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_photographic_history_civil_war.phcw03.perseus-eng1" workUrn="urn:cts:americanLit:series_photographic_history_civil_war.phcw03" xml:lang="eng">
+    <ti:label xml:lang="eng">Volume 3: The Decisive Battles</ti:label>
+    <ti:description xml:lang="eng">Review of Reviews. New York. 1912.</ti:description>
+  </ti:edition>
+</ti:work>

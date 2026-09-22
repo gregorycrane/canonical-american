@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:lydia_maria_child" projid="americanLit:child_hopper" urn="urn:cts:americanLit:lydia_maria_child.child_hopper" xml:lang="eng">
-  <ti:title xml:lang="eng">Isaac T. Hopper: a true life</ti:title>
-  <ti:edition urn="urn:cts:americanLit:lydia_maria_child.child_hopper.perseus-eng1" workUrn="urn:cts:americanLit:lydia_maria_child.child_hopper" xml:lang="eng">
-    <ti:label xml:lang="eng">Isaac T. Hopper: a true life</ti:label>
-    <ti:description xml:lang="eng">Boston, J. P. Jewett and Company; Cleveland, Ohio: Jewett, Proctor and Worthington; London; Low and Company, 1854.</ti:description>
-  </ti:edition>
-</ti:work>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:j_b_jones" projid="americanLit:jones_diary" urn="urn:cts:americanLit:j_b_jones.jones_diary" xml:lang="eng">
-  <ti:title xml:lang="eng">A Rebel War Clerk's Diary</ti:title>
-  <ti:edition urn="urn:cts:americanLit:j_b_jones.jones_diary.perseus-eng1" workUrn="urn:cts:americanLit:j_b_jones.jones_diary" xml:lang="eng">
-    <ti:label xml:lang="eng">A Rebel War Clerk's Diary</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

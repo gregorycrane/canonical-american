@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_photographic_history_civil_war" projid="americanLit:phcw05" urn="urn:cts:americanLit:series_photographic_history_civil_war.phcw05" xml:lang="eng">
+  <ti:title xml:lang="eng">Volume 5: Forts and Artillery</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_photographic_history_civil_war.phcw05.perseus-eng1" workUrn="urn:cts:americanLit:series_photographic_history_civil_war.phcw05" xml:lang="eng">
+    <ti:label xml:lang="eng">Volume 5: Forts and Artillery</ti:label>
+    <ti:description xml:lang="eng">Review of Reviews. New York. 1912.</ti:description>
+  </ti:edition>
+</ti:work>

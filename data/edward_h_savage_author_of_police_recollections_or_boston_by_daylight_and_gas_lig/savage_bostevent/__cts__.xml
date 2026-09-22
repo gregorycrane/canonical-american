@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:edward_h_savage_author_of_police_recollections_or_boston_by_daylight_and_gas_lig" projid="americanLit:savage_bostevent" urn="urn:cts:americanLit:edward_h_savage_author_of_police_recollections_or_boston_by_daylight_and_gas_lig.savage_bostevent" xml:lang="eng">
-  <ti:title xml:lang="eng">Boston events: a brief mention and the date of more than 5,000 events that transpired in Boston from 1630 to 1880, covering a period of 250 years, together with other occurrences of interest, arranged in alphabetical order</ti:title>
-  <ti:edition urn="urn:cts:americanLit:edward_h_savage_author_of_police_recollections_or_boston_by_daylight_and_gas_lig.savage_bostevent.perseus-eng1" workUrn="urn:cts:americanLit:edward_h_savage_author_of_police_recollections_or_boston_by_daylight_and_gas_lig.savage_bostevent" xml:lang="eng">
-    <ti:label xml:lang="eng">Boston events: a brief mention and the date of more than 5,000 events that transpired in Boston from 1630 to 1880, covering a period of 250 years, together with other occurrences of interest, arranged in alphabetical order</ti:label>
-    <ti:description xml:lang="eng">Published and sold by the compiler. Boston: Tolman &amp; Withe, printers, 383 Washington Street. 1884.</ti:description>
-  </ti:edition>
-</ti:work>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_alexander_linn" projid="americanLit:linn_greeley" urn="urn:cts:americanLit:william_alexander_linn.linn_greeley" xml:lang="eng">
-  <ti:title xml:lang="eng">Horace Greeley Founder and Editor of The New York Tribune</ti:title>
-  <ti:edition urn="urn:cts:americanLit:william_alexander_linn.linn_greeley.perseus-eng1" workUrn="urn:cts:americanLit:william_alexander_linn.linn_greeley" xml:lang="eng">
-    <ti:label xml:lang="eng">Horace Greeley Founder and Editor of The New York Tribune</ti:label>
-    <ti:description xml:lang="eng">New York, D. Appleton and Company, March 1903.</ti:description>
-  </ti:edition>
-</ti:work>

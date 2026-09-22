@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:roberts_o_m" projid="americanLit:cmh11_1" urn="urn:cts:americanLit:roberts_o_m.cmh11_1" xml:lang="eng">
+  <ti:title xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 11.1</ti:title>
+  <ti:edition urn="urn:cts:americanLit:roberts_o_m.cmh11_1.perseus-eng1" workUrn="urn:cts:americanLit:roberts_o_m.cmh11_1" xml:lang="eng">
+    <ti:label xml:lang="eng">Confederate Military History, a library of Confederate States Military History: Volume 11.1</ti:label>
+    <ti:description xml:lang="eng">Atlanta, Ga. 1899</ti:description>
+  </ti:edition>
+</ti:work>

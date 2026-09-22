@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_southern_historical_society_papers" projid="americanLit:shs29" urn="urn:cts:americanLit:series_southern_historical_society_papers.shs29" xml:lang="eng">
+  <ti:title xml:lang="eng">Volume 29</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_southern_historical_society_papers.shs29.perseus-eng1" workUrn="urn:cts:americanLit:series_southern_historical_society_papers.shs29" xml:lang="eng">
+    <ti:label xml:lang="eng">Volume 29</ti:label>
+    <ti:description xml:lang="eng">Richmond, VA. 1901.</ti:description>
+  </ti:edition>
+</ti:work>

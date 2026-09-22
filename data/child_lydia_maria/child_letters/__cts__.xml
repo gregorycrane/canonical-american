@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:child_lydia_maria" projid="americanLit:child_letters" urn="urn:cts:americanLit:child_lydia_maria.child_letters" xml:lang="eng">
+  <ti:title xml:lang="eng">Letters of Lydia Maria Child</ti:title>
+  <ti:edition urn="urn:cts:americanLit:child_lydia_maria.child_letters.perseus-eng1" workUrn="urn:cts:americanLit:child_lydia_maria.child_letters" xml:lang="eng">
+    <ti:label xml:lang="eng">Letters of Lydia Maria Child</ti:label>
+    <ti:description xml:lang="eng">Boston, Hougton Mifflin, 1884.</ti:description>
+  </ti:edition>
+</ti:work>

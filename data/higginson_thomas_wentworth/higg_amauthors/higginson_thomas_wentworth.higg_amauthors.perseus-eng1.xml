@@ -1,0 +1,869 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <teiHeader type="text" status="new"> <fileDesc> <titleStmt> <title>Short studies of American authors</title> <author>Thomas Wentworth Higginson</author> <funder>Tufts University</funder> </titleStmt>  <publicationStmt><publisher>Perseus Digital Library</publisher><availability><p>Converted from the legacy Perseus TEI P4 American collection.</p></availability></publicationStmt><sourceDesc> 
+<p>Lee and Shepard, 1880. </p></sourceDesc> </fileDesc> <encodingDesc> <refsDecl xml:id="CTS"><citeStructure match="/TEI/text/body" use="@n"><citeStructure unit="chapter" n="chunk" delim=":" match="div[@type='chapter']" use="@n"/></citeStructure></refsDecl></encodingDesc> <profileDesc> <langUsage> <language ident="en">English </language><language ident="dutch">Dutch </language><language ident="la">Latin </language><language ident="de">German </language><language ident="grc">Greek </language><language ident="fr">French </language><language ident="it">Italian </language><language ident="pt">Portuguese </language><language ident="es">Spanish </language></langUsage> </profileDesc> <revisionDesc><change when="2026-09-21">Converted from TEI P4 source higg.amauthors.ie.xml; CTS metadata and citations added.</change></revisionDesc></teiHeader> 
+<text xml:lang="eng"><body xml:base="urn:cts:americanLit:higginson_thomas_wentworth.higg_amauthors.perseus-eng1"> 
+<div xml:id="c.1" type="chapter" n="1" subtype="chapter"> <pb xml:id="p.1" n="1"/> 
+<head>Preface.</head> 
+<p>
+
+<milestone unit="sentence" n="1"/>These brief papers were originally published in <quote>The literary world</quote> (<placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston</placeName>), and are here reprinted in a revised form, with some additions.</p> 
+<p>
+
+<milestone unit="sentence" n="2"/></p><closer><dateline><placeName reg="Cambridge, Middlesex, Massachusetts" key="tgn,7013527">Cambridge, Mass.</placeName>, <dateStruct value="-12-"><month reg="12">Dec.</month></dateStruct> i, <dateStruct value="1879--"><year reg="1879">1879</year></dateStruct>.</dateline></closer> <pb xml:id="p.2" n="2"/></div> 
+<div xml:id="c.2" type="chapter" n="2" subtype="chapter"> <pb xml:id="p.3" n="3"/> 
+<head><persName n="Hawthorne,,,,," xml:id="n0216.0002.00003.00001" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="3"/>I do not know when I have been more surprised than on being asked, the other day, whether <persName n="Hawthorne,,,,," xml:id="n0216.0002.00003.00002" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> was not physically very small.
+
+<milestone unit="sentence" n="4"/>It seemed at the moment utterly unconceivable that he should have been any thing less than the sombre and commanding personage he was. <persName n="Ellery Channing,,,,," xml:id="n0216.0002.00003.00003" reg="mostcommon:Ellery Channing,nomatch:0"><surname>Ellery Channing</surname></persName> well describes him as a <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="5"/></p><l>Tall, compacted figure, ably strung,</l> <l>To urge the <rs>Indian</rs> chase, or point the way.</l></quote> </p> 
+<p>
+
+<milestone unit="sentence" n="6"/><num value="1">One</num> can imagine any amount of positive energy that of <persName n="Bonaparte,,Napoleon,,," xml:id="n0216.0002.00003.00004" reg="default:Bonaparte,Napoleon,,,"><forename>Napoleon</forename> <surname>Bonaparte</surname></persName>, for instance — as included within a small physical frame.
+
+<milestone unit="sentence" n="7"/>But the self-contained purpose of <persName n="Hawthorne,,,,," xml:id="n0216.0002.00003.00005" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, the large resources, the waiting power,--these seem to the imagination to imply an ample basis of physical life; and certainly his stately and noble port is <pb xml:id="p.4" n="4"/> inseparable, in my memory, from these characteristics.</p> 
+<p>
+
+<milestone unit="sentence" n="8"/>Vivid as this impression is, I yet saw him but twice, and never spoke to him. I <num value="1" type="ordinal">first</num> met him on a summer morning, in <placeName reg="Concord, Merrimack, New Hampshire" key="tgn,7013647">Concord</placeName>, as he was walking along the road near the Old Manse, with his wife by his side, and a noble-looking baby-boy in a little wagon which the father was pushing.
+
+<milestone unit="sentence" n="9"/>I remember him as tall, firm, and strong in bearing; his wife looked pensive and dreamy, as she indeed was, then and always; the child was <persName n="Julian,,,,," xml:id="n0216.0002.00004.00006" reg="mostcommon:Julian,nomatch:0"><surname>Julian</surname></persName>, then known among the neighbors as <quote><rs type="role" reg="Prince">the Prince</rs>.</quote>
+
+<milestone unit="sentence" n="10"/>When I passed, <persName n="Hawthorne,,,,," xml:id="n0216.0002.00004.00007" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> lifted upon me his great gray eyes, with a look too keen to seem indifferent, too shy to be sympathetic-and that was all. But it comes back to memory like that <num value="1">one</num> glimpse of <persName n="Shelley,,,,," xml:id="n0216.0002.00004.00008" reg="mostcommon:Shelley,nomatch:0"><surname>Shelley</surname></persName> which <persName n="Browning,,,,," xml:id="n0216.0002.00004.00009" reg="mostcommon:Browning,Elizabeth,Barrett,,:1"><surname>Browning</surname></persName> describes, and which he likens to the day when he found an eagle's feather.</p> 
+<p>
+
+<milestone unit="sentence" n="11"/>Again I met <persName n="Hawthorne,,,,," xml:id="n0216.0002.00004.00010" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> at <num value="1">one</num> of the sessions of a short-lived <orgName n="Literary Club" type="club">literary club</orgName>; and I recall the imperturbable dignity and patience with which he sat through a vexatious discussion, whose details seemed as much dwarfed by his presence as if he had been a statue of <persName n="Zeus,,Olympian,,," xml:id="n0216.0002.00004.00011" reg="default:Zeus,Olympian,,,"><forename>Olympian</forename> <surname>Zeus</surname></persName>.
+
+<milestone unit="sentence" n="12"/>After his death I had a brief but intimate acquaintance with that rare person, <persName n="Hawthorne,Mrs.,,,," xml:id="n0216.0002.00004.00012" reg="mostcommon:Hawthorne,nomatch:0"><roleName n="Mrs.">Mrs.</roleName> <surname>Hawthorne</surname></persName>; and with <num value="1">one</num> <pb xml:id="p.5" n="5"/> still more finely organized, and born to a destiny of sadness,--their elder daughter.
+
+<milestone unit="sentence" n="13"/>I have staid at <quote>The Wayside,</quote> occupying a room in the small tower built by <persName n="Hawthorne,,,,," xml:id="n0216.0002.00005.00013" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, and containing his lofty and then deserted study, which still bore upon its wall the <name>Tennysonian</name> motto, <quote>There is no joy but calm,</quote> --this having been inscribed, however, not by himself, but by his son. It is not my purpose to dwell upon the facts of private life; and these circumstances are mentioned only because it is well to know at what angle of incidence any critic has been touched by the personality of a great author.</p> 
+<p>
+
+<milestone unit="sentence" n="14"/>Perhaps it always appears to men, as they grow older, that there was rather more of positive force and vitality in their own generation and among their immediate predecessors, than among those just coming on the stage.
+
+<milestone unit="sentence" n="15"/>This may be the reason why there seems to me a perpetual sense of grasp and vigor in <persName n="Hawthorne,,,,," xml:id="n0216.0002.00005.00014" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s most delicate sketches; while much of the most graceful writing now done in <placeName reg="United States, North and Central America, " key="tgn,7012149">America</placeName> makes no such impression, but either seems like dainty confectionery, or like carving minute heads on cherry-stones.
+
+<milestone unit="sentence" n="16"/>In <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName> the tendency is just now to the opposite fault,--to a distrust of all nice attention to form in writing, as being necessarily a weakness.
+
+<milestone unit="sentence" n="17"/><persName n="Hawthorne,,,,," xml:id="n0216.0002.00005.00015" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> happily escaped both these dangerous alternatives; and, <pb xml:id="p.6" n="6"/> indeed, it is hard to see that his genius was much affected by his surroundings, after all. He had, to be sure, the conscientious fidelity of <persName><forename>Puritanism</forename></persName> in his veins, a thing equally important for literature and for life: without it he might have lavished and wasted himself like <persName n="Poe,,,,," xml:id="n0216.0002.00006.00016" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>. He had what <persName n="Emerson,,,,," xml:id="n0216.0002.00006.00017" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName> once described as <quote>the still living merit of the oldest <placeName reg="New England" key="tgn,7014203">New-England</placeName> families;</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="18"/> 
+<p>The Dial, <num value="3">III</num>.<num value="101">101</num>.</p></note> he had moreover the unexhausted wealth of the <rs>Puritan</rs> traditions,--a wealth to which only he and <persName n="Whittier,,,,," xml:id="n0216.0002.00006.00018" reg="mostcommon:Whittier,nomatch:0"><surname>Whittier</surname></persName> have as yet done any justice.
+
+<milestone unit="sentence" n="19"/>The value of the material to be found in contemporary American life he never fully recognized; but he was the <num value="1" type="ordinal">first</num> person to see that we really have, for romantic purposes, a past; <measure n="200years" type="date">two hundred years</measure> being really quite enough to constitute antiquity.
+
+<milestone unit="sentence" n="20"/>This was what his <quote>environment</quote> gave him, and this was much.</p> 
+<p>
+
+<milestone unit="sentence" n="21"/>But, after all, his artistic standard was his own: there was nobody except <persName n="Irving,,,,," xml:id="n0216.0002.00006.00019" reg="mostcommon:Irving,nomatch:0"><surname>Irving</surname></persName> to teach him any thing in that way; and <persName n="Irving,,,,," xml:id="n0216.0002.00006.00020" reg="mostcommon:Irving,nomatch:0"><surname>Irving</surname></persName>'s work lay rather on the surface, and could be no model for <persName n="Hawthorne,,,,," xml:id="n0216.0002.00006.00021" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s. Yet from the time when the latter began to write for <quote>The Token,</quote> at <num value="23">twenty-three</num>, his powers of execution, as of thought, appear to have been full-grown.
+
+<milestone unit="sentence" n="22"/>The quiet ease is there, the pellucid language, the haunting quality: these gifts were born <pb xml:id="p.7" n="7"/> in him; we cannot trace them back to any period of formation.
+
+<milestone unit="sentence" n="23"/>And when we consider the degree to which they were developed, how utterly unfilled remains his peculiar throne; how powerless would be the accumulated literary forces of <placeName reg="London, Greater London, England" key="tgn,7011781">London</placeName>, for instance, at this day, to produce a single page that could possibly be taken for <persName n="Hawthorne,,,,," xml:id="n0216.0002.00007.00022" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s,--we see that there must, after all, be such a thing as literary art, and that he must represent <num value="1">one</num> of the very highest types of artist.</p> 
+<p>
+
+<milestone unit="sentence" n="24"/>Through <persName n="Hawthorne,,,,," xml:id="n0216.0002.00007.00023" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s journals we trace the mental impulses by which he <num value="1" type="ordinal">first</num> obtained his themes.
+
+<milestone unit="sentence" n="25"/>Then in his unfinished <quote><persName n="Felton,,Septimius,,," xml:id="n0216.0002.00007.00024" reg="default:Felton,Septimius,,,"><forename>Septimius</forename> <surname>Felton</surname></persName>,</quote> fortunately unfinished for this purpose,--we see his plastic imagination at work in shaping the romance; we watch him trying <num value="1">one</num> mode of treatment, then modifying it by another; always aiming at the main point, but sometimes pausing to elaborate the details, and at other times dismissing them to be worked out at leisure.
+
+<milestone unit="sentence" n="26"/>There hangs before me, as I write, a photograph of <num value="1">one</num> of <persName><forename>Raphael</forename></persName>'s rough sketches, drawn on the back of a letter: there is a group of heads, then another group on a different scale; you follow the shifting mood of the artist's mind; and so it is in reading <quote><persName n="Felton,,Septimius,,," xml:id="n0216.0002.00007.00025" reg="default:Felton,Septimius,,,"><forename>Septimius</forename> <surname>Felton</surname></persName>.</quote>
+
+<milestone unit="sentence" n="27"/>In all <persName n="Hawthorne,,,,," xml:id="n0216.0002.00007.00026" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s completed works, the pencilling is rubbed out, and every trace of the preliminary labor has disappeared.
+
+<milestone unit="sentence" n="28"/><pb xml:id="p.8" n="8"/></p> 
+<p><num value="1">One</num> of the most characteristic of <persName n="Hawthorne,,,,," xml:id="n0216.0002.00008.00027" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s literary methods is his habitual use of guarded under-statements and veiled hints.
+
+<milestone unit="sentence" n="29"/>It is not a sign of weakness, but of conscious strength, when he surrounds each delineation with a sort of penumbra, takes you into his counsels, offers hypotheses, as, <quote>May it not have been?</quote>
+
+<milestone unit="sentence" n="30"/>or, <quote>Shall we not rather say?</quote>
+
+<milestone unit="sentence" n="31"/>and sometimes, like a conjurer, urges particularly upon you the card he does not intend you to accept.
+
+<milestone unit="sentence" n="32"/>He seems not quite to know whether <persName n="Dimmesdale,,Arthur,,," xml:id="n0216.0002.00008.00028" reg="default:Dimmesdale,Arthur,,,"><forename>Arthur</forename> <surname>Dimmesdale</surname></persName> really had a fiery scar on his breast, or what finally became of <persName><forename>Miriam</forename></persName> and her lover.
+
+<milestone unit="sentence" n="33"/>He will gladly share with you any information he possesses, and, indeed, has several valuable hints to offer; but that is all. The result is, that you place yourself by his side to look with him at his characters, and gradually share with him the conviction that they must be real.
+
+<milestone unit="sentence" n="34"/>Then, when he has you thus in possession, he calls your attention to the profound ethics involved in the tale, and yet does it so gently that you never think of the moral as being obtrusive.</p> 
+<p>
+
+<milestone unit="sentence" n="35"/>All this involved a trait which was always supreme in him,--a marvellous self-control.
+
+<milestone unit="sentence" n="36"/>He had by nature that gift which the musical composer Jomelli went to a teacher to seek,--<quote>the art of not being embarrassed by his own ideas.</quote>
+
+<milestone unit="sentence" n="37"/><rs type="role">Mrs.</rs> <pb xml:id="p.9" n="9"/> <persName n="Hawthorne,,,,," xml:id="n0216.0002.00009.00029" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> told me that her husband grappled alone all winter with <quote>The scarlet letter,</quote> and came daily from his study with a knot in his forehead; and yet his self-mastery was so complete that every sentence would seem to have crystallized in an atmosphere of perfect calm.
+
+<milestone unit="sentence" n="38"/>We see the value of this element in his literary execution, when we turn from it to that of an author so great as <persName n="Lowell,,,,," xml:id="n0216.0002.00009.00030" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName>, for instance, and see him often entangled and weighed down by his own rich thoughts, his style being overcrowded by the very wealth it bears.
+
+<milestone unit="sentence" n="39"/><persName n="Hawthorne,,,,," xml:id="n0216.0002.00009.00031" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> never needed Italic letters to distribute his emphasis, never a footnote for assistance.
+
+<milestone unit="sentence" n="40"/>There was no conception so daring that he shrank from attempting it; and none that he could not so master as to state it, if he pleased, in terms of monosyllables.</p> 
+<p>
+
+<milestone unit="sentence" n="41"/>For all these merits he paid <num value="1">one</num> high and inexorable penalty,--the utter absence of all immediate or dazzling success.
+
+<milestone unit="sentence" n="42"/>His publisher, <persName n="Goodrich,,,,," xml:id="n0216.0002.00009.00032" reg="mostcommon:Goodrich,nomatch:0"><surname>Goodrich</surname></persName>, tells us, in his <quote>Reminiscences,</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="43"/> 
+<p><ref n="volume 2" targOrder="U">Vol. <num value="2">II</num></ref>., p <num value="269">269</num>.</p></note> that <persName n="Hawthorne,,,,," xml:id="n0216.0002.00009.00033" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> and <persName n="Willis,,,,," xml:id="n0216.0002.00009.00034" reg="mostcommon:Willis,nomatch:0"><surname>Willis</surname></persName> began to write together in <quote>The Token,</quote> in <dateStruct value="1827--"><year reg="1827">1827</year></dateStruct>, and that the now-forgotten <persName n="Willis,,,,," xml:id="n0216.0002.00009.00035" reg="mostcommon:Willis,nomatch:0"><surname>Willis</surname></persName> <quote>rose rapidly to fame,</quote> while <persName n="Hawthorne,,,,," xml:id="n0216.0002.00009.00036" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s writings <quote>did not attract the slightest attention.</quote>
+
+<milestone unit="sentence" n="44"/>The only recognition of his merits that I have been able to find in the contemporary criticism of those early <pb xml:id="p.10" n="10"/> years is in <quote>The <placeName reg="New England" key="tgn,7014203">New-England</placeName> Magazine</quote> for <dateStruct value="1834-10-"><month reg="10">October</month>, <year reg="1834">1834</year></dateStruct>, where he is classed approvingly with those who were then considered the eminent writers of the day,--<persName n="Sedgwick,Miss,,,," xml:id="n0216.0002.00010.00037" reg="mostcommon:Sedgwick,nomatch:0"><roleName n="Miss">Miss</roleName> <surname>Sedgwick</surname></persName>, <persName n="Leslie,Miss,,,," xml:id="n0216.0002.00010.00038" reg="mostcommon:Leslie,nomatch:0"><roleName n="Miss">Miss</roleName> <surname>Leslie</surname></persName>, <persName n="Verplanck,Miss,,,," xml:id="n0216.0002.00010.00039" reg="mostcommon:Verplanck,nomatch:0"><roleName n="Miss"/><surname>Verplanck</surname></persName>, <persName n="Greenwood,Miss,,,," xml:id="n0216.0002.00010.00040" reg="mostcommon:Greenwood,nomatch:0"><roleName n="Miss"/><surname>Greenwood</surname></persName>, and <persName n="Neal,Miss,John,,," xml:id="n0216.0002.00010.00041" reg="default:Neal,John,,,"><roleName n="Miss"/><forename>John</forename> <surname>Neal</surname></persName>. <quote>To them,</quote> the critic says, <quote>we may add an anonymous author of some of the most delicate and beautiful prose ever published this side of the <rs>Atlantic</rs>,--the author of <q direct="unspecified">The Gentle Boy.</q>
+
+<milestone unit="sentence" n="45"/></quote> <note anchored="yes"> 
+<p><placeName reg="New England" key="tgn,7014203">New-England</placeName> Magazine, <dateStruct value="1834-10-"><month reg="10">October</month>, <year reg="1834">1834</year></dateStruct>, <ref n="page 331">p. 331</ref>.</p></note> For <measure n="20years" type="date">twenty years</measure> he continued to be, according to his own statement, <quote>the obscurest man of letters in <placeName reg="United States, North and Central America, " key="tgn,7012149">America</placeName>.</quote>
+
+<milestone unit="sentence" n="46"/><persName n="Goodrich,,,,," xml:id="n0216.0002.00010.00042" reg="mostcommon:Goodrich,nomatch:0"><surname>Goodrich</surname></persName> testifies that it was almost impossible to find a publisher for <quote>Twice-told tales</quote> in <dateStruct value="1837--"><year reg="1837">1837</year></dateStruct>, and I can myself remember how limited a circle greeted the reprint in the enlarged edition of <dateStruct value="1841--"><year reg="1841">1841</year></dateStruct>.
+
+<milestone unit="sentence" n="47"/>When <persName n="Poe,,,,," xml:id="n0216.0002.00010.00043" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>, about <dateStruct value="1846--"><year reg="1846">1846</year></dateStruct>, wrote patronizingly of <persName n="Hawthorne,,,,," xml:id="n0216.0002.00010.00044" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, he added, <quote>It was never the fashion, until lately, to speak of him in any summary of our best authors.</quote>
+
+<milestone unit="sentence" n="48"/><note anchored="yes"> 
+<p><persName n="Poe,,,,," xml:id="n0216.0002.00010.00045" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s Works (ed.
+
+<milestone unit="sentence" n="49"/><dateStruct value="1853--"><year reg="1853">1853</year></dateStruct>), <num value="3">III</num>. <num value="189">189</num>. </p></note> <persName n="Whittier,,,,," xml:id="n0216.0002.00010.00046" reg="mostcommon:Whittier,nomatch:0"><surname>Whittier</surname></persName> once told me that when he himself had obtained, with some difficulty, in <dateStruct value="1847--"><year reg="1847">1847</year></dateStruct>, the insertion of <num value="1">one</num> of <persName n="Hawthorne,,,,," xml:id="n0216.0002.00010.00047" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s sketches in <quote>The National Era,</quote> the latter said quietly, <quote>There is not much market for my wares.</quote>
+
+<milestone unit="sentence" n="50"/>It has always seemed to me the greatest triumph of his <pb xml:id="p.11" n="11"/> genius, not that he bore poverty without a murmur, -for what right has a literary man, who can command his time and his art, to sigh after the added enjoyments of mere wealth?-but that he went on doing work of such a quality for an audience so small or so indifferent.</p> 
+<p>
+
+<milestone unit="sentence" n="51"/>Whether more immediate applause would have modified the result, it is now impossible to say. Having so much, why should we ask for more?
+
+<milestone unit="sentence" n="52"/>An immediate popularity might possibly have added a little more sunshine to his thought, a few drops of redder blood to his style; thus averting the only criticism that can ever be justly made on either.
+
+<milestone unit="sentence" n="53"/>Yet this very privation has made him a nobler and tenderer figure in literary history; and a source of more tonic influence for young writers, through all coming time.
+
+<milestone unit="sentence" n="54"/>The popular impression of <persName n="Hawthorne,,,,," xml:id="n0216.0002.00011.00048" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> as a shy and lonely man, gives but a part of the truth.
+
+<milestone unit="sentence" n="55"/>When we think of him as reading <quote>The scarlet letter</quote> to his sympathetic wife, until she pressed her hands to her ears, and could bear no more; or when we imagine him as playing with his children so gayly that <num value="1">one</num> of them told me <quote>there never was such a playmate in all the world,</quote> --we may feel that he had, after all, the very best that earth can give, and all our regrets seem only an impertinence. </p></div> 
+<div xml:id="c.3" type="chapter" n="3" subtype="chapter"> <pb xml:id="p.12" n="12"/> 
+<head><persName n="Poe,,,,," xml:id="n0216.0003.00012.00049" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="56"/>It happens to us rarely in our lives to come consciously into the presence of that extraordinary miracle we call genius.
+
+<milestone unit="sentence" n="57"/>Among the many literary persons whom I have happened to meet, at home or abroad, there are not half a dozen who have left an irresistible sense of this rare quality; and, among these few, <persName n="Poe,,,,," xml:id="n0216.0003.00012.00050" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> stands next to <persName n="Hawthorne,,,,," xml:id="n0216.0003.00012.00051" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> in the vividness of personal impression he produced.
+
+<milestone unit="sentence" n="58"/>I saw him but once; and it was on that celebrated occasion, in <dateStruct value="1845--"><year reg="1845">1845</year></dateStruct>, when he startled <placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston</placeName> by substituting his boyish production, <quote>Al Aaraaf,</quote> for the more serious poem which he was to have delivered before the <name>Lyceum</name>.
+
+<milestone unit="sentence" n="59"/>There was much curiosity to see him; for his prose-writings had been eagerly read, at least among college-students, and his poems were just beginning to excite still greater attention.
+
+<milestone unit="sentence" n="60"/>After a rather solid and very partisan address by <persName n="Cushing,,Caleb,,," xml:id="n0216.0003.00012.00052" reg="default:Cushing,Caleb,,,"><forename>Caleb</forename> <surname>Cushing</surname></persName>, then just returned from his <placeName key="tgn,1000111" n="1.000 10" reg="Zhonghua,Asia">Chinese</placeName> embassy, the poet was introduced.
+
+<milestone unit="sentence" n="61"/>I distinctly <pb xml:id="p.13" n="13"/> recall his face, with its ample forehead, brilliant eyes, and narrowness of nose and chin; an essentially ideal face, not noble, yet any thing but coarse; with the look of over-sensitiveness which when uncontrolled may prove more debasing than coarseness.
+
+<milestone unit="sentence" n="62"/>It was a face to rivet <num value="1">one</num>'s attention in any crowd, yet a face that no <num value="1">one</num> would feel safe in loving.
+
+<milestone unit="sentence" n="63"/>It is not perhaps strange that I find or fancy in the portrait of <persName n="Baudelaire,,Charles,,," xml:id="n0216.0003.00013.00053" reg="default:Baudelaire,Charles,,,"><forename>Charles</forename> <surname>Baudelaire</surname></persName>, <persName n="Poe,,,,," xml:id="n0216.0003.00013.00054" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s French admirer and translator, some of the traits that are indelibly associated with that <num value="1">one</num> glimpse of <persName n="Poe,,,,," xml:id="n0216.0003.00013.00055" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>.</p> 
+<p>
+
+<milestone unit="sentence" n="64"/>I remember that when introduced he stood with a sort of shrinking before the audience, and then began in a thin, tremulous, hardly musical voice, an apology for his poem, and a deprecation of the expected criticism of the <rs>Boston</rs> public; reiterating this in a sort of persistent, querulous way, which did not seem like satire, but impressed me at the time as nauseous flattery.
+
+<milestone unit="sentence" n="65"/>It was not then generally known, nor was it established for a long time after, -even when he had himself asserted it,--that the poet was himself born in <placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston</placeName>; and no <num value="1">one</num> can now tell, perhaps, what was the real feeling behind the apparently sycophantic attitude.
+
+<milestone unit="sentence" n="66"/>When, at the end, he abruptly began the recitation of his rather perplexing poem, everybody looked thoroughly <pb xml:id="p.14" n="14"/> mystified.
+
+<milestone unit="sentence" n="67"/>The verses had long since been printed in his youthful volume, and had re-appeared within a few days, if I mistake not, in <persName n="Wiley,,,,," xml:id="n0216.0003.00014.00056" reg="mostcommon:Wiley,nomatch:0"><surname>Wiley</surname></persName> &amp; <persName n="Putnam,,,,," xml:id="n0216.0003.00014.00057" reg="mostcommon:Putnam,nomatch:0"><surname>Putnam</surname></persName>'s edition of his poems; and they produced no very distinct impression on the audience until <persName n="Poe,,,,," xml:id="n0216.0003.00014.00058" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> began to read the maiden's song in the <num value="2" type="ordinal">second</num> part.
+
+<milestone unit="sentence" n="68"/>Already his tones had been softening to a finer melody than at <num value="1" type="ordinal">first</num>, and when he came to the verse,--<quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="69"/></p><l><persName n="Ligeia,,,,," xml:id="n0216.0003.00014.00059" reg="mostcommon:Ligeia,nomatch:0"><surname>Ligeia</surname></persName>! <persName n="Ligeia,,,,," xml:id="n0216.0003.00014.00060" reg="mostcommon:Ligeia,nomatch:0"><surname>Ligeia</surname></persName>,</l> <l>My beautiful <num value="1">one</num>!</l> <l>Whose harshest idea</l> <l>Will to melody run,</l> <l>Oh!
+
+<milestone unit="sentence" n="70"/>is it thy will</l> <l>On the breezes to toss?</l> <l>Or capriciously still</l> <l>Like the lone albatross</l> <l>Incumbent on night</l> <l>(As she on the air)</l> <l>To keep watch with delight</l> <l>On the harmony there?</l></quote> his voice seemed attenuated to the finest golden thread; the audience became hushed, and, as it were, breathless; there seemed no life in the hall but his; and every syllable was accentuated with such delicacy, and sustained with such sweetness, as I never heard equalled by other lips.
+
+<milestone unit="sentence" n="71"/>When the lyric ended, it was like the ceasing of the <pb xml:id="p.15" n="15"/> gypsy's chant in <persName n="Browning,,,,," xml:id="n0216.0003.00015.00061" reg="mostcommon:Browning,Elizabeth,Barrett,,:1"><surname>Browning</surname></persName>'s <quote>Flight of the <rs>Duchess</rs>;</quote> and I remember nothing more, except that in walking back to <placeName reg="Cambridge, Middlesex, Massachusetts" key="tgn,7013527">Cambridge</placeName> my comrades and I felt that we had been under the spell of some wizard.
+
+<milestone unit="sentence" n="72"/>Indeed, I feel much the same in the retrospect, to this day.</p> 
+<p>
+
+<milestone unit="sentence" n="73"/>The melody did not belong, in this case, to the poet's voice alone: it was already in the words.
+
+<milestone unit="sentence" n="74"/>His verse, when he was willing to give it natural utterance, was like that of <persName n="Coleridge,,,,," xml:id="n0216.0003.00015.00062" reg="mostcommon:Coleridge,nomatch:0"><surname>Coleridge</surname></persName> in rich sweetness, and like that was often impaired by theories of structure and systematic experiments in metre.
+
+<milestone unit="sentence" n="75"/>Never in American literature, I think, was such a fountain of melody flung into the air as when <quote>Lenore</quote> <num value="1" type="ordinal">first</num> appeared in <quote>The Pioneer;</quote> and never did fountain so drop downward as when <persName n="Poe,,,,," xml:id="n0216.0003.00015.00063" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> re-arranged it in its present form.
+
+<milestone unit="sentence" n="76"/>The irregular measure had a beauty as original as that of <quote>Christabel ;</quote> and the lines had an ever-varying, ever-lyrical cadence of their own, until their author himself took them, and cramped them into couplets.
+
+<milestone unit="sentence" n="77"/>What a change from 
+<text><body> 
+<head>Peccavimus!</head> 
+<p rend="rend=center">
+
+<milestone unit="sentence" n="78"/>But rave not thus!</p> 
+<p>
+
+<milestone unit="sentence" n="79"/>And let the solemn song Go up to <name n="God" type="God">God</name> so mournfully that <hi rend="italics">she</hi> may feel no wrong!</p></body></text> <pb xml:id="p.16" n="16"/> to the amended version, portioned off in regular lengths, thus--<quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="80"/></p><l>Peccavimus! but rave not thus!
+
+<milestone unit="sentence" n="81"/>and let a Sabbath song</l> <l>Go up to <name n="God" type="God">God</name> so solemnly, the dead may feel no wrong.</l></quote> Or worse yet, when he introduced that tedious jingle of slightly varied repetition which in later year reached its climax in lines like these:--<quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="82"/></p><l>Till the fair and gentle <persName><forename>Eulalie</forename></persName> became my blushing bride,</l> <l>Till the yellow-haired young <persName><forename>Eulalie</forename></persName> became my smiling bride.</l></quote> This trick, caught from <persName n="Poe,,,,," xml:id="n0216.0003.00016.00064" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>, still survives in our literature; made more permanent, perhaps, by the success of his <quote>Raven.</quote>
+
+<milestone unit="sentence" n="83"/>This poem, which made him popular, seems to me far inferior to some of his earlier and slighter effusions; as those exquisite verses <quote>To Helen,</quote> which are among our American classics, and have made <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="84"/></p><l>The glory that was <placeName key="tgn,1000074" n="1.000 48" reg="ellas">Greece</placeName>,</l> <l>And the grandeur that was <placeName reg="Rome, Floyd, Georgia" key="tgn,2024102">Rome</placeName>,</l></quote> a permanent phrase in our language.</p> 
+<p>
+
+<milestone unit="sentence" n="85"/><persName n="Poe,,,,," xml:id="n0216.0003.00016.00065" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s place in purely imaginative prose-writing is as unquestionable as <persName n="Hawthorne,,,,," xml:id="n0216.0003.00016.00066" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>'s. He even succeeded, which <persName n="Hawthorne,,,,," xml:id="n0216.0003.00016.00067" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> did not, in penetrating the artistic indifference of the <rs>French</rs> mind; and it was a substantial triumph, when we consider that Baudelaire put himself or his friends to the trouble <pb xml:id="p.17" n="17"/> of translating even the prolonged platitudes of <quote><placeName reg="Eureka, Humboldt, California" key="tgn,7014151">Eureka</placeName>,</quote> and the wearisome narrative of <quote><persName n="Pym,,Arthur,Gordon,," xml:id="n0216.0003.00017.00068" reg="default:Pym,Arthur,Gordon,,"><forename>Arthur</forename> <forename>Gordon</forename> <surname>Pym</surname></persName>.</quote>
+
+<milestone unit="sentence" n="86"/>Neither <persName n="Poe,,,,," xml:id="n0216.0003.00017.00069" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> nor <persName n="Hawthorne,,,,," xml:id="n0216.0003.00017.00070" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> has ever been fully recognized in <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>; and yet no Englishman of our time, not even <persName n="De Quincey,,,,," xml:id="n0216.0003.00017.00071" reg="mostcommon:De Quincey,nomatch:0"><surname>De Quincey</surname></persName>, has done any prose imaginative work to be named with theirs.
+
+<milestone unit="sentence" n="87"/>But in comparing <persName n="Poe,,,,," xml:id="n0216.0003.00017.00072" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> with <persName n="Hawthorne,,,,," xml:id="n0216.0003.00017.00073" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, we see that the genius of the latter has hands and feet as well as wings, so that all his work is solid as masonry, while <persName n="Poe,,,,," xml:id="n0216.0003.00017.00074" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s is broken and disfigured by all sorts of inequalities and imitations; he not disdaining, for want of true integrity, to disguise and falsify, to claim knowledge that he did not possess, to invent quotations and references, and even, as <persName n="Griswold,,,,," xml:id="n0216.0003.00017.00075" reg="mostcommon:Griswold,nomatch:0"><surname>Griswold</surname></persName> showed, to manipulate and exaggerate puffs of himself.
+
+<milestone unit="sentence" n="88"/>I remember the chagrin with which I looked through <persName n="Tieck,,,,," xml:id="n0216.0003.00017.00076" reg="mostcommon:Tieck,nomatch:0"><surname>Tieck</surname></persName>, in my student-days, to find the <quote>Journey into the <rs>Blue</rs> distance</quote> to which <persName n="Poe,,,,," xml:id="n0216.0003.00017.00077" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> refers in the <quote>House of <persName n="Usher,,,,," xml:id="n0216.0003.00017.00078" reg="mostcommon:Usher,nomatch:0"><surname>Usher</surname></persName>;</quote> and how <num value="1">one</num> of the poet's intimates laughed me to scorn for being deceived by any of <persName n="Poe,,,,," xml:id="n0216.0003.00017.00079" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s citations, saying that he hardly knew a word of <persName n="German,,,,," xml:id="n0216.0003.00017.00080" reg="mostcommon:German,nomatch:0"><surname>German</surname></persName>.</p> 
+<p>
+
+<milestone unit="sentence" n="89"/>But, making all possible deductions, how wonderful remains the power of <persName n="Poe,,,,," xml:id="n0216.0003.00017.00081" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s imaginative tales, and how immense is the ingenuity of his puzzles and disentanglements!
+
+<milestone unit="sentence" n="90"/>The conundrums of <persName n="Wilkie,,,,," xml:id="n0216.0003.00017.00082" reg="mostcommon:Wilkie,nomatch:0"><surname>Wilkie</surname></persName> <pb xml:id="p.18" n="18"/> <persName n="Collins,,,,," xml:id="n0216.0003.00018.00083" reg="mostcommon:Collins,nomatch:0"><surname>Collins</surname></persName> never renew their interest after the answer is known; but <persName n="Poe,,,,," xml:id="n0216.0003.00018.00084" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s can be read again and again.
+
+<milestone unit="sentence" n="91"/>It is where spiritual depths are to be touched, that he shows his weakness; where he attempts it, as in <quote><persName n="Wilson,,William,,," xml:id="n0216.0003.00018.00085" reg="default:Wilson,William,,,"><forename>William</forename> <surname>Wilson</surname></persName>,</quote> it seems exceptional; where there is the greatest display of philosophic form, he is often most trivial, whereas <persName n="Hawthorne,,,,," xml:id="n0216.0003.00018.00086" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> is often profoundest when he has disarmed you by his simplicity.
+
+<milestone unit="sentence" n="92"/>The truth is, that <persName n="Poe,,,,," xml:id="n0216.0003.00018.00087" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> lavished on things comparatively superficial those great intellectual resources which <persName n="Hawthorne,,,,," xml:id="n0216.0003.00018.00088" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> reverently husbanded and used.
+
+<milestone unit="sentence" n="93"/>That there is something behind even genius to make or mar it, this is the lesson of the <num value="2">two</num> lives.</p> 
+<p>
+
+<milestone unit="sentence" n="94"/><persName n="Poe,,,,," xml:id="n0216.0003.00018.00089" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> makes <num value="1">one</num> of his heroes define another as <quote>that <foreign xml:lang="la">monstrum horrendum</foreign>, an unprincipled man of genius.</quote>
+
+<milestone unit="sentence" n="95"/>It is in the malice and fury of his own critical work that his low moral tone most betrays itself.
+
+<milestone unit="sentence" n="96"/>No atmosphere can be more belittling than that of his <quote>New York Literati:</quote> it is a mass of vehement dogmatism and petty personalities; opinions warped by private feeling, and varying from page to page.
+
+<milestone unit="sentence" n="97"/>He seemed to have absolutely no fixed standard of critical judgment, though it is true that there was very little anywhere in <placeName reg="United States, North and Central America, " key="tgn,7012149">America</placeName> during those acrimonious days, when the most honorable head might be covered with insult or neglect, <pb xml:id="p.19" n="19"/> while any young poetess who smiled sweetly on <persName n="Poe,,,,," xml:id="n0216.0003.00019.00090" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> or <persName n="Griswold,,,,," xml:id="n0216.0003.00019.00091" reg="mostcommon:Griswold,nomatch:0"><surname>Griswold</surname></persName> or <persName n="Willis,,,,," xml:id="n0216.0003.00019.00092" reg="mostcommon:Willis,nomatch:0"><surname>Willis</surname></persName> might find herself placed among the <name>Muses</name>.
+
+<milestone unit="sentence" n="98"/><persName n="Poe,,,,," xml:id="n0216.0003.00019.00093" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> complimented and rather patronized <persName n="Hawthorne,,,,," xml:id="n0216.0003.00019.00094" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, but found him only <quote>peculiar and <hi rend="italics">not</hi> original;</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="99"/> 
+<p>Works, ed. <dateStruct value="1853--"><year reg="1853">1853</year></dateStruct>, <num value="3">III</num>., <num value="202">202</num>.</p></note> saying of him, <quote>He has not half the material for the exclusiveness of literature that he has for its universality,</quote> whatever that may mean; and finally he tried to make it appear that <persName n="Hawthorne,,,,," xml:id="n0216.0003.00019.00095" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName> had borrowed from himself.
+
+<milestone unit="sentence" n="100"/>He returned again and again to the attack on <persName n="Longfellow,,,,," xml:id="n0216.0003.00019.00096" reg="mostcommon:Longfellow,nomatch:0"><surname>Longfellow</surname></persName> as a wilful plagiarist, denouncing the trivial resemblance between his <quote>Midnight Mass for the <name>Dying</name> year</quote> and <persName n="Tennyson,,,,," xml:id="n0216.0003.00019.00097" reg="mostcommon:Tennyson,nomatch:0"><surname>Tennyson</surname></persName>'s <quote>Death of the <rs>Old</rs> year,</quote> as <quote>belonging to the most barbarous class of literary piracy.</quote>
+
+<milestone unit="sentence" n="101"/><note anchored="yes"> 
+<p>Works, ed. <dateStruct value="1853--"><year reg="1853">1853</year></dateStruct>, <num value="3">III</num>., <num value="325">325</num>.</p></note> To make this attack was, as he boasted, <quote>to throttle the guilty;</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="102"/> 
+<p>Works, ed. <dateStruct value="1853--"><year reg="1853">1853</year></dateStruct>, <num value="3">III</num>., <num value="300">300</num>.</p></note> and while dealing thus ferociously with <persName n="Longfellow,,,,," xml:id="n0216.0003.00019.00098" reg="mostcommon:Longfellow,nomatch:0"><surname>Longfellow</surname></persName>, thus condescendingly with <persName n="Hawthorne,,,,," xml:id="n0216.0003.00019.00099" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, he was claiming a foremost rank among American authors for obscurities now forgotten, such as <persName n="Welby,Mrs.,Amelia,B.,," xml:id="n0216.0003.00019.00100" reg="default:Welby,Amelia,B.,,"><roleName n="Mrs.">Mrs.</roleName> <forename>Amelia</forename> <forename>B.</forename> <surname>Welby</surname></persName> and <persName n="Lewis,Mrs.,Estelle,Anne,," xml:id="n0216.0003.00019.00101" reg="default:Lewis,Estelle,Anne,,"><roleName n="Mrs."/><forename>Estelle</forename> <forename>Anne</forename> <surname>Lewis</surname></persName>.
+
+<milestone unit="sentence" n="103"/>No <num value="1">one</num> ever did more than <persName n="Poe,,,,," xml:id="n0216.0003.00019.00102" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> to lower the tone of literary criticism in this country; and the greater his talent, the greater the mischief.</p> 
+<p>
+
+<milestone unit="sentence" n="104"/>As a poet he held for a time the place earlier <pb xml:id="p.20" n="20"/> occupied by <persName n="Byron,,,,," xml:id="n0216.0003.00020.00103" reg="mostcommon:Byron,nomatch:0"><surname>Byron</surname></persName>, and later by <persName n="Swinburne,,,,," xml:id="n0216.0003.00020.00104" reg="mostcommon:Swinburne,nomatch:0"><surname>Swinburne</surname></persName>, as the patron saint of all wilful boys suspected of genius, and convicted at least of its infirmities.
+
+<milestone unit="sentence" n="105"/>He belonged to the melancholy class of wasted men, like the <rs>German Hoffman</rs>, whom perhaps of all men of genius he most resembled.
+
+<milestone unit="sentence" n="106"/>No doubt, if we are to apply any standard of moral weight or sanity to authors,--a proposal which <persName n="Poe,,,,," xml:id="n0216.0003.00020.00105" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> would doubtless have ridiculed,--it can only be in a very large and generous way. If a career has only a manly ring to it, we can forgive many errors — as in reading, for instance, the autobiography of Benvenuto Cellini, carrying always his life in his hand amid a brilliant and reckless society.
+
+<milestone unit="sentence" n="107"/>But the existence of a poor Bohemian, besotted when he has money, angry and vindictive when the money is spent, this is a dismal tragedy, for which genius only makes the footlights burn with more lustre.
+
+<milestone unit="sentence" n="108"/>There is a passage in <persName n="Keats,,,,," xml:id="n0216.0003.00020.00106" reg="mostcommon:Keats,nomatch:0"><surname>Keats</surname></persName>'s letters, written from the haunts of <persName n="Burns,,,,," xml:id="n0216.0003.00020.00107" reg="mostcommon:Burns,nomatch:0"><surname>Burns</surname></persName>, in which he expresses himself as filled with pity for the poet's life: <quote>he drank with blackguards, he was miserable; we can see horribly clear in the works of such a man his life, as if we were <name n="God" type="God">God's</name> spies.</quote>
+
+<milestone unit="sentence" n="109"/>Yet <persName n="Burns,,,,," xml:id="n0216.0003.00020.00108" reg="mostcommon:Burns,nomatch:0"><surname>Burns</surname></persName>'s sins and miseries left his heart unspoiled, and this cannot be said of <persName n="Poe,,,,," xml:id="n0216.0003.00020.00109" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>. After all, the austere virtues — the virtues of <persName n="Emerson,,,,," xml:id="n0216.0003.00020.00110" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName>, <persName n="Hawthorne,,,,," xml:id="n0216.0003.00020.00111" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>, <persName n="Whittier,,,,," xml:id="n0216.0003.00020.00112" reg="mostcommon:Whittier,nomatch:0"><surname>Whittier</surname></persName> — are the best soil for genius.
+
+<milestone unit="sentence" n="110"/><pb xml:id="p.21" n="21"/></p> 
+<p>I like best to think of <persName n="Poe,,,,," xml:id="n0216.0003.00021.00113" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName> as associated with his betrothed, <persName n="Whitman,,Sarah,Helen,," xml:id="n0216.0003.00021.00114" reg="default:Whitman,Sarah,Helen,,"><forename>Sarah</forename> <forename>Helen</forename> <surname>Whitman</surname></persName>, whom I saw sometimes in her later years.
+
+<milestone unit="sentence" n="111"/>That gifted woman had outlived her early friends and loves and hopes, and perhaps her literary fame, such as it was: she had certainly outlived her recognized ties with <persName n="Poe,,,,," xml:id="n0216.0003.00021.00115" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>, and all but his memory.
+
+<milestone unit="sentence" n="112"/>There she dwelt in her little suite of rooms, bearing youth still in her heart and in her voice, and on her hair also, and in her dress.
+
+<milestone unit="sentence" n="113"/>Her dimly-lighted parlor was always decked, here and there, with scarlet; and she sat, robed in white, with her back always turned to the light, thus throwing a discreetly tinted shadow over her still thoughtful and noble face.
+
+<milestone unit="sentence" n="114"/>She seemed a person embalmed while still alive: it was as if she might dwell forever there, prolonging into an indefinite future the tradition of a poet's love; and when we remembered that she had been <persName n="Poe,,,,," xml:id="n0216.0003.00021.00116" reg="mostcommon:Poe,nomatch:0"><surname>Poe</surname></persName>'s betrothed, that his kisses had touched her lips, that she still believed in him and was his defender, all criticism might well, for her sake, be disarmed, and her saintly life atone for his stormy and sad career. </p></div> 
+<div xml:id="c.4" type="chapter" n="4" subtype="chapter"> <pb xml:id="p.22" n="22"/> 
+<head><persName n="Thoreau,,,,," xml:id="n0216.0004.00022.00117" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="115"/>There is no fame more permanent than that which begins its real growth after the death of an author; and such is the fame of <persName n="Thoreau,,,,," xml:id="n0216.0004.00022.00118" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>.
+
+<milestone unit="sentence" n="116"/>Before his death he had published but <num value="2">two</num> books, <quote>A Week on the <placeName reg="Concord River, Oxford, Maine" key="tgn,2252025">Concord</placeName> and <placeName reg="Merrimack River, United States, North and Central America" key="tgn,7021005">Merrimack Rivers</placeName>,</quote> and <quote><persName n="Walden,,,,," xml:id="n0216.0004.00022.00119" reg="mostcommon:Walden,nomatch:0"><surname>Walden</surname></persName>.</quote>
+
+<milestone unit="sentence" n="117"/><num value="4">Four</num> more have since been printed, besides a volume of his letters and <num value="2">two</num> biographies.
+
+<milestone unit="sentence" n="118"/><num value="1">One</num> of these last appeared within a year or <num value="2">two</num> in <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>, where he was, up to the time of his death, absolutely unknown.
+
+<milestone unit="sentence" n="119"/>Such things are not accidental or the result of whim, and they indicate that the literary fame of <persName n="Thoreau,,,,," xml:id="n0216.0004.00022.00120" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> is secure.
+
+<milestone unit="sentence" n="120"/>Indeed, it has already survived <num value="2">two</num> of the greatest dangers that can beset reputation, a brilliant satirist for a critic, and an injudicious friend for a biographer.</p> 
+<p>
+
+<milestone unit="sentence" n="121"/>Both admirer and censor, both <persName n="Channing,,,,," xml:id="n0216.0004.00022.00121" reg="mostcommon:Channing,nomatch:0"><surname>Channing</surname></persName> in his memoir, and <persName n="Lowell,,,,," xml:id="n0216.0004.00022.00122" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> in his well-known criticism, have brought the eccentricities of <persName n="Thoreau,,,,," xml:id="n0216.0004.00022.00123" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> into undue prominence, and have placed too little stress <pb xml:id="p.23" n="23"/> on the vigor, the good sense, the clear perceptions, of the man. I have myself walked, talked, and corresponded with him, and can testify that the impression given by both these writers is far removed from that ordinarily made by <persName n="Thoreau,,,,," xml:id="n0216.0004.00023.00124" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> himself.
+
+<milestone unit="sentence" n="122"/>While tinged here and there, like most <placeName reg="New England" key="tgn,7014203">New England</placeName> thinkers of his time, with the manner of <persName n="Emerson,,,,," xml:id="n0216.0004.00023.00125" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName>, he was yet, as a companion, essentially original, wholesome, and enjoyable.
+
+<milestone unit="sentence" n="123"/>Though more or less of a humorist, nursing his own whims, and capable of being tiresome when they came uppermost, he was easily led away from them to the vast domains of literature and nature, and then poured forth endless streams of the most interesting talk.
+
+<milestone unit="sentence" n="124"/>He taxed the patience of his companions, but not more so, on the whole, than is done by many other eminent talkers when launched upon their favorite themes.</p> 
+<p>
+
+<milestone unit="sentence" n="125"/>It is hard for <num value="1">one</num> who thus knew him to be quite patient with <persName n="Lowell,,,,," xml:id="n0216.0004.00023.00126" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> in what seems almost wanton misrepresentation.
+
+<milestone unit="sentence" n="126"/><persName n="Lowell,,,,," xml:id="n0216.0004.00023.00127" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> applies to <persName n="Thoreau,,,,," xml:id="n0216.0004.00023.00128" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> the word <quote>indolent:</quote> but you might as well speak of the indolence of a self-registering thermometer; it does not go about noisily, yet it never knows an idle moment.
+
+<milestone unit="sentence" n="127"/><persName n="Lowell,,,,," xml:id="n0216.0004.00023.00129" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> says that <persName n="Thoreau,,,,," xml:id="n0216.0004.00023.00130" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> <quote>looked with utter contempt on the august drama of destiny, of which his country was the scene, and on <pb xml:id="p.24" n="24"/> which the curtain had already risen;</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="128"/> 
+<p>My Study Windows, <ref n="page 206">p. 206</ref>.</p></note> but was it <persName n="Thoreau,,,,," xml:id="n0216.0004.00024.00131" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>, or <persName n="Lowell,,,,," xml:id="n0216.0004.00024.00132" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName>, who found a voice when the curtain fell, after the <num value="1" type="ordinal">first</num> act of that drama, upon the scaffold of <persName n="Brown,,John,,," xml:id="n0216.0004.00024.00133" reg="default:Brown,John,,,"><forename>John</forename> <surname>Brown</surname></persName>?
+
+<milestone unit="sentence" n="129"/><persName n="Lowell,,,,," xml:id="n0216.0004.00024.00134" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> accuses him of a <quote>seclusion which keeps him in the public eye,</quote> and finds something <quote>delightfully absurd</quote> in his addressing <num value="6">six</num> volumes under such circumstances to the public, when the fact is that <num value="4">four</num> of these volumes were made up by friends, after <persName n="Thoreau,,,,," xml:id="n0216.0004.00024.00135" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s death, from his manuscripts, or from his stray papers in newspapers and magazines.
+
+<milestone unit="sentence" n="130"/><persName n="Lowell,,,,," xml:id="n0216.0004.00024.00136" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> accepts throughout the popular misconception — and has, indeed, done much to strengthen it — that <persName n="Thoreau,,,,," xml:id="n0216.0004.00024.00137" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> hated civilization, and believed only in the wilderness; whereas <persName n="Thoreau,,,,," xml:id="n0216.0004.00024.00138" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> defined his own position on this point with exceeding clearness, and made it essentially the same with that of his critics.
+
+<milestone unit="sentence" n="131"/><cit><quote>For a permanent residence it seemed to me that there could be no comparison between this [Concord] and the wilderness, necessary as the latter is for a resource and a background, the raw material of all our civilization.
+
+<milestone unit="sentence" n="132"/>The wilderness is simple almost to barrenness.
+
+<milestone unit="sentence" n="133"/>The partially cultivated country it is which chiefly has inspired, and will continue to inspire, the strains of poets such as compose the mass of any literature.</quote>
+
+<milestone unit="sentence" n="134"/><bibl><placeName reg="Maine" key="tgn,7007515">Maine</placeName> Woods, <ref n="page 159">p. 159</ref>; written in <dateStruct value="1846--"><year reg="1846">1846</year></dateStruct>.</bibl></cit> <pb xml:id="p.25" n="25"/></p> 
+<p>
+
+<milestone unit="sentence" n="135"/>Seen in the light of such eminently sensible remarks as these, it will by and by be discovered that <persName n="Thoreau,,,,," xml:id="n0216.0004.00025.00139" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s whole attitude has been needlessly distorted.
+
+<milestone unit="sentence" n="136"/><persName n="Lowell,,,,," xml:id="n0216.0004.00025.00140" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> says that <quote>his shanty-life was mere impossibility, so far as his own conception of it goes, as an entire independency of mankind.
+
+<milestone unit="sentence" n="137"/>The tub of <persName n="Diogenes,,,,," xml:id="n0216.0004.00025.00141" reg="mostcommon:Diogenes,nomatch:0"><surname>Diogenes</surname></persName> had a sounder bottom.</quote>
+
+<milestone unit="sentence" n="138"/><note anchored="yes"> 
+<p>My Study Windows, <ref n="page 208">p. 208</ref>.</p></note> But what a man of straw is this that <persName n="Lowell,,,,," xml:id="n0216.0004.00025.00142" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> is constructing!
+
+<milestone unit="sentence" n="139"/>What is this <quote>shanty-life</quote> ? A young man living in a country village, and having a passion for the minute observation of nature, and a love for <placeName key="tgn,1000074" n="1.000 10" reg="Ellas,Europe">Greek</placeName> and <placeName key="tgn,2560760;tgn,2560759;tgn,2556628;tgn,2128626;tgn,2091582;tgn,2075984" n="0.009 000000.9090 placename;tgn,2560760;Oriental, Okfuskee, Oklahoma,Okfuskee,Oklahoma,United States,North and Central America;0.009 000000.9090 placename;tgn,2560759;Oriental, Burlington, New Jersey,Burlington,New Jersey,United States,North and Central America;0.009 000000.9090 placename;tgn,2556628;Old Camp, Esmeralda, Nevada,Esmeralda,Nevada,United States,North and Central America;0.009 000000.9090 placename;tgn,2128626;Alder Springs, Glenn, California,Glenn,California,United States,North and Central America;0.009 000000.9090 placename;tgn,2091582;Oriental, Juniata, Pennsylvania,Juniata,Pennsylvania,United States,North and Central America;0.009 000000.9090 placename;tgn,2075984;Oriental, Pamlico, North Carolina,Pamlico,North Carolina,United States,North and Central America" reg="Oriental, Okfuskee, Oklahoma,Okfuskee,Oklahoma,United States,North and Central America;Oriental, Burlington, New Jersey,Burlington,New Jersey,United States,North and Central America;Old Camp, Esmeralda, Nevada,Esmeralda,Nevada,United States,North and Central America;Alder Springs, Glenn, California,Glenn,California,United States,North and Central America;Oriental, Juniata, Pennsylvania,Juniata,Pennsylvania,United States,North and Central America;Oriental, Pamlico, North Carolina,Pamlico,North Carolina,United States,North and Central America">Oriental</placeName> reading, takes it into his head to build himself a study, not in the garden or the orchard, but in the woods, by the side of a lake.
+
+<milestone unit="sentence" n="140"/>Happening to be poor, and to live in a time when social experiments are in vogue at <placeName reg="Brook Farm">Brook Farm</placeName> and elsewhere, he takes a whimsical satisfaction in seeing how cheaply he can erect his hut, and afterwards support himself by the labor of his hands.
+
+<milestone unit="sentence" n="141"/>He is not really banished from the world, nor does he seek or profess banishment: indeed, his house is not <measure n="2miles" type="distance">two miles</measure> from his mother's door; and he goes to the village every day or <num value="2">two</num>, by his own showing, to hear the news.<note anchored="yes">
+
+<milestone unit="sentence" n="142"/> 
+<p><persName n="Walden,,,,," xml:id="n0216.0004.00025.00143" reg="mostcommon:Walden,nomatch:0"><surname>Walden</surname></persName>, <ref n="page 181">p. 181</ref>.</p></note> In this quiet abode he spends <measure n="2years" type="date">two years</measure>, varied by an occasional excursion into the deeper wilderness at a <pb xml:id="p.26" n="26"/> distance.
+
+<milestone unit="sentence" n="143"/>He earns an honest living by gardening and land-surveying, makes more close and delicate observations on nature than any other American has ever made, and writes the only book yet written in <placeName reg="America, Limburg, Nederland" key="tgn,1047611">America</placeName>, to my thinking, that bears an annual perusal.
+
+<milestone unit="sentence" n="144"/>Can it be really true that this is a life so wasted, so unpardonable?</p> 
+<p>
+
+<milestone unit="sentence" n="145"/>The artist <rs>LaFarge</rs> built himself a studio as bare as <persName n="Thoreau,,,,," xml:id="n0216.0004.00026.00144" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s and almost as lonely, among the <rs type="place">Paradise Rocks</rs>, near <placeName reg="Newport, Rhode Island, Newport" key="tgn,7014221">Newport</placeName>, and used to withdraw from the fashionable summer world to that safe retreat.
+
+<milestone unit="sentence" n="146"/><persName n="Lowell,,,,," xml:id="n0216.0004.00026.00145" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName> himself has celebrated in immortal verse the self-seclusion of <persName n="Gould,Professor,,,," xml:id="n0216.0004.00026.00146" reg="mostcommon:Gould,nomatch:0"><roleName n="Professor">Professor</roleName> <surname>Gould</surname></persName>, who would lock himself into his <placeName reg="Albany, Albany, New York" key="tgn,7013266">Albany</placeName> observatory, and leave his indignant trustees to <quote>admire the keyhole's contour grand</quote> from without.
+
+<milestone unit="sentence" n="147"/>Is the naturalist's work so much inferior to the artist's,--are the stars of thought so much less important than those of space,--that <persName n="LaFarge,,,,," xml:id="n0216.0004.00026.00147" reg="mostcommon:LaFarge,nomatch:0"><surname>LaFarge</surname></persName> and <persName n="Gould,,,,," xml:id="n0216.0004.00026.00148" reg="mostcommon:Gould,nomatch:0"><surname>Gould</surname></persName> are to be praised for their self-devotion, and yet <persName n="Thoreau,,,,," xml:id="n0216.0004.00026.00149" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> is to be held up to all coming time as selfish?
+
+<milestone unit="sentence" n="148"/>For my own part, with <quote><persName n="Walden,,,,," xml:id="n0216.0004.00026.00150" reg="mostcommon:Walden,nomatch:0"><surname>Walden</surname></persName></quote> in my hands, I wish that every other author in <placeName reg="America, Limburg, Nederland" key="tgn,1047611">America</placeName> might try the experiment of <measure n="2years" type="date">two years</measure> in a <quote>shanty.</quote></p> 
+<p>
+
+<milestone unit="sentence" n="149"/>Let me not seem to do injustice to <persName n="Lowell,,,,," xml:id="n0216.0004.00026.00151" reg="mostcommon:Lowell,nomatch:0"><surname>Lowell</surname></persName>, who closes his paper on <persName n="Thoreau,,,,," xml:id="n0216.0004.00026.00152" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> with a generous tribute <pb xml:id="p.27" n="27"/> that does much to redeem his earlier injustice.
+
+<milestone unit="sentence" n="150"/>The truth is, that <persName n="Thoreau,,,,," xml:id="n0216.0004.00027.00153" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> shared the noble protest against worldliness of what is called the <quote>transcendental</quote> period, in <placeName reg="America, Limburg, Nederland" key="tgn,1047611">America</placeName>, and naturally shared some of the intellectual extravagances of that seething time; but he did not, like some of his contemporaries, make his whims an excuse for mere selfishness, and his home life — always the best test — was thoroughly affectionate and faithful.
+
+<milestone unit="sentence" n="151"/>His lifelong celibacy was due, if I have been correctly informed, to an early act of lofty self-abnegation toward his own brother, whose love had taken the same direction with his own. Certainly his personal fortitude amid the privations and limitations of his own career was nothing less than heroic.
+
+<milestone unit="sentence" n="152"/>There is nothing finer in literary history than his description, in his unpublished diary, of receiving from his publisher the unsold copies — nearly the whole edition — of his <quote>Week on the <placeName reg="Concord River, Oxford, Maine" key="tgn,2252025">Concord</placeName> and <placeName reg="Merrimack River, United States, North and Central America" key="tgn,7021005">Merrimack Rivers</placeName>,</quote> and of his carrying the melancholy burden up-stairs on his shoulders to his study.
+
+<milestone unit="sentence" n="153"/><quote>I have now a library,</quote> he says, <quote>of nearly <num value="900">nine hundred</num> volumes, over <num value="700">seven hundred</num> of which I wrote myself.</quote>
+
+<milestone unit="sentence" n="154"/><note anchored="yes"> 
+<p>By the kindness of my friend <persName n="Blake,,H.,G.,O.," xml:id="n0216.0004.00027.00154" reg="default:Blake,H.,G.,O.,"><forename>H.</forename> <forename>G.</forename> <forename>O.</forename> <surname>Blake</surname></persName>, <rs type="role">Esq.</rs>, of <placeName reg="Worcester, Worcester, Massachusetts" key="tgn,7014647">Worcester, Mass.</placeName>, the custodian of <persName n="Thoreau,,,,," xml:id="n0216.0004.00027.00155" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s manuscripts, I am enabled to print this entire passage at the end of this chapter.</p></note> </p> 
+<p>
+
+<milestone unit="sentence" n="155"/>It will always be an interesting question, how far <pb xml:id="p.28" n="28"/> <persName n="Thoreau,,,,," xml:id="n0216.0004.00028.00156" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s peculiar genius might have been modified or enriched by society or travel.
+
+<milestone unit="sentence" n="156"/>In his diary he expresses gratitude to <placeName reg="Providence, Providence, Rhode Island" key="tgn,7013952">Providence</placeName>, or, as he quaintly puts it, <quote>to those who have had the handling of me,</quote> that his life has been so restricted in these directions, and that he has thus been compelled to extract its utmost nutriment from the soil where he was born.
+
+<milestone unit="sentence" n="157"/>Yet in examining these diaries, even more than in reading his books, <num value="1">one</num> is led to doubt, after all, whether this mental asceticism was best for him, just as <num value="1">one</num> suspects that the vegetable diet in which he exulted may possibly have shortened his life.
+
+<milestone unit="sentence" n="158"/>A larger experience might have liberalized some of his judgments, and softened some of his verdicts.
+
+<milestone unit="sentence" n="159"/>He was not as just to men as to woodchucks; and his <quote>simplify, I say, simplify,</quote> might well have been relaxed a little for mankind, in view of the boundless affluence of external nature.
+
+<milestone unit="sentence" n="160"/>The world of art might also have deeply influenced him, had the way been opened for its closer study.
+
+<milestone unit="sentence" n="161"/><persName n="Emerson,,,,," xml:id="n0216.0004.00028.00157" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName> speaks of <quote>the raptures of a citizen arrived at his <num value="1" type="ordinal">first</num> meadow;</quote> but a deep, ascetic soul like <persName n="Thoreau,,,,," xml:id="n0216.0004.00028.00158" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s could hardly have failed to be touched to a far profounder emotion by the <num value="1" type="ordinal">first</num> sight of a cathedral.</p> 
+<p>
+
+<milestone unit="sentence" n="162"/>The impression that <persName n="Thoreau,,,,," xml:id="n0216.0004.00028.00159" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> was but a minor <persName n="Emerson,,,,," xml:id="n0216.0004.00028.00160" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName> will in time pass away, like the early classification <pb xml:id="p.29" n="29"/> of <persName n="Emerson,,,,," xml:id="n0216.0004.00029.00161" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName> as a <num value="2" type="ordinal">second</num>-hand <persName n="Carlyle,,,,," xml:id="n0216.0004.00029.00162" reg="mostcommon:Carlyle,nomatch:0"><surname>Carlyle</surname></persName>.
+
+<milestone unit="sentence" n="163"/>All <num value="3">three</num> were the children of their time, and had its family likeness; but <persName n="Thoreau,,,,," xml:id="n0216.0004.00029.00163" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> had the <foreign xml:lang="la">lumen siccum</foreign>, or <quote>dry light,</quote> beyond either of the others; indeed, beyond all men of his day. His temperament was like his native air in winter,--clear, frosty, inexpressibly pure and bracing.
+
+<milestone unit="sentence" n="164"/>His power of literary appreciation was something marvellous, and his books might well be read for their quotations, like the sermons of <persName n="Taylor,,Jeremy,,," xml:id="n0216.0004.00029.00164" reg="default:Taylor,Jeremy,,,"><forename>Jeremy</forename> <surname>Taylor</surname></persName>.
+
+<milestone unit="sentence" n="165"/>His daring imagination ventured on the delineation of just those objects in nature which seem most defiant of description, as smoke, mist, haze; and his <num value="3">three</num> poems on these themes have an exquisite felicity of structure such as nothing this side of the <name>Greek</name> anthology can equal.
+
+<milestone unit="sentence" n="166"/>Indeed, the value of the classic languages was never better exemplified than in their influence on his training.
+
+<milestone unit="sentence" n="167"/>They were real <quote>humanities</quote> to him; linking him with the great memories of the race, and with high intellectual standards, so that he could never, like some of his imitators, treat literary art as a thing unmanly and trivial.
+
+<milestone unit="sentence" n="168"/>His selection of points in praising his favorite books shows this discrimination.
+
+<milestone unit="sentence" n="169"/>He loves to speak of <quote>the elaborate beauty and finish, and the lifelong literary labors of the ancients . . . works as refined, as solidly done, and as beautiful <pb xml:id="p.30" n="30"/> almost, as the morning itself.</quote>
+
+<milestone unit="sentence" n="170"/><note anchored="yes"> 
+<p><persName n="Walden,,,,," xml:id="n0216.0004.00030.00165" reg="mostcommon:Walden,nomatch:0"><surname>Walden</surname></persName>, <ref n="page 113">p. 113</ref>.</p></note> I remember how that fine old classical scholar, the late <rs>John Glen King</rs>, of <placeName reg="Salem, Essex, Massachusetts" key="tgn,7014447">Salem</placeName>, used to delight in <persName n="Thoreau,,,,," xml:id="n0216.0004.00030.00166" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> as being <quote>the only man who thoroughly loved both nature and <placeName key="tgn,1000074" n="1.000 10" reg="Ellas,Europe">Greek</placeName>.</quote></p> 
+<p>
+
+<milestone unit="sentence" n="171"/><persName n="Thoreau,,,,," xml:id="n0216.0004.00030.00167" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName> died at <num value="44">forty-four</num>, without having achieved fame or fortune.
+
+<milestone unit="sentence" n="172"/>It is common to speak of his life as a failure; but to me it seems, with all its drawbacks, to have been a great and eminent success.
+
+<milestone unit="sentence" n="173"/>Even testing it only by the common appetite of authors for immortality, his seems already a sure and enviable place.
+
+<milestone unit="sentence" n="174"/>Time is rapidly melting away the dross from his writings, and exhibiting their gold.
+
+<milestone unit="sentence" n="175"/>But his standard was higher than the mere desire for fame, and he has told it plainly.
+
+<milestone unit="sentence" n="176"/><quote>There is nowhere recorded,</quote> he complains, <quote>a simple and irrepressible satisfaction with the gift of life, any memorable praise of <name n="God" type="God">God</name>. ... If the day and the night are such that you greet them with joy, and life emits a fragrance, like flowers and sweet-scented herbs,--is more elastic, starry, and immortal,--that is your success.</quote>
+
+<milestone unit="sentence" n="177"/><note anchored="yes"> 
+<p><persName n="Walden,,,,," xml:id="n0216.0004.00030.00168" reg="mostcommon:Walden,nomatch:0"><surname>Walden</surname></persName>, <ref n="page 85">pp. 85</ref>, <ref n="page 233">233</ref>.</p></note> </p> 
+<p>
+
+<milestone unit="sentence" n="178"/>Note.--The following passage is now <num value="1" type="ordinal">first</num> published, from <persName n="Thoreau,,,,," xml:id="n0216.0004.00030.00169" reg="mostcommon:Thoreau,nomatch:0"><surname>Thoreau</surname></persName>'s manuscript diary, the date being <dateStruct value="1853-10-28"><month reg="10">Oct.</month> <day reg="28">28</day>, <year reg="1853">1853</year></dateStruct>:--<quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="179"/></p> 
+<p>For a year or <num value="2">two</num> past, my publisher, <persName n="Munroe,,,,," xml:id="n0216.0004.00030.00170" reg="mostcommon:Munroe,nomatch:0"><surname>Munroe</surname></persName>, has been <pb xml:id="p.31" n="31"/> writing from time to time to ask what disposition should be made of the copies of <quote>A Week on the <placeName reg="Concord River, Oxford, Maine" key="tgn,2252025">Concord</placeName> and <placeName reg="Merrimack River, United States, North and Central America" key="tgn,7021005">Merrimack Rivers</placeName>,</quote> still on hand, and at last suggesting that he had use for the room they occupied in his cellar.
+
+<milestone unit="sentence" n="180"/>So I had them all sent to me here; and they have arrived to-day by express, piling the man's wagon, <num value="706">seven hundred and six</num> copies out of an edition of <num value="1000">one thousand</num>, which I bought of <persName n="Munroe,,,,," xml:id="n0216.0004.00031.00171" reg="mostcommon:Munroe,nomatch:0"><surname>Munroe</surname></persName> <measure n="4years" type="date">four years</measure> ago, and have been ever since paying for, and have not quite paid for yet. The wares are sent to me at last, and I have an opportunity to examine my purchase.
+
+<milestone unit="sentence" n="181"/>They are something more substantial than fame, as my back knows, which has borne them up <num value="2">two</num> flights of stairs to a place similar to that to which they trace their origin.
+
+<milestone unit="sentence" n="182"/>Of the remaining <num value="290">two hundred ninety</num> and odd, <num value="75">seventy-five</num> were given away, the rest sold.
+
+<milestone unit="sentence" n="183"/>I have now a library of nearly <num value="900">nine hundred</num> volumes, over <num value="700">seven hundred</num> of which I wrote myself.
+
+<milestone unit="sentence" n="184"/>Is it not well that the author should behold the fruits of his labor?
+
+<milestone unit="sentence" n="185"/>My works are piled up in my chamber, half as high as my head, my <foreign xml:lang="la">opera omnia</foreign>. This is authorship.
+
+<milestone unit="sentence" n="186"/>These are the work of my brain.
+
+<milestone unit="sentence" n="187"/>There was just <num value="1">one</num> piece of good luck in the venture.
+
+<milestone unit="sentence" n="188"/>The unbound were tied up by the printer <measure n="4years" type="date">four years</measure> ago in stout paper wrappers, and inscribed, <quote> H. D. <placeName reg="Thoreau's Concord River">Thoreau's Concord River</placeName>, <num value="50">fifty</num> copies.</quote>
+
+<milestone unit="sentence" n="189"/>So <persName n="Munroe,,,,," xml:id="n0216.0004.00031.00172" reg="mostcommon:Munroe,nomatch:0"><surname>Munroe</surname></persName> had only to cross out <quote> River,</quote> and write <quote> <placeName reg="Massachusetts" key="tgn,7007517">Mass.</placeName>,</quote> and deliver them to the expressman at once.
+
+<milestone unit="sentence" n="190"/>I can see now what I write for, and the result of my labors.
+
+<milestone unit="sentence" n="191"/>Nevertheless, in spite of this result, sitting beside the inert mass of my works, I take up my pen tonight to record what thought or experience I may have had, with as much satisfaction as ever.
+
+<milestone unit="sentence" n="192"/>Indeed, I believe that this result is more inspiring and better than if a <num value="1000">thousand</num> had bought my wares.
+
+<milestone unit="sentence" n="193"/>It affects my privacy less, and leaves me freer.</p></quote> </p></div> 
+<div xml:id="c.5" type="chapter" n="5" subtype="chapter"> <pb xml:id="p.32" n="32"/> 
+<head><persName n="Howells,,,,," xml:id="n0216.0005.00032.00173" reg="mostcommon:Howells,nomatch:0"><surname>Howells</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="194"/>It has perhaps been a misfortune to <persName n="Howells,Mister,,,," xml:id="n0216.0005.00032.00174" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName>, that in his position of editor of <quote>The <orgName n="Atlantic monthly" type="newspaper">Atlantic Monthly</orgName></quote> he has inevitably been shielded from much of that healthful discussion which is usually needed for the making of a good author.
+
+<milestone unit="sentence" n="195"/><persName n="Helps,Sir,Arthur,,," xml:id="n0216.0005.00032.00175" reg="default:Helps,Arthur,,,"><roleName n="Sir">Sir</roleName> <forename>Arthur</forename> <surname>Helps</surname></persName> says, that, if ordinary criticism gives us little, it is still worth having: if it is not marked by common sense, it still brings to us the common nonsense, which is quite as important.
+
+<milestone unit="sentence" n="196"/>But the conductor of the leading literary magazine of a nation is very apt to escape this wholesome ordeal.
+
+<milestone unit="sentence" n="197"/>Delicacy of course forbids his admitting any mention of himself, whether for praise or blame, within his own pages.
+
+<milestone unit="sentence" n="198"/>Moreover, his leading literary contemporaries are also his contributors; and for them to discuss him freely, even elsewhere, is like publicly debating the character of <num value="1">one</num>'s habitual host.
+
+<milestone unit="sentence" n="199"/>Compare the position, in this respect, of <persName n="Howells,Mister,,,," xml:id="n0216.0005.00032.00176" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> and <persName n="James,Mister,Henry,,," xml:id="n0216.0005.00032.00177" reg="default:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <forename>Henry</forename> <surname>James</surname>, <genName>Jr.</genName></persName> Their writings are equally conspicuous before the community; their merits <pb xml:id="p.33" n="33"/> are equally marked, and so also are their demerits, real or attributed; yet what a difference in the amount of criticism awarded to each!
+
+<milestone unit="sentence" n="200"/>Each new book by <persName n="Howells,Mister,,,," xml:id="n0216.0005.00033.00178" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> is received with an almost monotonous praise, as if it had no individuality, no salient points; while each story by <persName n="James,Mister,,,," xml:id="n0216.0005.00033.00179" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> is debated through and through the newspapers, as if it were a fresh Waverley novel.
+
+<milestone unit="sentence" n="201"/>I see no reason for this difference, except that <persName n="Howells,Mister,,,," xml:id="n0216.0005.00033.00180" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> edits <quote>The <orgName n="Atlantic monthly" type="newspaper">Atlantic Monthly</orgName>,</quote> and that all other American writers are, as it were, sitting at his table, or wishing themselves there.
+
+<milestone unit="sentence" n="202"/>He must himself regret this result, for he is too essentially an artist not to prize honest and faithful criticism; and it is almost needless to say that his career as an author has been thoroughly modest and free from all the arts of self-praise.</p> 
+<p>
+
+<milestone unit="sentence" n="203"/>The peculiar charm of his prose style has also, doubtless, had its effect in disarming criticism.
+
+<milestone unit="sentence" n="204"/>He rarely fails to give pleasure by the mere process of writing, and this is much, to begin with ; just as, when we are listening to conversation, a musical voice gratifies us almost more than wit or wisdom.
+
+<milestone unit="sentence" n="205"/><persName n="Howells,Mister,,,," xml:id="n0216.0005.00033.00181" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> is without an equal in <placeName reg="United States, North and Central America, " key="tgn,7012149">America</placeName> — and therefore without an equal among his English-speaking contemporaries — as to some of the most attractive literary graces.
+
+<milestone unit="sentence" n="206"/>He has no rival in halftints, <pb xml:id="p.34" n="34"/> in modulations, in subtile phrases that touch the edge of an assertion and yet stop short of it. He is like a skater who executes a <num value="100">hundred</num> graceful curves within the limits of a pool a few yards square.
+
+<milestone unit="sentence" n="207"/><persName n="Austen,Miss,,,," xml:id="n0216.0005.00034.00182" reg="mostcommon:Austen,nomatch:0"><roleName n="Miss">Miss</roleName> <surname>Austen</surname></persName>, the novelist, once described her art as a little bit of ivory, on which she produced small effect after much labor.
+
+<milestone unit="sentence" n="208"/>She underrated her own skill, as the comparison in some respects underrates that of <persName n="Howells,,,,," xml:id="n0216.0005.00034.00183" reg="mostcommon:Howells,nomatch:0"><surname>Howells</surname></persName>; but his field is — or has until lately seemed to be — the little bit of ivory.</p> 
+<p>
+
+<milestone unit="sentence" n="209"/>This is attributing to him only what he has been careful to claim for himself.
+
+<milestone unit="sentence" n="210"/>He tells his methods very frankly, and his <num value="1" type="ordinal">first</num> literary principle has been to look away from great passions, and rather to elevate the commonplace by minute touches.
+
+<milestone unit="sentence" n="211"/>Not only does he prefer this, but he does not hesitate to tell us sometimes, half jestingly, that it is the only thing to do. <quote>As in literature the true artist will shun the use even of real events if they are of an improbable character, so the sincere observer of man will not desire to look upon his heroic or occasional phases, but will seek him in his habitual moods of vacancy and tiresomeness.</quote>
+
+<milestone unit="sentence" n="212"/><note anchored="yes"> 
+<p>Their Wedding Journey, <ref n="page 86">p. 86</ref>.</p></note> He may not mean to lay this down as a canon of universal authority, but he accepts it himself; and he accepts with it the risk involved of a too-limited and microscopic <pb xml:id="p.35" n="35"/> range.
+
+<milestone unit="sentence" n="213"/>That he has finally escaped this peril, is due to the <hi rend="italics">fact</hi> that his method went, after all, deeper than he admitted: he was not merely a good-natured observer, like Geoffrey Crayon, Gentleman, but he had thoughts and purposes, something to protest against, and something to say.</p> 
+<p>
+
+<milestone unit="sentence" n="214"/>He is often classed with <persName n="James,Mister,,,," xml:id="n0216.0005.00035.00184" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> as representing the international school of novelists, yet in reality they belong to widely different subdivisions.
+
+<milestone unit="sentence" n="215"/>After all, <persName n="James,Mister,,,," xml:id="n0216.0005.00035.00185" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> has permanently set up his easel in <placeName key="tgn,1000003" n="1.000 139" reg="europe,">Europe</placeName>, <persName n="Howells,Mister,,,," xml:id="n0216.0005.00035.00186" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> in <placeName reg="United States, North and Central America, " key="tgn,7012149">America</placeName>; and the latter has been, from the beginning, far less anxious to compare <persName n="Americans,,,,," xml:id="n0216.0005.00035.00187" reg="mostcommon:Americans,nomatch:0"><surname>Americans</surname></persName> with Europeans than with <num value="1">one</num> another.
+
+<milestone unit="sentence" n="216"/>He is international only if we adopt <persName n="Emerson,Mister,,,," xml:id="n0216.0005.00035.00188" reg="mostcommon:Emerson,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Emerson</surname></persName>'s saying, that <placeName key="tgn,1000003" n="1.000 139" reg="europe,">Europe</placeName> stretches to <placeName reg="Allegheny Mountains" key="tgn,7020004" type="mountainrange">the Alleghanies</placeName>.
+
+<milestone unit="sentence" n="217"/>As a native of <placeName reg="Ohio, United States, North and Central America" key="tgn,7007706">Ohio</placeName>, transplanted to <placeName reg="Massachusetts" key="tgn,7007517">Massachusetts</placeName>, he never can forego the interest implied in this double point of view.
+
+<milestone unit="sentence" n="218"/>The <rs>Europeanized American</rs>, and, if we may so say, the <rs>Americanized American</rs>, are the typical figures that re-appear in his books.
+
+<milestone unit="sentence" n="219"/>Even in <quote>The lady of the <rs>Aroostook</rs>,</quote> although the voyagers reach the other side at last, the real contrast is found on board ship; and, although his heroine was reared in a <placeName reg="New England" key="tgn,7014203">New-England</placeName> village, he cannot forego the satisfaction of having given her <placeName reg="California" key="tgn,7007157">California</placeName> for a birthplace.
+
+<milestone unit="sentence" n="220"/><persName n="James,Mister,,,," xml:id="n0216.0005.00035.00189" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> writes <quote>international episodes :</quote> <pb xml:id="p.36" n="36"/> <persName n="Howells,Mister,,,," xml:id="n0216.0005.00036.00190" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> writes inter-oceanic episodes: his best scenes imply a dialogue between the <rs>Atlantic</rs> and Pacific slopes.</p> 
+<p>
+
+<milestone unit="sentence" n="221"/>It was long expected that there would appear some sequel to his <quote>Chance acquaintance.</quote>
+
+<milestone unit="sentence" n="222"/>Bostonians especially wished to hear more of Miles Arbuton: they said, <quote>It is impossible to leave a man so well-dressed in a situation so humiliating.</quote>
+
+<milestone unit="sentence" n="223"/>But the sequel has, in reality, come again and again; the same theme re-appears in <quote>Out of the question,</quote> in <quote>The lady of the <rs>Aroostook</rs>;</quote> it will re-appear while <persName n="Howells,Mister,,,," xml:id="n0216.0005.00036.00191" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> lives.
+
+<milestone unit="sentence" n="224"/>He is really contributing important studies to the future organization of our society.
+
+<milestone unit="sentence" n="225"/>How is it to be stratified?
+
+<milestone unit="sentence" n="226"/>How much weight is to be given to intellect, to character, to wealth, to antecedents, to inheritance?
+
+<milestone unit="sentence" n="227"/>Not only must a republican nation meet and solve these problems, but the solution is more assisted by the writers of romances than by the compilers of statistics.
+
+<milestone unit="sentence" n="228"/><dateStruct value="-07-4"><day reg="4">Fourth</day> of <month reg="07">July</month></dateStruct> orators cannot even state the problem : it almost baffles the finest touch.
+
+<milestone unit="sentence" n="229"/>As, in <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>, you may read every thing ever written about the <rs type="place">Established Church</rs>, and yet, after all, if you wish to know what a bishop or a curate is, you must go to <persName n="Trollope,,,,," xml:id="n0216.0005.00036.00192" reg="mostcommon:Trollope,nomatch:0"><surname>Trollope</surname></persName>'s novels, so, to trace <orgName n="American Society" type="society">American <name>society</name></orgName> in its formative process, you must go to <persName n="Howells,,,,," xml:id="n0216.0005.00036.00193" reg="mostcommon:Howells,nomatch:0"><surname>Howells</surname></persName>; he alone shows you the essential <pb xml:id="p.37" n="37"/> forces in action.
+
+<milestone unit="sentence" n="230"/>He can philosophize well enough on the subject, as where he points out that hereditary wealth in <placeName reg="United States, North and Central America, " key="tgn,7012149">America</placeName> as yet represents <quote>nothing in the world, no great culture, no political influence, no civic aspiration, not even a pecuniary force, nothing but a social set, an alien club life, a tradition of dining.</quote>
+
+<milestone unit="sentence" n="231"/><note anchored="yes"> 
+<p>Their Wedding Journey, <ref n="page 69">p. 69</ref>.</p></note> But he is not at heart a philosopher; he is a novelist, which is better, and his dramatic situations recur again and again to the essential point.</p> 
+<p>
+
+<milestone unit="sentence" n="232"/>It is this constant purpose which gives dignity and weight to his American delineations, even where he almost wantonly checks himself and disappoints us. Were he merely, as some suppose, a skilful miniature-painter of young girls at watering-places, his sphere would be very circumscribed.
+
+<milestone unit="sentence" n="233"/>At times he seems tempted to yield to this limitation-during his brief foray into the path of short dramatic sketches, for instance.
+
+<milestone unit="sentence" n="234"/>These sketches provoked comparison with innumerable <name>French</name> trifles, which they could not rival in execution.
+
+<milestone unit="sentence" n="235"/><quote><persName n="Theatricals,Private,,,," xml:id="n0216.0005.00037.00194" reg="mostcommon:Theatricals,nomatch:0"><roleName n="Private">Private</roleName> <surname>Theatricals</surname></persName></quote> offers the same thing on a larger scale, and under still greater disadvantages.
+
+<milestone unit="sentence" n="236"/><persName n="Farrell,Mrs.,,,," xml:id="n0216.0005.00037.00195" reg="mostcommon:Farrell,nomatch:0"><roleName n="Mrs.">Mrs.</roleName> <surname>Farrell</surname></persName> reveals herself, at the <num value="1" type="ordinal">first</num> glance, as a coquette too shallow and vulgar to be really interesting; and she never rises above that level until <pb xml:id="p.38" n="38"/> she disappears from the scene, flinging her last net for the cow-boy in the pasture.
+
+<milestone unit="sentence" n="237"/>Her habit of flirting is a garment deliberately put on, an armor that creaks in the wearing.
+
+<milestone unit="sentence" n="238"/>But if you wish to see how a Frenchman draws a coquette, read <quote>Le <persName n="Mlle,,Fiance,,,de" xml:id="n0216.0005.00038.00196" reg="expanded:Mlle,Fiance,,,"><forename>Fiance</forename> <nameLink>de</nameLink> <surname>Mlle</surname></persName>.
+
+<milestone unit="sentence" n="239"/>St. Maur,</quote> by <persName n="Cherbuliez,,,,," xml:id="n0216.0005.00038.00197" reg="mostcommon:Cherbuliez,nomatch:0"><surname>Cherbuliez</surname></persName>.
+
+<milestone unit="sentence" n="240"/>The coquetry of <rs type="role">Mme.</rs> d'arolles is always round her as an atmosphere, intangible, all-embracing, fold within fold; she coquets even with a rudimentary organ in herself that might be called her conscience; and then, besides this enveloping atmosphere, she wears always a thin garment of social refinement that seems to shield her even when the last shred of decorum is about to drop.
+
+<milestone unit="sentence" n="241"/>She is a thoroughly artistic creation; in watching her never so closely, you cannot see the wires pulled ; but in <quote><persName n="Theatricals,Private,,,," xml:id="n0216.0005.00038.00198" reg="mostcommon:Theatricals,nomatch:0"><roleName n="Private">Private</roleName> <surname>Theatricals</surname></persName></quote> we seem constantly to have notice given, <quote>Please observe, <persName n="Farrell,Mrs.,,,," xml:id="n0216.0005.00038.00199" reg="mostcommon:Farrell,nomatch:0"><roleName n="Mrs.">Mrs.</roleName> <surname>Farrell</surname></persName> is about to attitudinize</quote></p> 
+<p>
+
+<milestone unit="sentence" n="242"/>The moral of all this is, that <persName n="Howells,Mister,,,," xml:id="n0216.0005.00038.00200" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> cannot be, if he would, an artist <hi rend="italics">per se</hi>, like <persName n="Droz,,,,," xml:id="n0216.0005.00038.00201" reg="mostcommon:Droz,nomatch:0"><surname>Droz</surname></persName>, in reading whose brilliant trifles we are in a world where the execution is all, the thought nothing, and the moral less than nothing.
+
+<milestone unit="sentence" n="243"/>Nor does he succeed, like <persName n="Thackeray,,,,," xml:id="n0216.0005.00038.00202" reg="mostcommon:Thackeray,nomatch:0"><surname>Thackeray</surname></persName>, in making a novel attractive without putting a single agreeable character into it: <persName n="Thackeray,,,,," xml:id="n0216.0005.00038.00203" reg="mostcommon:Thackeray,nomatch:0"><surname>Thackeray</surname></persName> barely accomplished this in <quote>Vanity <pb xml:id="p.39" n="39"/> fair;</quote> <persName n="Howells,Mister,,,," xml:id="n0216.0005.00039.00204" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName> was far less successful in the most powerful and least satisfactory of all his books, <quote>A Foregone Conclusion.</quote>
+
+<milestone unit="sentence" n="244"/>The greatest step he has ever taken, both in popularity and in artistic success, has been won by trusting himself to a generous impulse, and painting in <quote>The lady of the <rs>Aroostook</rs></quote> a character worth the pains of describing.
+
+<milestone unit="sentence" n="245"/>The book is not, to my thinking, free from faults: the hero poses and proses, and the drunken man is so realistic as to be out of place and overdone; but the character of the heroine seems to me the high-water mark of <persName n="Howells,Mister,,,," xml:id="n0216.0005.00039.00205" reg="mostcommon:Howells,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Howells</surname></persName>.
+
+<milestone unit="sentence" n="246"/>It has been feared that he would always remain the charming delineator of people who were, after all, undersized,--heroes and heroines like the little <hi rend="italics">figurines</hi> from <persName n="Tanagra,,,,," xml:id="n0216.0005.00039.00206" reg="mostcommon:Tanagra,nomatch:0"><surname>Tanagra</surname></persName>, or the admirable miniature groups of <persName n="Rogers,,John,,," xml:id="n0216.0005.00039.00207" reg="default:Rogers,John,,,"><forename>John</forename> <surname>Rogers</surname></persName>.
+
+<milestone unit="sentence" n="247"/>He has now allowed himself a bolder sweep of arm, a more generous handling of full-sized humanity; and with this work begins, we may fain believe, the maturity of his genius. </p></div> 
+<div xml:id="c.6" type="chapter" n="6" subtype="chapter"> <pb xml:id="p.40" n="40"/> 
+<head><persName n="Jackson,,Helen,,," xml:id="n0216.0006.00040.00208" reg="default:Jackson,Helen,,,"><forename>Helen</forename> <surname>Jackson</surname></persName>. ( <quote>H. H.</quote> )</head> 
+<p>
+
+<milestone unit="sentence" n="248"/><persName n="Montpensier,,Mlle,,,de" xml:id="n0216.0006.00040.00209" reg="expanded:Montpensier,Mlle,,,"><forename>Mlle</forename> <nameLink>de</nameLink> <surname>Montpensier</surname></persName>, grand-daughter of Henri Quatre, is said to have been </p> 
+<p rend="rend=left">
+
+<milestone unit="sentence" n="249"/> <quote>so famous in history that her name never appears in it;</quote> she being known only as <quote>La Grande Mademoiselle.</quote>
+
+<milestone unit="sentence" n="250"/>This anonymousness may help the fame of a princess, but it must hurt that of an author.
+
+<milestone unit="sentence" n="251"/>The initials <quote>L. E. L.,</quote> so familiar to some of us in childhood, stood for a fame soon forgotten; and this not so much because her poetry was weak, but because her name was in a manner nameless.
+
+<milestone unit="sentence" n="252"/>However popular might be the poems of <quote>H. H.,</quote> they were still attached to a rather vague and formless personality so long as these initials only were given; to combine with this the still remoter individuality of <quote><persName n="Holm,,Saxe,,," xml:id="n0216.0006.00040.00210" reg="default:Holm,Saxe,,,"><forename>Saxe</forename> <surname>Holm</surname></persName>,</quote> was only to deepen the sense of vagueness; and if all the novels of the <quote>No name</quote> series, instead of <num value="2">two</num> of them, had been attributed to the same shadowy being, every <num value="1">one</num> would have pronounced the suggestion quite credible.
+
+<milestone unit="sentence" n="253"/>To take these various threads of mystery, <pb xml:id="p.41" n="41"/> and weave them into a substantial fame, this passed the power of public admiration.
+
+<milestone unit="sentence" n="254"/>At any rate, an applause so bewildered could heartily be heard across the <rs>Atlantic</rs>; and it is almost exasperating to find that in <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>, for instance, where so many feeble American reputations have been revived only to die, there are few critics who know even the name of the woman who has come nearest in our day and tongue to the genius of <persName n="Browning,,Elizabeth,Barrett,," xml:id="n0216.0006.00041.00211" reg="default:Browning,Elizabeth,Barrett,,"><forename>Elizabeth</forename> <forename>Barrett</forename> <surname>Browning</surname></persName>, and who has made <persName n="Rossetti,,Christina,,," xml:id="n0216.0006.00041.00212" reg="default:Rossetti,Christina,,,"><forename>Christina</forename> <surname>Rossetti</surname></persName> and <persName n="Ingelow,,Jean,,," xml:id="n0216.0006.00041.00213" reg="default:Ingelow,Jean,,,"><forename>Jean</forename> <surname>Ingelow</surname></persName> appear but <num value="2" type="ordinal">second</num>-rate celebrities.</p> 
+<p>
+
+<milestone unit="sentence" n="255"/>When some <num value="1">one</num> asked <persName n="Emerson,,,,," xml:id="n0216.0006.00041.00214" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName> a few years since whether he did not think <quote>H. H.</quote>
+
+<milestone unit="sentence" n="256"/>the best woman-poet on this continent, he answered in his meditative ay, <quote>Perhaps we might as well omit the <hi rend="italics">woman</hi>,</quote> thus placing her, at least in that moment's impulse, at the head of all. He used to cut her poems from the newspapers as they appeared, to carry them about with him, and to read them aloud.
+
+<milestone unit="sentence" n="257"/>His especial favorites were the most condensed and the deepest, those having something of that kind of obscurity which <persName n="Coleridge,,,,," xml:id="n0216.0006.00041.00215" reg="mostcommon:Coleridge,nomatch:0"><surname>Coleridge</surname></persName> pronounced to be a compliment to the reader.
+
+<milestone unit="sentence" n="258"/>His favorite among them all is or was the sonnet entitled <pb xml:id="p.42" n="42"/> 
+<text><body> 
+<head>Thought.</head> <l>Messenger, art thou the king, or I?
+
+<milestone unit="sentence" n="259"/></l> <l>Thou dalliest outside the palace-gate</l> <l>Till on thine idle armor lie the late</l> <l>And heavy dews: the morn's bright, scornful eye</l> <l>Reminds thee; then, in subtle mockery,</l> <l>Thou smilest at the window where I wait</l> <l>Who bade thee ride for life.
+
+<milestone unit="sentence" n="260"/>In empty state</l> <l>My days go on, while false hours prophesy</l> <l>Thy quick return; at last in sad despair</l> <l>I cease to bid thee, leave thee free as air;</l> <l>When lo!
+
+<milestone unit="sentence" n="261"/>thou stand'st before me glad and fleet,</l> <l>And lay'st undreamec — of treasures at my feet.</l> <l>Ah!
+
+<milestone unit="sentence" n="262"/>messenger, thy royal blood to buy,</l> <l>I am too poor.
+
+<milestone unit="sentence" n="263"/>Thou art the king, not I.
+
+<milestone unit="sentence" n="264"/><note anchored="yes"> 
+<p>Verses by H. H., <ref n="page 121">p. 121</ref>.</p></note></l></body></text> </p> 
+<p>
+
+<milestone unit="sentence" n="265"/>The uncontrollableness of thought by will has never been better expressed by words than in this sonnet; and there are others which utter emotion so profoundly, and yet with such artistic quiet, that each brief poem seems the summary of a life.
+
+<milestone unit="sentence" n="266"/>Take this, for instance, describing a love that, having once found its shore, burns its ships behind it, and absolutely cuts off all retreat:-- 
+<text><body> 
+<head>Burnt ships.</head> <lg type="stanza"><l>Love, sweet Love, who came with rosy sail</l> <l>And foaming prow across the misty sea!</l> <l>O Love, brave Love, whose faith was full and free <pb xml:id="p.43" n="43"/></l> <l>That lands of sun and gold which could not fail</l> <l>Lay in the west,--that bloom no wintry gale</l> <l>Could blight, and eyes whose love thine own should be,</l> <l>Called thee with steadfast voice of prophecy</l> <l>To shores unknown!
+
+<milestone unit="sentence" n="267"/></l></lg><lg type="stanza"><l>O Love, poor Love, avail</l> <l>Thee nothing now thy faiths, thy braveries;</l> <l>There is no sun, no bloom; a cold wind strips</l> <l>The bitter foam from off the wave where dips</l> <l>No more thy prow; the eyes are hostile eyes;</l> <l>The gold is hidden; vain thy tears and cries:</l> <l>O Love, poor Love, why didst thou burn thy ships?<note anchored="yes">
+
+<milestone unit="sentence" n="268"/> 
+<p>Verses, <ref n="page 71">p. 71</ref>.</p></note></l></lg></body></text> </p> 
+<p>
+
+<milestone unit="sentence" n="269"/><quote>H. H.</quote>
+
+<milestone unit="sentence" n="270"/>writes another class of poems, that, with a grace and wealth like <persName n="Marvell,,Andrew,,," xml:id="n0216.0006.00043.00216" reg="default:Marvell,Andrew,,,"><forename>Andrew</forename> <surname>Marvell</surname></persName>'s, carry us into the very life of external nature, or link it with the heart of man. <persName n="Emerson,,,,," xml:id="n0216.0006.00043.00217" reg="mostcommon:Emerson,nomatch:0"><surname>Emerson</surname></persName>'s <quote>Humblebee</quote> is not a creation more fresh and wholesome than is 
+<text><body> 
+<head>My strawberry.</head> <l>O marvel, fruit of fruits, I pause</l> <l>To reckon thee.
+
+<milestone unit="sentence" n="271"/>I ask what cause</l> <l>Set free so much of red from heats</l> <l>At core of earth, and mixed such sweets</l> <l>With sour and spice ; what was that strength</l> <l>Which out of darkness, length by length,</l> <l>Spun all thy shining thread of vine</l> <l>Netting the fields in bond as thine;</l> <l>I see thy tendrils drink by sips</l> <l>From grass and clover's smiling lips; <pb xml:id="p.44" n="44"/></l> <l>I hear thy roots dig down for wells</l> <l>Tapping the meadow's hidden cells;</l> <l>Whole generations of green things,</l> <l>Descended from long lines of springs,</l> <l>I see make room for thee to bide</l> <l>A quiet comrade by their side;</l> <l>I see the creeping peoples go</l> <l>Mysterious journeys to and fro;</l> <l>Treading to right and left of thee,</l> <l>Doing thee homage wonderingly.</l> <l>I see the wild bees as they fare</l> <l>Thy cups of honey drink, but spare;</l> <l>I mark thee bathe and bathe again</l> <l>In sweet uncalendared spring rain.</l> <l>I watch how all <dateStruct><month>May</month></dateStruct> has of sun</l> <l>Makes haste to have thy ripeness done,</l> <l>While all her nights let dews escape</l> <l>To set and cool thy perfect shape.</l> <l>Ah, fruit of fruits, no more I pause</l> <l>To dream and seek thy hidden laws!</l> <l>I stretch my hand, and dare to taste</l> <l>In instant of delicious waste</l> <l>On single feast, all things that went</l> <l>To make the empire thou hast spent.<note anchored="yes">
+
+<milestone unit="sentence" n="272"/> 
+<p>Verses, <ref n="page 166">p. 166</ref>.</p></note></l></body></text> </p> 
+<p>
+
+<milestone unit="sentence" n="273"/>As the most artistic among her verses I should class the <quote>Gondolieds,</quote> in which all <placeName key="tgn,7018159" n="1.000 1" reg="venezia,venezia,veneto,italia,europe">Venice</placeName> seems reflected in the movement and cadence, while the thought is fresh and new and strong.
+
+<milestone unit="sentence" n="274"/>Then there are poems which seem to hold all secrets of passion <pb xml:id="p.45" n="45"/> trembling on the lips, yet forbear to tell them; and others, on a larger scale, which have a grander rhythmical movement than most of our poets have dared even to attempt.
+
+<milestone unit="sentence" n="275"/>Of these the finest, to my ear, is <quote>Resurgam;</quote> but I remember that <persName n="Cushman,,Charlotte,,," xml:id="n0216.0006.00045.00218" reg="default:Cushman,Charlotte,,,"><forename>Charlotte</forename> <surname>Cushman</surname></persName> preferred the <quote>Funeral <dateStruct><month>March</month></dateStruct>,</quote> and loved to read it in public.
+
+<milestone unit="sentence" n="276"/>Those who heard her can never forget the solemnity with which she recited those stately cadences, or the grandeur of her half-glance over the shoulder as she named <num value="1" type="ordinal">first</num> among the hero's funeral attendants </p> 
+<p rend="rend=center">
+
+<milestone unit="sentence" n="277"/> <quote>Majestic death, his freedman, following.</quote></p> 
+<p>
+
+<milestone unit="sentence" n="278"/><quote>H. H.</quote>
+
+<milestone unit="sentence" n="279"/>reaches the popular heart best in a class of poems easy to comprehend, thoroughly human in sympathy; poems of love, of motherhood, of bereavement; poems such as are repeated and preserved in many a Western cabin, cheering and strengthening many a heart.
+
+<milestone unit="sentence" n="280"/>Other women have exerted a similar power; but in the hands of a writer like <persName n="Cary,,Alice,,," xml:id="n0216.0006.00045.00219" reg="default:Cary,Alice,,,"><forename>Alice</forename> <surname>Cary</surname></persName>, for instance, the influence is shallow, though pure and wholesome; she sounds no depths as this later poet sounds them.
+
+<milestone unit="sentence" n="281"/>The highest type of this class of <persName n="Jackson,,Helen,,," xml:id="n0216.0006.00045.00220" reg="default:Jackson,Helen,,,"><forename>Helen</forename> <surname>Jackson</surname></persName>'s verses may be found in the noble poem entitled <quote>Spinning,</quote> which begins:--<pb xml:id="p.46" n="46"/> <quote rend="blockquote"> 
+<p>
+
+<milestone unit="sentence" n="282"/></p><l>Like a blind spinner in the sun</l> <l>I tread my days;</l> <l>I know that all the threads will run</l> <l>Appointed ways;</l> <l>I know each day will bring its task,</l> <l>And, being blind, no more I ask.<note anchored="yes">
+
+<milestone unit="sentence" n="283"/> 
+<p>Verses, <ref n="page 14">p. 14</ref>.</p></note></l></quote> No finer symbolic picture of human life has ever been framed: <persName n="Vaughan,,Henry,,," xml:id="n0216.0006.00046.00221" reg="default:Vaughan,Henry,,,"><forename>Henry</forename> <surname>Vaughan</surname></persName>, had he been a woman, might have written it.</p> 
+<p>
+
+<milestone unit="sentence" n="284"/>If, in addition to her other laurels, <persName n="Jackson,Mrs.,,,," xml:id="n0216.0006.00046.00222" reg="nearbymention:Jackson,Helen,,,"><roleName n="Mrs.">Mrs.</roleName> <surname>Jackson</surname></persName> is the main author of the <quote><persName n="Holm,,Saxe,,," xml:id="n0216.0006.00046.00223" reg="default:Holm,Saxe,,,"><forename>Saxe</forename> <surname>Holm</surname></persName></quote> tales, she must be credited not only with some of the very best stories yet written in <placeName reg="America, Limburg, Nederland" key="tgn,1047611">America</placeName>,--<quote><persName n="Miller,,Draxy,,," xml:id="n0216.0006.00046.00224" reg="default:Miller,Draxy,,,"><forename>Draxy</forename> <surname>Miller</surname></persName>'s Dowry,</quote> for instance,--but with <num value="1">one</num> of the best-kept of all literary secrets.
+
+<milestone unit="sentence" n="285"/>There has been something quite dramatic in the skill with which the puzzle has been kept alive by the appearance of imaginary claimants — if imaginary they be — to the honor of this authorship: now a maiden lady in the interior of New York; now a modest young girl whose only voucher, <persName n="Burleigh,,Celia,,," xml:id="n0216.0006.00046.00225" reg="default:Burleigh,Celia,,,"><forename>Celia</forename> <surname>Burleigh</surname></persName>, died without revealing her name.
+
+<milestone unit="sentence" n="286"/>I do not know whether any of these claimants took the pains to write out whole stories in manuscript,--as an Irish pretender copied out whole chapters of <persName n="Edgeworth,Miss,,,," xml:id="n0216.0006.00046.00226" reg="mostcommon:Edgeworth,nomatch:0"><roleName n="Miss">Miss</roleName> <surname>Edgeworth</surname></persName>'s <quote>Castle Rackrent,</quote> with corrections and erasures, <pb xml:id="p.47" n="47"/> --but it is well known that the editors of <quote><persName n="Scribner,,,,," xml:id="n0216.0006.00047.00227" reg="mostcommon:Scribner,nomatch:0"><surname>Scribner</surname></persName>'s Monthly</quote> were approached by some <num value="1">one</num> who professed to have dropped the <quote><persName n="Holm,,Saxe,,," xml:id="n0216.0006.00047.00228" reg="default:Holm,Saxe,,,"><forename>Saxe</forename> <surname>Holm</surname></persName></quote> stories in the street, and demanded that they should be restored to him. He was suppressed by the simple expedient of inviting him to bring in some specimens of his own poetry, that it might be compared with that of <quote><persName n="Miller,,Draxy,,," xml:id="n0216.0006.00047.00229" reg="default:Miller,Draxy,,,"><forename>Draxy</forename> <surname>Miller</surname></persName>;</quote> but the modest young girls and the apocryphal rural contributors were less easily abolished, though time has abated their demands.
+
+<milestone unit="sentence" n="287"/>The more <persName n="Jackson,Mrs.,,,," xml:id="n0216.0006.00047.00230" reg="nearbymention:Jackson,Helen,,,"><roleName n="Mrs.">Mrs.</roleName> <surname>Jackson</surname></persName> denied the authorship, the more resolutely the public mind intrenched itself in the belief that she had something to do with the stories, and that at least the verses therein contained were hers and hers alone.
+
+<milestone unit="sentence" n="288"/>There were coincidences of personal and local details, to connect her with the veiled author; and the fantastic title of <num value="1">one</num> tale, <quote>The Onelegged Dancers,</quote> had previously appeared in her <quote>Bits of Travel.</quote>
+
+<milestone unit="sentence" n="289"/><note anchored="yes"> 
+<p>Bits of Travel, <ref n="page 65">p. 65</ref>.</p></note> The final verdict seemed to be that she must have written the books, with enough of aid from some friend to justify her persistent denial; and ingenious critics soon began to see internal traces of a double authorship, while this to other critics seemed altogether absurd.</p> 
+<p>
+
+<milestone unit="sentence" n="290"/>The publication of <quote>Mercy <persName n="Philbrick,,,,," xml:id="n0216.0006.00047.00231" reg="mostcommon:Philbrick,nomatch:0"><surname>Philbrick</surname></persName>'s Choice</quote> <pb xml:id="p.48" n="48"/> and <quote><persName><forename>Hetty</forename></persName>'s strange history</quote> only revived the same questions.
+
+<milestone unit="sentence" n="291"/>The plots of these books showed the hand of <quote><persName n="Holm,,Saxe,,," xml:id="n0216.0006.00048.00232" reg="default:Holm,Saxe,,,"><forename>Saxe</forename> <surname>Holm</surname></persName>,</quote> the occasional verses that of <quote>H. H.</quote>
+
+<milestone unit="sentence" n="292"/>Both novels brought a certain disappointment: they had obvious power, but were too painful to be heartily enjoyed.
+
+<milestone unit="sentence" n="293"/>After all, the public mind is rather repelled by a tragedy, since people wish to be made happy.
+
+<milestone unit="sentence" n="294"/>Great injustice has been done by many critics, I think, to <quote><persName><forename>Hetty</forename></persName>'s strange history.</quote>
+
+<milestone unit="sentence" n="295"/>While its extraordinary power is conceded, it has been called morbid and immoral; yet it is as stern a tale of retribution as <quote><persName n="Bovary,Madame,,,," xml:id="n0216.0006.00048.00233" reg="mostcommon:Bovary,nomatch:0"><roleName n="Madame">Madame</roleName> <surname>Bovary</surname></persName></quote> or <quote>The scarlet letter.</quote>
+
+<milestone unit="sentence" n="296"/>We rarely find in fiction any severity of injustice meted out to a wrong act done from noble motives.
+
+<milestone unit="sentence" n="297"/>In <persName n="Paul,,Jean,,," xml:id="n0216.0006.00048.00234" reg="default:Paul,Jean,,,"><forename>Jean</forename> <surname>Paul</surname></persName>'s <quote>Siebenkas</quote> the husband feigns death in order that his wife may find happiness without him: he succeeds in his effort, and is at last made happy himself.
+
+<milestone unit="sentence" n="298"/>In <quote><persName><forename>Hetty</forename></persName>'s strange history</quote> the wife effaces herself with precisely the same object,--for her husband's sake: but the effort fails; the husband is not made happy by her absence, and when they are re-united the memory of her deception cannot be banished, so that after the <num value="1" type="ordinal">first</num> bliss of re-union they find that complete healing can never come.
+
+<milestone unit="sentence" n="299"/>Only a deep nature could have planned, <pb xml:id="p.49" n="49"/> only a very firm pen could have traced, the final punishment of <persName><forename>Hetty</forename></persName>'s sin.</p> 
+<p>
+
+<milestone unit="sentence" n="300"/><num value="1">One</num> of the acutest critics in <placeName reg="America, Limburg, Nederland" key="tgn,1047611">America</placeName> said of <persName n="Holm,,Saxe,,," xml:id="n0216.0006.00049.00235" reg="default:Holm,Saxe,,,"><forename>Saxe</forename> <surname>Holm</surname></persName>: <quote>She stands on the threshold of the greatest literary triumphs ever won by an American woman.</quote>
+
+<milestone unit="sentence" n="301"/>It must be owned that she still lingers there: we still wait for any complete and unquestionable victory.
+
+<milestone unit="sentence" n="302"/>Who knows but that versatile imagination may already have sought some other outlet, and she may already be mystifying her public under some new name?
+
+<milestone unit="sentence" n="303"/>And of <quote>H. H.</quote>
+
+<milestone unit="sentence" n="304"/>as a poet it must be said that she seems of late to be half shrinking from her full career, and to be turning rather to the path of descriptive prose.
+
+<milestone unit="sentence" n="305"/>She has always excelled in this: her <quote>German Landlady</quote> is unsurpassed in its way, and her new experiences of Western residence have only added fulness and finish to this part of her literary work.
+
+<milestone unit="sentence" n="306"/>No <num value="1">one</num> has ever written of frontier-life so well as she, in her <quote>Bits of Travel at home ;</quote> with such hearty sympathy, with a tone so discriminating, and with such absence of the merely coarse or melodramatic.
+
+<milestone unit="sentence" n="307"/>All the <rs>California</rs> writers have not secured for the life of that region such a place in the world of art as she is giving to <placeName reg="Colorado" key="tgn,7007158">Colorado</placeName>; all their work, however brilliant, is encumbered with what is crude, cheap, exaggerated, and therefore temporary; hers <pb xml:id="p.50" n="50"/> is clear and firm and strong; and those who regret her absence from her early home can yet rejoice that she dwells amid scenery so magnificent, and in so absorbing a current of human life. </p></div> 
+<div xml:id="c.7" type="chapter" n="7" subtype="chapter"> <pb xml:id="p.51" n="51"/> 
+<head><persName n="James,,Henry,,," xml:id="n0216.0007.00051.00236" reg="default:James,Henry,,,"><forename>Henry</forename> <surname>James</surname>, <genName n="junior">Jr.</genName></persName></head> 
+<p>
+
+<milestone unit="sentence" n="308"/>We are growing more cosmopolitan and varied, in these <placeName reg="United States" key="tgn,7012149">United States of America</placeName>; and our authors are gaining much, if they are also losing a little, in respect to training.
+
+<milestone unit="sentence" n="309"/>The early career of an American author used to be tolerably fixed and clear, if limited; a college education, a few months in <placeName key="tgn,1000003" n="1.000 139" reg="europe,">Europe</placeName>, a few years in some profession, and then an entrance into literature by some side-door.
+
+<milestone unit="sentence" n="310"/>In later times, the printing-office has sometimes been substituted for the college, and has given a new phase of literary character distinct from the other, but not less valuable.
+
+<milestone unit="sentence" n="311"/><persName n="James,Mister,Henry,,," xml:id="n0216.0007.00051.00237" reg="default:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <forename>Henry</forename> <surname>James</surname>, <genName>Jr.</genName></persName>, belongs to neither of the classes thus indicated: he may be said to have been trained in literature by literature itself, so early did he begin writing, and so incessantly has he written.
+
+<milestone unit="sentence" n="312"/>We perhaps miss in his works something of the method which the narrower classical nurture was supposed to give; and we find few traces of that contact with the mass of mankind which <pb xml:id="p.52" n="52"/> comes through mere daily duty to the professional man, the business man, the journalist.
+
+<milestone unit="sentence" n="313"/><persName n="James,Mister,,,," xml:id="n0216.0007.00052.00238" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> has kept a little too good company: we do not find in his books such refreshing types of hearty and robust manhood as <persName n="Howells,,,,," xml:id="n0216.0007.00052.00239" reg="mostcommon:Howells,nomatch:0"><surname>Howells</surname></persName>, with all his daintiness, finds it easy to depict in <persName n="Ellison,Colonel,,,," xml:id="n0216.0007.00052.00240" reg="mostcommon:Ellison,nomatch:0"><roleName n="Colonel">Colonel</roleName> <surname>Ellison</surname></persName> and the skipper of the <rs>Aroostook</rs>.
+
+<milestone unit="sentence" n="314"/>Then <persName n="James,Mister,,,," xml:id="n0216.0007.00052.00241" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName>'s life has been so far transatlantic, that <num value="1">one</num> hardly knows whether he would wish to be accounted an American writer, after all; so that his education, his point of view, his methods, all unite to place him in a class by himself.</p> 
+<p>
+
+<milestone unit="sentence" n="315"/>It is pleasant to see a man write, as he has always done, with abundant energy, and seemingly from the mere love of writing.
+
+<milestone unit="sentence" n="316"/>Yet it is impossible to deny that he has suffered from this very profusion.
+
+<milestone unit="sentence" n="317"/>Much of his early work seems a sort of self-training, gained at the expense of his readers; each sheet, each story, has been hurried into print before the ink was dry, in order to test it on the public,--a method singularly removed from the long and lonely maturing of <persName n="Hawthorne,,,,," xml:id="n0216.0007.00052.00242" reg="mostcommon:Hawthorne,nomatch:0"><surname>Hawthorne</surname></persName>.
+
+<milestone unit="sentence" n="318"/><quote xml:lang="fr">L'oisivete est necessaire aux esprits, aussi bien que le travail.</quote>
+
+<milestone unit="sentence" n="319"/>Even the later books of <persName n="James,Mister,,,," xml:id="n0216.0007.00052.00243" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName>, especially his travels and his essays, show something of this defect.
+
+<milestone unit="sentence" n="320"/>What a quarry of admirable suggestions is, for instance, his essay on <persName n="Balzac,,,,," xml:id="n0216.0007.00052.00244" reg="mostcommon:Balzac,nomatch:0"><surname>Balzac</surname></persName>; <pb xml:id="p.53" n="53"/> but how prolix it is, what repetitions, what a want of condensation and method!
+
+<milestone unit="sentence" n="321"/>The same is true; in a degree, of his papers on George Sand and <persName n="Turgenieff,,,,," xml:id="n0216.0007.00053.00245" reg="mostcommon:Turgenieff,nomatch:0"><surname>Turgenieff</surname></persName>, while other chapters in his <quote>French Poets and Novelists</quote> are scarcely more than sketches: the paper on the <foreign xml:lang="fr">Theatre Francais</foreign> hardly mentions <persName n="Bernhardt,,Sarah,,," xml:id="n0216.0007.00053.00246" reg="default:Bernhardt,Sarah,,,"><forename>Sarah</forename> <surname>Bernhardt</surname></persName>; and, indeed, that on <persName n="Turgenieff,,,,," xml:id="n0216.0007.00053.00247" reg="mostcommon:Turgenieff,nomatch:0"><surname>Turgenieff</surname></persName> says nothing of his masterpiece, <quote>Terres Vierges.</quote>
+
+<milestone unit="sentence" n="322"/>Through all these essays he shows delicacy, epigram, quickness of touch, penetration; but he lacks symmetry of structure, and steadiness of hand.</p> 
+<p>
+
+<milestone unit="sentence" n="323"/>We can trace in the same book, also, some of the author's limitations as an imaginative artist, since in criticising others a man shows what is wanting in himself.
+
+<milestone unit="sentence" n="324"/>When he says, for instance, that a monarchical society is <quote>more available for the novelist than any other,</quote> he shows that he does not quite appreciate the strong point of republicanism, in that it develops real individuality in proportion as it diminishes conventional distinctions.
+
+<milestone unit="sentence" n="325"/>The truth is, that the modern novel has risen with the advance of democratic society, on the ruins of feudalism.
+
+<milestone unit="sentence" n="326"/>Another defect is seen from time to time, when, in criticising some well-known book, he misses its special points of excellence.
+
+<milestone unit="sentence" n="327"/>Take, for instance, his remarks on that masterly and <pb xml:id="p.54" n="54"/> repulsive novel, <quote><persName n="Bovary,Madame,,,," xml:id="n0216.0007.00054.00248" reg="mostcommon:Bovary,nomatch:0"><roleName n="Madame">Madame</roleName> <surname>Bovary</surname></persName>.</quote>
+
+<milestone unit="sentence" n="328"/>To say of the author of that work that his <quote>theory as a novelist, briefly expressed, is to begin at the outside,</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="329"/> 
+<p>French Poets and Novelists, <ref n="page 256">p. 256</ref>.</p></note> seems almost whimsically unjust.
+
+<milestone unit="sentence" n="330"/>There is not a character in modern fiction developed more essentially from within than that of this heroine: all her sins and sorrows are virtually predicted in the early chapters; even <persName n="James,Mister,,,," xml:id="n0216.0007.00054.00249" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> has to admit that it <quote>could not have been otherwise</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="331"/> 
+<p>French Poets and Novelists, <ref n="page 261">p. 261</ref>.</p></note> with her, thereby taking back his own general assertion.
+
+<milestone unit="sentence" n="332"/>Then he says <quote>every thing in the book is ugly,</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="333"/> 
+<p>French Poets and Novelists, <ref n="page 265">p. 265</ref>.</p></note> whereas <num value="1">one</num> of its salient points is the beauty of the natural descriptions in which its most painful incidents are framed.
+
+<milestone unit="sentence" n="334"/>Finally,--and this is the most puzzling misconception of all,--<persName n="James,Mister,,,," xml:id="n0216.0007.00054.00250" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> utterly fails to see the bearing of <num value="1">one</num> of the pivotal points of the narrative, an unfortunate surgical operation performed by the heroine's husband, a country doctor: he calls it an <quote>artistic bravado,</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="335"/> 
+<p>French Poets and Novelists, <ref n="page 265">p. 265</ref>.</p></note> and treats it as a mere episode of doubtful value, whereas it is absolutely essential to the working-out of the plot.
+
+<milestone unit="sentence" n="336"/>The situation is this: <persName n="Bovary,Madame,,,," xml:id="n0216.0007.00054.00251" reg="mostcommon:Bovary,nomatch:0"><roleName n="Madame">Madame</roleName> <surname>Bovary</surname></persName> is being crushed to the earth by living in a social vacuum, with a stupid husband whom she despises, and has already deceived.
+
+<milestone unit="sentence" n="337"/>She has just felt a <pb xml:id="p.55" n="55"/> twinge of remorse, after receiving an affectionate letter from her father; when suddenly this commonplace husband is presented to her eyes in a wholly new light,--that of an unappreciated man of genius, who has by a single act won a place among the great surgeons of his time.
+
+<milestone unit="sentence" n="338"/>All that is left undepraved in her nature is touched and roused by this: she will do any thing, bear any thing, for such a husband.
+
+<milestone unit="sentence" n="339"/>The illusion lasts but a few days, and is pitilessly torn away: the husband proves a mere vulgar, ignorant quack, even duller, emptier, more hopeless, than she had dreamed.
+
+<milestone unit="sentence" n="340"/>The reaction takes her instantly downward, and with that impulse she sinks to rise no more.
+
+<milestone unit="sentence" n="341"/>The author himself (Flaubert) takes the pains to warn us distinctly beforehand of the bearing of this incident; <note anchored="yes">
+
+<milestone unit="sentence" n="342"/><cit><quote xml:lang="fr">Elle demeurait fort embarrasse dans sa velleite de sacrifice, quand l'apothecaire vint à propos lui fournir une occasion.</quote>
+
+<milestone unit="sentence" n="343"/><bibl><persName n="Bovary,Madame,,,," xml:id="n0216.0007.00055.00252" reg="mostcommon:Bovary,nomatch:0"><roleName n="Madame">Madame</roleName> <surname>Bovary</surname></persName>, <ref n="page 210">p. 210</ref>.</bibl></cit></note> but his precaution seems needless, the thing explains itself.
+
+<milestone unit="sentence" n="344"/>It is <num value="1">one</num> of the strongest and clearest passages in the whole tragedy, and it seems as if there must be some defect of artistic sensibility in any critic who misses his way here.
+
+<milestone unit="sentence" n="345"/>Or else — which is more probable — it is another instance of that haste in literary workmanship which is <num value="1">one</num> of <persName n="James,Mister,,,," xml:id="n0216.0007.00055.00253" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName>'s besetting sins.
+
+<milestone unit="sentence" n="346"/><pb xml:id="p.56" n="56"/></p> 
+<p>It may be <num value="1">one</num> result of this extreme rapidity of production, that <persName n="James,Mister,,,," xml:id="n0216.0007.00056.00254" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> uses certain catch-words so often as to furnish almost a shibboleth for his style; such words, for instance, as <quote>brutal,</quote> <quote>puerile,</quote> <quote>immense.</quote>
+
+<milestone unit="sentence" n="347"/>Another result is seen in his indifference to careful local coloring, especially where the scene is laid in the <placeName reg="United States" key="tgn,7012149">United States</placeName>.
+
+<milestone unit="sentence" n="348"/>When he draws <persName n="Americans,,,,," xml:id="n0216.0007.00056.00255" reg="mostcommon:Americans,nomatch:0"><surname>Americans</surname></persName> in <placeName key="tgn,1000003" n="1.000 139" reg="europe,">Europe</placeName>, he is at home; when he brings Europeans across the <rs>Atlantic</rs>, he never seems quite sure of his ground, except in <placeName reg="Newport, Rhode Island, Newport" key="tgn,7014221">Newport</placeName>, which is in some respects the least American spot on this continent.
+
+<milestone unit="sentence" n="349"/>He opens his <quote>Europeans</quote> by exhibiting horse-cars in the streets of <placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston</placeName> nearly <measure n="10years" type="date">ten years</measure> before their introduction, and his whole sketch of the <name>Wentworth</name> family gives a sense of vagueness.
+
+<milestone unit="sentence" n="350"/>It is not difficult to catch a few unmistakable points, and portray a respectable elderly gentleman reading <quote>The daily <rs>Advertiser</rs>;</quote> but all beyond this is indefinite, and, when otherwise, sometimes gives quite an incorrect impression of the place and period described.
+
+<milestone unit="sentence" n="351"/>The family portrayed has access to <quote>the best society in <placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston</placeName>;</quote> yet the daughter, <measure n="23years" type="date">twenty-three years</measure> old, has <quote>never seen an artist,</quote> though the picturesque figure of <persName n="Allston,,,,," xml:id="n0216.0007.00056.00256" reg="mostcommon:Allston,nomatch:0"><surname>Allston</surname></persName> had but lately disappeared from the streets, at the time mentioned, and <persName n="Cheney,,,,," xml:id="n0216.0007.00056.00257" reg="mostcommon:Cheney,nomatch:0"><surname>Cheney</surname></persName>, <persName n="Staigg,,,,," xml:id="n0216.0007.00056.00258" reg="mostcommon:Staigg,nomatch:0"><surname>Staigg</surname></persName>, and <persName n="Johnson,,Eastman,,," xml:id="n0216.0007.00056.00259" reg="default:Johnson,Eastman,,,"><forename>Eastman</forename> <surname>Johnson</surname></persName> might be seen there any day, with <pb xml:id="p.57" n="57"/> plenty of other artists less known.
+
+<milestone unit="sentence" n="352"/>The household is perfectly amazed and overwhelmed at the sight of <num value="2">two</num> foreigners, although there probably were more cultivated Europeans in <placeName reg="Boston, Suffolk, Massachusetts" key="tgn,7013445">Boston</placeName> <measure n="30years" type="date">thirty years</measure> ago than now, having been drawn thither by the personal celebrity or popularity of <persName n="Agassiz,,,,," xml:id="n0216.0007.00057.00260" reg="mostcommon:Agassiz,nomatch:0"><surname>Agassiz</surname></persName>, <persName n="Ticknor,,,,," xml:id="n0216.0007.00057.00261" reg="mostcommon:Ticknor,nomatch:0"><surname>Ticknor</surname></persName>, <persName n="Longfellow,,,,," xml:id="n0216.0007.00057.00262" reg="mostcommon:Longfellow,nomatch:0"><surname>Longfellow</surname></persName>, <persName n="Sumner,,,,," xml:id="n0216.0007.00057.00263" reg="mostcommon:Sumner,nomatch:0"><surname>Sumner</surname></persName>, and <persName n="Howe,Doctor,,,," xml:id="n0216.0007.00057.00264" reg="mostcommon:Howe,nomatch:0"><roleName n="Doctor">Dr.</roleName> <surname>Howe</surname></persName>.
+
+<milestone unit="sentence" n="353"/>The whole picture-though it is fair to remember that the author calls it a sketch only — seems more like a delineation of <orgName n="American Society" type="society">American society</orgName> by Fortunio or <persName n="Dumas,,Alexandre,,," xml:id="n0216.0007.00057.00265" reg="default:Dumas,Alexandre,,,"><forename>Alexandre</forename> <surname>Dumas</surname></persName> <foreign xml:lang="fr">fils</foreign>, than like a portraiture by <num value="1">one</num> to the manor born.
+
+<milestone unit="sentence" n="354"/>The truth is, that <persName n="James,Mister,,,," xml:id="n0216.0007.00057.00266" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName>'s cosmopolitanism is, after all, limited: to be really cosmopolitan, a man must be at home even in his own country.</p> 
+<p>
+
+<milestone unit="sentence" n="355"/>There are no short stories in our recent literature, I think, which are so good as <persName n="James,Mister,,,," xml:id="n0216.0007.00057.00267" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName>'s best,--<quote><persName n="Mauves,Madame,,,,de" xml:id="n0216.0007.00057.00268" reg="mostcommon:Mauves,nomatch:0"><roleName n="Madame">Madame</roleName> <nameLink>de</nameLink> <surname>Mauves</surname></persName>,</quote> for instance, and <quote>The <rs>Madonna</rs> of the future.</quote>
+
+<milestone unit="sentence" n="356"/>Even these sometimes lack condensation; but they have a thoroughly original grasp, and fine delineations of character.
+
+<milestone unit="sentence" n="357"/>It is a great step downward from these to the somewhat vulgar horrors contained in <quote>A romance of certain Old Clothes.</quote>
+
+<milestone unit="sentence" n="358"/>The author sometimes puts on a cynicism which does not go very deep; and the young lovers of his earlier tales had a disagreeable habit of swearing at young ladies, and ordering them about.
+
+<milestone unit="sentence" n="359"/>Yet he has kept <pb xml:id="p.58" n="58"/> himself very clear from the disagreeable qualities of the <rs>French</rs> fiction he loves.
+
+<milestone unit="sentence" n="360"/>His books never actually leave a bad taste in <num value="1">one</num>'s mouth, as <persName n="Bronte,,Charlotte,,," xml:id="n0216.0007.00058.00269" reg="default:Bronte,Charlotte,,,"><forename>Charlotte</forename> <surname>Bronte</surname></persName> said of <name>French</name> novels; and, indeed, no <num value="1">one</num> has touched with more delicate precision the vexed question of morality in art. He finely calls the longing after a moral ideal <quote>this southern slope of the mind,</quote> <note anchored="yes">
+
+<milestone unit="sentence" n="361"/> 
+<p>French Poets and Novelists, <ref n="page 114">p. 114</ref>.</p></note> and says of the ethical element, <quote>It is in reality simply a part of the richness of inspiration: it has nothing to do with the artistic process, and it has every thing to do with the artistic effect.</quote>
+
+<milestone unit="sentence" n="362"/><note anchored="yes"> 
+<p>French Poets and Novelists, <ref n="page 82">p. 82</ref>.</p></note> This is admirable; and it is a vindication of this attribute when we find that <persName n="James,Mister,,,," xml:id="n0216.0007.00058.00270" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName>'s most successful social stories, <quote>An international episode,</quote> and <quote><persName n="Miller,,Daisy,,," xml:id="n0216.0007.00058.00271" reg="default:Miller,Daisy,,,"><forename>Daisy</forename> <surname>Miller</surname></persName>,</quote> have been written with distinct purpose, and convey lessons.
+
+<milestone unit="sentence" n="363"/>He has achieved no greater triumph than when, in this last-named book, he succeeds in holding our sympathy and even affection, after all, for the essential innocence and rectitude of the poor wayward girl whose follies he has so mercilessly portrayed.</p> 
+<p>
+
+<milestone unit="sentence" n="364"/>It cannot be said that <persName n="James,Mister,,,," xml:id="n0216.0007.00058.00272" reg="nearbymention:James,Henry,,,"><roleName n="Mister">Mr.</roleName> <surname>James</surname></persName> has yet succeeded in producing a satisfactory novel: as a clever woman has said, he should employ some <num value="1">one</num> else to write the last few pages.
+
+<milestone unit="sentence" n="365"/>However strong the characterizations, however skilful the plot, the <pb xml:id="p.59" n="59"/> reader is left discontented.
+
+<milestone unit="sentence" n="366"/>If in this respect he seems behind <persName n="Howells,,,,," xml:id="n0216.0007.00059.00273" reg="mostcommon:Howells,nomatch:0"><surname>Howells</surname></persName>, it must be remembered that <persName><forename>James</forename></persName> habitually deals with profounder emotions, and is hence more liable to be overmastered.
+
+<milestone unit="sentence" n="367"/><persName n="Longfellow,,,,," xml:id="n0216.0007.00059.00274" reg="mostcommon:Longfellow,nomatch:0"><surname>Longfellow</surname></persName> says to himself in his <quote>Hyperion,</quote> <quote>O thou poor authorling!
+
+<milestone unit="sentence" n="368"/>Reach a little deeper into the human heart!
+
+<milestone unit="sentence" n="369"/>Touch those strings, touch those deeper strings more boldly, or the notes shall die away like whispers, and no ear shall hear them save thine own.</quote>
+
+<milestone unit="sentence" n="370"/>It is <persName><forename>James</forename></persName> rather than <persName n="Howells,,,,," xml:id="n0216.0007.00059.00275" reg="mostcommon:Howells,nomatch:0"><surname>Howells</surname></persName> who has heeded this counsel.
+
+<milestone unit="sentence" n="371"/>The very disappointment which the world felt at the close of <quote>The American</quote> was in some sense a tribute to its power: the author had called up characters and situations which could not be cramped, at last, within the conventional limits of a stage-ending.
+
+<milestone unit="sentence" n="372"/>As a piece of character-drawing, the final irresolution of the hero was simply perfect: it seemed <num value="1">one</num> of the cases where a romancer conjures up persons who are actually alive, and who insist on working out a destiny of their own, irrespective of his wishes.
+
+<milestone unit="sentence" n="373"/>To be thus conquered by <num value="1">one</num>'s own creation might seem <num value="1">one</num> of those defeats that are greater than victories ; yet it is the business of the novelist, after all, to keep his visionary people well in hand, and to contrive that they shall have their own way, and yet not spoil his climax.
+
+<milestone unit="sentence" n="374"/>In life, as in <quote>The <pb xml:id="p.60" n="60"/> American,</quote> the most complicated situations often settle themselves by events unseen, and the most promising tragedies are cheated of their crisis.
+
+<milestone unit="sentence" n="375"/>But it is not enough that literary art should give a true transcript of nature; for the work must also comply with the laws of art, and must have a beginning, a middle, and an end. <cit><quote xml:lang="fr">Un ouvrage d'art doit être un être, et non une chose arbitraire.</quote>
+
+<milestone unit="sentence" n="376"/><bibl><persName n="Joubert,,Pensees,de,J.," xml:id="n0216.0007.00060.00276" reg="expanded:Joubert,"><forename>Pensees</forename> <forename>de</forename> <forename>J.</forename> <surname>Joubert</surname></persName>, <ref n="page 289">p. 289</ref>.</bibl></cit> </p></div></body></text></TEI>

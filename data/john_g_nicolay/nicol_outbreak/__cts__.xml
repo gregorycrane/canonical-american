@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:john_g_nicolay" projid="americanLit:nicol_outbreak" urn="urn:cts:americanLit:john_g_nicolay.nicol_outbreak" xml:lang="eng">
-  <ti:title xml:lang="eng">The Outbreak of Rebellion</ti:title>
-  <ti:edition urn="urn:cts:americanLit:john_g_nicolay.nicol_outbreak.perseus-eng1" workUrn="urn:cts:americanLit:john_g_nicolay.nicol_outbreak" xml:lang="eng">
-    <ti:label xml:lang="eng">The Outbreak of Rebellion</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

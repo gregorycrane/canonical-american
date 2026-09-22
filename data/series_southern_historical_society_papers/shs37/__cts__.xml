@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_southern_historical_society_papers" projid="americanLit:shs37" urn="urn:cts:americanLit:series_southern_historical_society_papers.shs37" xml:lang="eng">
+  <ti:title xml:lang="eng">Volume 37</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_southern_historical_society_papers.shs37.perseus-eng1" workUrn="urn:cts:americanLit:series_southern_historical_society_papers.shs37" xml:lang="eng">
+    <ti:label xml:lang="eng">Volume 37</ti:label>
+    <ti:description xml:lang="eng">Richmond, VA. 1909.</ti:description>
+  </ti:edition>
+</ti:work>

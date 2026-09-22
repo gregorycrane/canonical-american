@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_hepworth_dixon" projid="americanLit:dixon_conq1" urn="urn:cts:americanLit:william_hepworth_dixon.dixon_conq1" xml:lang="eng">
-  <ti:title xml:lang="eng">White Conquest: Volume 1</ti:title>
-  <ti:edition urn="urn:cts:americanLit:william_hepworth_dixon.dixon_conq1.perseus-eng1" workUrn="urn:cts:americanLit:william_hepworth_dixon.dixon_conq1" xml:lang="eng">
-    <ti:label xml:lang="eng">White Conquest: Volume 1</ti:label>
-    <ti:description xml:lang="eng">1875.</ti:description>
-  </ti:edition>
-</ti:work>

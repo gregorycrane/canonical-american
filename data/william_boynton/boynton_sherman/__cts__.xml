@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:william_boynton" projid="americanLit:boynton_sherman" urn="urn:cts:americanLit:william_boynton.boynton_sherman" xml:lang="eng">
-  <ti:title xml:lang="eng">Sherman's Historical Raid</ti:title>
-  <ti:edition urn="urn:cts:americanLit:william_boynton.boynton_sherman.perseus-eng1" workUrn="urn:cts:americanLit:william_boynton.boynton_sherman" xml:lang="eng">
-    <ti:label xml:lang="eng">Sherman's Historical Raid</ti:label>
-    <ti:description xml:lang="eng">Cincinnati: Wilstach, Baldwin &amp; Co. 1875.</ti:description>
-  </ti:edition>
-</ti:work>

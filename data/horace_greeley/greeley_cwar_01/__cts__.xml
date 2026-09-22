@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:horace_greeley" projid="americanLit:greeley_cwar_01" urn="urn:cts:americanLit:horace_greeley.greeley_cwar_01" xml:lang="eng">
-  <ti:title xml:lang="eng">The American Conflict: A History of the Great Rebellion in the United States of America, 1860-65: its Causes, Incidents, and Results: Intended to exhibit especially its moral and political phases with the drift and progress of American opinion respecting human slavery from 1776 to the close of the War for the Union. Volume I.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:horace_greeley.greeley_cwar_01.perseus-eng1" workUrn="urn:cts:americanLit:horace_greeley.greeley_cwar_01" xml:lang="eng">
-    <ti:label xml:lang="eng">The American Conflict: A History of the Great Rebellion in the United States of America, 1860-65: its Causes, Incidents, and Results: Intended to exhibit especially its moral and political phases with the drift and progress of American opinion respecting human slavery from 1776 to the close of the War for the Union. Volume I.</ti:label>
-    <ti:description xml:lang="eng">Hartford. Published by O. D. Chase and Company. 1866.</ti:description>
-  </ti:edition>
-</ti:work>

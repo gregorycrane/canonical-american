@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:parthenia_antoinette_hague" projid="americanLit:hague_block" urn="urn:cts:americanLit:parthenia_antoinette_hague.hague_block" xml:lang="eng">
-  <ti:title xml:lang="eng">A blockaded family: Life in southern Alabama during the war</ti:title>
-  <ti:edition urn="urn:cts:americanLit:parthenia_antoinette_hague.hague_block.perseus-eng1" workUrn="urn:cts:americanLit:parthenia_antoinette_hague.hague_block" xml:lang="eng">
-    <ti:label xml:lang="eng">A blockaded family: Life in southern Alabama during the war</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

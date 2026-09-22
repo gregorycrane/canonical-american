@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:bennett_william_w" projid="americanLit:bennett_revival" urn="urn:cts:americanLit:bennett_william_w.bennett_revival" xml:lang="eng">
+  <ti:title xml:lang="eng">A narrative of the great revival which prevailed in the Southern armies during the late Civil War</ti:title>
+  <ti:edition urn="urn:cts:americanLit:bennett_william_w.bennett_revival.perseus-eng1" workUrn="urn:cts:americanLit:bennett_william_w.bennett_revival" xml:lang="eng">
+    <ti:label xml:lang="eng">A narrative of the great revival which prevailed in the Southern armies during the late Civil War</ti:label>
+    <ti:description xml:lang="eng">Philadelphia, 1877.</ti:description>
+  </ti:edition>
+</ti:work>

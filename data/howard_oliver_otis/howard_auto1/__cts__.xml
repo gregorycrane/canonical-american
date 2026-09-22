@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:howard_oliver_otis" projid="americanLit:howard_auto1" urn="urn:cts:americanLit:howard_oliver_otis.howard_auto1" xml:lang="eng">
+  <ti:title xml:lang="eng">Autobiography of Oliver Otis Howard, major general, United States army: volume 1</ti:title>
+  <ti:edition urn="urn:cts:americanLit:howard_oliver_otis.howard_auto1.perseus-eng1" workUrn="urn:cts:americanLit:howard_oliver_otis.howard_auto1" xml:lang="eng">
+    <ti:label xml:lang="eng">Autobiography of Oliver Otis Howard, major general, United States army: volume 1</ti:label>
+    <ti:description xml:lang="eng">Baker and Taylor. 1908.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_historic_leaves" projid="americanLit:somerville_leaves06" urn="urn:cts:americanLit:series_historic_leaves.somerville_leaves06" xml:lang="eng">
+  <ti:title xml:lang="eng">volume 6 — April, 1907 - January, 1908</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_historic_leaves.somerville_leaves06.perseus-eng1" workUrn="urn:cts:americanLit:series_historic_leaves.somerville_leaves06" xml:lang="eng">
+    <ti:label xml:lang="eng">volume 6 — April, 1907 - January, 1908</ti:label>
+    <ti:description xml:lang="eng">Somerville Historical Society, 1908.</ti:description>
+  </ti:edition>
+</ti:work>

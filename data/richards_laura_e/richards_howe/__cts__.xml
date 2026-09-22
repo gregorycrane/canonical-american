@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:richards_laura_e" projid="americanLit:richards_howe" urn="urn:cts:americanLit:richards_laura_e.richards_howe" xml:lang="eng">
+  <ti:title xml:lang="eng">Julia Ward Howe, 1819-1910, in two volumes, with portraits and other illustrations: volume 1</ti:title>
+  <ti:edition urn="urn:cts:americanLit:richards_laura_e.richards_howe.perseus-eng1" workUrn="urn:cts:americanLit:richards_laura_e.richards_howe" xml:lang="eng">
+    <ti:label xml:lang="eng">Julia Ward Howe, 1819-1910, in two volumes, with portraits and other illustrations: volume 1</ti:label>
+    <ti:description xml:lang="eng">Houghton Mifflin Company, Boston and New York. 1916.</ti:description>
+  </ti:edition>
+</ti:work>

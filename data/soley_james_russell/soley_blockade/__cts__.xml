@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:soley_james_russell" projid="americanLit:soley_blockade" urn="urn:cts:americanLit:soley_james_russell.soley_blockade" xml:lang="eng">
+  <ti:title xml:lang="eng">The blockade and the cruisers</ti:title>
+  <ti:edition urn="urn:cts:americanLit:soley_james_russell.soley_blockade.perseus-eng1" workUrn="urn:cts:americanLit:soley_james_russell.soley_blockade" xml:lang="eng">
+    <ti:label xml:lang="eng">The blockade and the cruisers</ti:label>
+    <ti:description xml:lang="eng">New York. D. Appleton 1903.</ti:description>
+  </ti:edition>
+</ti:work>

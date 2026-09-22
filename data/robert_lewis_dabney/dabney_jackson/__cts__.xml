@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:robert_lewis_dabney" projid="americanLit:dabney_jackson" urn="urn:cts:americanLit:robert_lewis_dabney.dabney_jackson" xml:lang="eng">
-  <ti:title xml:lang="eng">Life and Commands of Lieutenand-General Thomas J. Jackson</ti:title>
-  <ti:edition urn="urn:cts:americanLit:robert_lewis_dabney.dabney_jackson.perseus-eng1" workUrn="urn:cts:americanLit:robert_lewis_dabney.dabney_jackson" xml:lang="eng">
-    <ti:label xml:lang="eng">Life and Commands of Lieutenand-General Thomas J. Jackson</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

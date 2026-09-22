@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_wentworth_higginson" projid="americanLit:higg_harvmem1" urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_harvmem1" xml:lang="eng">
-  <ti:title xml:lang="eng">Harvard Memorial Biographies</ti:title>
-  <ti:edition urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_harvmem1.perseus-eng1" workUrn="urn:cts:americanLit:thomas_wentworth_higginson.higg_harvmem1" xml:lang="eng">
-    <ti:label xml:lang="eng">Harvard Memorial Biographies</ti:label>
-    <ti:description xml:lang="eng">Sever and Francis, 1866.</ti:description>
-  </ti:edition>
-</ti:work>

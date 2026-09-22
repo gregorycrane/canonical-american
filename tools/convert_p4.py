@@ -86,6 +86,92 @@ def slugify(value: str, fallback: str) -> str:
     return value[:80]
 
 
+# These are catalogue labels or single-name authors, not modern personal names
+# that can safely be inverted into ``surname_given_names``.
+NON_INVERTED_AUTHORS = {
+    "anonymous",
+    "bytemanager",
+    "digital divide",
+    "holmes",
+    "plutarch",
+    "wild",
+}
+
+AUTHOR_TITLE_RE = re.compile(
+    r"^(?:(?:the\s+)?rev\.?|admiral|baron|brevet\s+major[- ]general|"
+    r"brig\.?[- ]?gen\.?|brigadier[- ]general|capt\.?|col\.?|colonel|"
+    r"comte|general|hon\.?|lt\.?[- ]?colonel|maj\.?|major|mrs\.?|sergeant)\s+",
+    re.I,
+)
+SURNAME_PARTICLES = {"da", "de", "del", "della", "der", "di", "du", "la", "le", "van", "von"}
+NAME_SUFFIX_RE = re.compile(r"^(?:jr\.?|jun\.?|sr\.?)$", re.I)
+
+# Multi-contributor serial publications belong under a series textgroup rather
+# than whichever contributor happens to be named in one volume's header.
+SERIES_TEXTGROUPS = (
+    (re.compile(r"^mhs\d+\.ie\.xml$", re.I), "series_medford_historical_society_papers", "Medford Historical Society Papers"),
+    (re.compile(r"^shs\d+\.ie\.xml$", re.I), "series_southern_historical_society_papers", "Southern Historical Society Papers"),
+    (re.compile(r"^phcw", re.I), "series_photographic_history_civil_war", "The Photographic History of the Civil War"),
+    (re.compile(r"^rebrec", re.I), "series_rebellion_record", "The Rebellion Record"),
+    (re.compile(r"^somerville\.leaves", re.I), "series_historic_leaves", "Historic Leaves"),
+)
+
+
+def series_textgroup(source_name: str) -> Optional[Tuple[str, str]]:
+    for pattern, group_id, label in SERIES_TEXTGROUPS:
+        if pattern.search(source_name):
+            return group_id, label
+    return None
+
+
+def author_group_id(value: str) -> str:
+    """Return a stable CTS textgroup id in surname-first order.
+
+    Legacy catalogue strings often append ranks, degrees, or descriptions after
+    a comma. Those remain in the human-readable group name but do not form part
+    of the identifier.
+    """
+    display = " ".join(value.split()).strip(" .")
+    if display.casefold() in NON_INVERTED_AUTHORS:
+        return slugify(display, "anonymous")
+    if display.casefold().startswith("an english combatant,"):
+        return "an_english_combatant"
+
+    parts = [part.strip() for part in display.split(",")]
+    name = parts[0]
+    suffix = ""
+
+    # A few source headers already use ``Surname, Given names``.
+    if len(name.split()) == 1 and len(parts) > 1 and not NAME_SUFFIX_RE.match(parts[1]):
+        second = parts[1]
+        if not re.match(r"^(?:[A-Z]\.?\s*){1,4}$", second) and not re.search(
+            r"\b(?:author|navy|army|infantry|battery|professor|president)\b", second, re.I
+        ):
+            return slugify(f"{name} {second}", "anonymous")
+
+    for part in parts[1:]:
+        if NAME_SUFFIX_RE.match(part):
+            suffix = part
+            break
+
+    while True:
+        stripped = AUTHOR_TITLE_RE.sub("", name, count=1)
+        if stripped == name:
+            break
+        name = stripped
+    tokens = name.strip(" .").split()
+    if len(tokens) < 2:
+        return slugify(" ".join(tokens) or display, "anonymous")
+
+    surname_start = len(tokens) - 1
+    while surname_start > 0 and tokens[surname_start - 1].strip(".").casefold() in SURNAME_PARTICLES:
+        surname_start -= 1
+    surname = " ".join(tokens[surname_start:])
+    given = " ".join(tokens[:surname_start])
+    ordered = " ".join(part for part in (surname, given, suffix) if part)
+    return slugify(ordered, "anonymous")
+
+
 def version_stem(path: Path) -> str:
     stem = path.name
     for suffix in (".ie.xml", ".xml"):
@@ -153,14 +239,67 @@ def parse_legacy(path: Path, allow_recovery: bool = True) -> Tuple[etree._Elemen
 
 def extract_metadata(tree: etree._ElementTree, source: Path) -> dict:
     root = tree.getroot()
-    title = next((normalized_text(e) for e in root.iter() if local_name(e.tag) == "title"), "")
+    title_stmt = next(
+        (e for e in root.iter() if local_name(e.tag) == "titleStmt"), None
+    )
+    titles = (
+        [
+            normalized_text(e)
+            for e in title_stmt
+            if isinstance(e.tag, str) and local_name(e.tag) == "title"
+        ]
+        if title_stmt is not None
+        else []
+    )
+    title = titles[0] if titles else ""
     author = next((normalized_text(e) for e in root.iter() if local_name(e.tag) == "author"), "")
     source_desc = next(
         (normalized_text(e) for e in root.iter() if local_name(e.tag) == "sourceDesc"), ""
     )
     title = title or version_stem(source).replace("_", " ").title()
     author = author or "Anonymous"
-    return {"title": title, "author": author, "source_desc": source_desc}
+    return {
+        "title": title,
+        "titles": titles,
+        "author": author,
+        "source_desc": source_desc,
+    }
+
+
+def series_issue_metadata(record: dict) -> Tuple[str, str, str]:
+    """Return a useful issue title, volume, and date from a series header."""
+    secondary = [title.strip().rstrip(".") for title in record.get("titles", [])[1:]]
+    volume = next(
+        (
+            title
+            for title in secondary
+            if re.match(r"^(?:vol(?:ume)?\.?\s+\w+|index)$", title, re.I)
+        ),
+        "",
+    )
+    years = re.findall(r"\b(?:17|18|19|20)\d{2}\b", record.get("source_desc", ""))
+    date = "–".join(dict.fromkeys(years))
+    group_id = record.get("group_id", "")
+
+    if group_id == "series_photographic_history_civil_war":
+        volume = next(
+            (title for title in secondary if re.match(r"^(?:volume\b|index$)", title, re.I)),
+            volume,
+        )
+    elif group_id == "series_rebellion_record":
+        component = re.sub(
+            r"^Rebellion Record:\s*(?:a Diary of American Events:\s*)?",
+            "",
+            record["title"],
+            flags=re.I,
+        ).rstrip(".")
+        if component and component.casefold() != "a diary of american events":
+            volume = f"{volume} — {component}" if volume else component
+    elif group_id == "series_historic_leaves" and len(secondary) > 1:
+        volume = f"{volume} — {secondary[-1]}" if volume else secondary[-1]
+
+    issue_title = volume or f"Issue {record['work_id']}"
+    return issue_title, volume, date
 
 
 def set_tei_namespace(root: etree._Element) -> etree._Element:
@@ -605,14 +744,24 @@ def convert_large(source: Path, destination: Path, urn: str) -> dict:
 
 def source_files(source: Path) -> List[Path]:
     return sorted(
-        p for p in source.glob("*.xml") if not p.name.startswith(".") and not p.name.endswith(".org.xml")
+        p
+        for p in source.glob("*.xml")
+        if not p.name.startswith(".")
+        and not p.name.endswith(".org.xml")
+        # Harper is a reference database and now lives in anglophoneref.
+        and p.name.casefold() != "harpgaz.1855.ie.xml"
     )
 
 
 def unique_ids(records: List[dict]) -> None:
     author_groups = defaultdict(list)
     for record in records:
-        author_groups[slugify(record["author"], "anonymous")].append(record)
+        series = series_textgroup(record["source"])
+        if series:
+            record["group_id"], record["group_label"] = series
+            record["textgroup_type"] = "series"
+        else:
+            author_groups[author_group_id(record["author"])].append(record)
     for base, members in sorted(author_groups.items()):
         authors = sorted({m["author"] for m in members})
         author_to_id = {}
@@ -624,6 +773,10 @@ def unique_ids(records: List[dict]) -> None:
             author_to_id[author] = candidate
         for member in members:
             member["group_id"] = author_to_id[member["author"]]
+            member["group_label"] = member["author"]
+            member["textgroup_type"] = "author"
+            member["volume"] = ""
+            member["date"] = ""
 
     seen = set()
     for record in sorted(records, key=lambda r: r["source"]):
@@ -635,6 +788,8 @@ def unique_ids(records: List[dict]) -> None:
             serial += 1
         seen.add((record["group_id"], candidate))
         record["work_id"] = candidate
+        if record["textgroup_type"] == "series":
+            record["title"], record["volume"], record["date"] = series_issue_metadata(record)
 
 
 def inventory(source: Path, allow_recovery: bool) -> Tuple[List[dict], List[dict]]:
@@ -685,6 +840,9 @@ def convert_one(source: Path, output: Path, record: dict, allow_recovery: bool) 
         {
             "author": record["author"],
             "title": record["title"],
+            "textgroup_type": record["textgroup_type"],
+            "volume": record["volume"],
+            "date": record["date"],
             "group_id": record["group_id"],
             "work_id": record["work_id"],
             "urn": urn,
@@ -696,9 +854,12 @@ def convert_one(source: Path, output: Path, record: dict, allow_recovery: bool) 
 
 def write_reports(output: Path, reports: List[dict]) -> None:
     manifest_rows = [r for r in reports if r.get("status") == "converted"]
-    fields = ["source", "author", "title", "group_id", "work_id", "urn", "output"]
+    fields = [
+        "source", "author", "title", "textgroup_type", "volume", "date", "group_id",
+        "work_id", "urn", "output",
+    ]
     with (output / "conversion_manifest.csv").open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for row in manifest_rows:
             writer.writerow({key: row.get(key, "") for key in fields})
@@ -738,7 +899,7 @@ def build(args: argparse.Namespace) -> int:
         try:
             report = convert_one(path, output, record, allow_recovery=not args.strict)
             reports.append(report)
-            groups[record["group_id"]] = record["author"]
+            groups[record["group_id"]] = record["group_label"]
             if number % 25 == 0 or number == len(records):
                 print(f"[{number}/{len(records)}] {record['source']}", flush=True)
         except Exception as exc:

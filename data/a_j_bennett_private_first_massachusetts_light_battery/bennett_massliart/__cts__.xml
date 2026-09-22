@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:a_j_bennett_private_first_massachusetts_light_battery" projid="americanLit:bennett_massliart" urn="urn:cts:americanLit:a_j_bennett_private_first_massachusetts_light_battery.bennett_massliart" xml:lang="eng">
-  <ti:title xml:lang="eng">The story of the First Massachusetts Light Battery, attached to the Sixth Army Corps: glance at events in the armies of the Potomac and Shenandoah, from the summer of 1861 to the autumn of 1864.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:a_j_bennett_private_first_massachusetts_light_battery.bennett_massliart.perseus-eng1" workUrn="urn:cts:americanLit:a_j_bennett_private_first_massachusetts_light_battery.bennett_massliart" xml:lang="eng">
-    <ti:label xml:lang="eng">The story of the First Massachusetts Light Battery, attached to the Sixth Army Corps: glance at events in the armies of the Potomac and Shenandoah, from the summer of 1861 to the autumn of 1864.</ti:label>
-    <ti:description xml:lang="eng">Boston. Press of Deland and Barta, 1886.</ti:description>
-  </ti:edition>
-</ti:work>

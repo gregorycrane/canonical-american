@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:gordon_george_h" projid="americanLit:gordon_brook" urn="urn:cts:americanLit:gordon_george_h.gordon_brook" xml:lang="eng">
+  <ti:title xml:lang="eng">From Brook Farm to Cedar Mountain</ti:title>
+  <ti:edition urn="urn:cts:americanLit:gordon_george_h.gordon_brook.perseus-eng1" workUrn="urn:cts:americanLit:gordon_george_h.gordon_brook" xml:lang="eng">
+    <ti:label xml:lang="eng">From Brook Farm to Cedar Mountain</ti:label>
+    <ti:description xml:lang="eng">James R. Osgood and Company, 1883.</ti:description>
+  </ti:edition>
+</ti:work>

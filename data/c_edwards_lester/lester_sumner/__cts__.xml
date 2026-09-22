@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:c_edwards_lester" projid="americanLit:lester_sumner" urn="urn:cts:americanLit:c_edwards_lester.lester_sumner" xml:lang="eng">
-  <ti:title xml:lang="eng">Life and public services of Charles Sumner: Born Jan. 6, 1811. Died March 11, 1874.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:c_edwards_lester.lester_sumner.perseus-eng1" workUrn="urn:cts:americanLit:c_edwards_lester.lester_sumner" xml:lang="eng">
-    <ti:label xml:lang="eng">Life and public services of Charles Sumner: Born Jan. 6, 1811. Died March 11, 1874.</ti:label>
-    <ti:description xml:lang="eng">United States Publishing Company, 1874.</ti:description>
-  </ti:edition>
-</ti:work>

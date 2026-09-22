@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:raphael_semmes" projid="americanLit:semmes_mem" urn="urn:cts:americanLit:raphael_semmes.semmes_mem" xml:lang="eng">
-  <ti:title xml:lang="eng">Memoirs of Service Afloat During the War Between the States</ti:title>
-  <ti:edition urn="urn:cts:americanLit:raphael_semmes.semmes_mem.perseus-eng1" workUrn="urn:cts:americanLit:raphael_semmes.semmes_mem" xml:lang="eng">
-    <ti:label xml:lang="eng">Memoirs of Service Afloat During the War Between the States</ti:label>
-    <ti:description xml:lang="eng">Baltimore, MD. Kelly Piet &amp; Co. 1868.</ti:description>
-  </ti:edition>
-</ti:work>

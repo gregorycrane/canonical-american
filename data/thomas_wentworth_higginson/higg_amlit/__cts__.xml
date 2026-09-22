@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:thomas_wentworth_higginson" projid="americanLit:higg_amlit" urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_amlit" xml:lang="eng">
-  <ti:title xml:lang="eng">Reader's History of American Literature</ti:title>
-  <ti:edition urn="urn:cts:americanLit:thomas_wentworth_higginson.higg_amlit.perseus-eng1" workUrn="urn:cts:americanLit:thomas_wentworth_higginson.higg_amlit" xml:lang="eng">
-    <ti:label xml:lang="eng">Reader's History of American Literature</ti:label>
-    <ti:description xml:lang="eng">Boston, New York and Chicago. Houghton, Mifflin and Company, 1903.</ti:description>
-  </ti:edition>
-</ti:work>

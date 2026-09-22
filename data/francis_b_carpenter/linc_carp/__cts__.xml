@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:francis_b_carpenter" projid="americanLit:linc_carp" urn="urn:cts:americanLit:francis_b_carpenter.linc_carp" xml:lang="eng">
-  <ti:title xml:lang="eng">Six Months at the White House</ti:title>
-  <ti:edition urn="urn:cts:americanLit:francis_b_carpenter.linc_carp.perseus-eng1" workUrn="urn:cts:americanLit:francis_b_carpenter.linc_carp" xml:lang="eng">
-    <ti:label xml:lang="eng">Six Months at the White House</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

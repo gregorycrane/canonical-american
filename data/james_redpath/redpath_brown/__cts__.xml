@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:james_redpath" projid="americanLit:redpath_brown" urn="urn:cts:americanLit:james_redpath.redpath_brown" xml:lang="eng">
-  <ti:title xml:lang="eng">The Public Life of Captain John Brown</ti:title>
-  <ti:edition urn="urn:cts:americanLit:james_redpath.redpath_brown.perseus-eng1" workUrn="urn:cts:americanLit:james_redpath.redpath_brown" xml:lang="eng">
-    <ti:label xml:lang="eng">The Public Life of Captain John Brown</ti:label>
-    <ti:description xml:lang="eng">Thayer and Eldridge, 1860.</ti:description>
-  </ti:edition>
-</ti:work>

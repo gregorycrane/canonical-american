@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:robert_underwood_johnson" projid="americanLit:blcw04" urn="urn:cts:americanLit:robert_underwood_johnson.blcw04" xml:lang="eng">
-  <ti:title xml:lang="eng">Battles and Leaders of the Civil War. Volume 4.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:robert_underwood_johnson.blcw04.perseus-eng1" workUrn="urn:cts:americanLit:robert_underwood_johnson.blcw04" xml:lang="eng">
-    <ti:label xml:lang="eng">Battles and Leaders of the Civil War. Volume 4.</ti:label>
-    <ti:description xml:lang="eng">Scanned printed text</ti:description>
-  </ti:edition>
-</ti:work>

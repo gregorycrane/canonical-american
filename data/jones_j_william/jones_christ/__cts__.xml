@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:jones_j_william" projid="americanLit:jones_christ" urn="urn:cts:americanLit:jones_j_william.jones_christ" xml:lang="eng">
+  <ti:title xml:lang="eng">Christ in the camp, or religion in Lee's army</ti:title>
+  <ti:edition urn="urn:cts:americanLit:jones_j_william.jones_christ.perseus-eng1" workUrn="urn:cts:americanLit:jones_j_william.jones_christ" xml:lang="eng">
+    <ti:label xml:lang="eng">Christ in the camp, or religion in Lee's army</ti:label>
+    <ti:description xml:lang="eng">Richmond VA, 1887.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:matthew_arnold" projid="americanLit:arnold_civ" urn="urn:cts:americanLit:matthew_arnold.arnold_civ" xml:lang="eng">
-  <ti:title xml:lang="eng">Civilization in the United States: First and Last Impressions of America.</ti:title>
-  <ti:edition urn="urn:cts:americanLit:matthew_arnold.arnold_civ.perseus-eng1" workUrn="urn:cts:americanLit:matthew_arnold.arnold_civ" xml:lang="eng">
-    <ti:label xml:lang="eng">Civilization in the United States: First and Last Impressions of America.</ti:label>
-    <ti:description xml:lang="eng">Boston. De Wolfe, Fiske &amp;c Co. 361 and 365 Washington Street. 1888.</ti:description>
-  </ti:edition>
-</ti:work>

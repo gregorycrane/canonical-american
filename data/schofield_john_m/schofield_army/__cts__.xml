@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:schofield_john_m" projid="americanLit:schofield_army" urn="urn:cts:americanLit:schofield_john_m.schofield_army" xml:lang="eng">
+  <ti:title xml:lang="eng">Forty-six years in the Army</ti:title>
+  <ti:edition urn="urn:cts:americanLit:schofield_john_m.schofield_army.perseus-eng1" workUrn="urn:cts:americanLit:schofield_john_m.schofield_army" xml:lang="eng">
+    <ti:label xml:lang="eng">Forty-six years in the Army</ti:label>
+    <ti:description xml:lang="eng">1897.</ti:description>
+  </ti:edition>
+</ti:work>

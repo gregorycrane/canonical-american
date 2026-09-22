@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_rebellion_record" projid="americanLit:rebrec_03_docs" urn="urn:cts:americanLit:series_rebellion_record.rebrec_03_docs" xml:lang="eng">
+  <ti:title xml:lang="eng">Volume 3 — Documents and Narratives</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_rebellion_record.rebrec_03_docs.perseus-eng1" workUrn="urn:cts:americanLit:series_rebellion_record.rebrec_03_docs" xml:lang="eng">
+    <ti:label xml:lang="eng">Volume 3 — Documents and Narratives</ti:label>
+    <ti:description xml:lang="eng">Van Nostrand. New York, New York. 1862.</ti:description>
+  </ti:edition>
+</ti:work>

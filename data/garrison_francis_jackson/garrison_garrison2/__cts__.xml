@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:garrison_francis_jackson" projid="americanLit:garrison_garrison2" urn="urn:cts:americanLit:garrison_francis_jackson.garrison_garrison2" xml:lang="eng">
+  <ti:title xml:lang="eng">William Lloyd Garrison, 1805-1879; the story of his life told by his children: volume 2</ti:title>
+  <ti:edition urn="urn:cts:americanLit:garrison_francis_jackson.garrison_garrison2.perseus-eng1" workUrn="urn:cts:americanLit:garrison_francis_jackson.garrison_garrison2" xml:lang="eng">
+    <ti:label xml:lang="eng">William Lloyd Garrison, 1805-1879; the story of his life told by his children: volume 2</ti:label>
+    <ti:description xml:lang="eng">The Century Company, 1885-1889.</ti:description>
+  </ti:edition>
+</ti:work>

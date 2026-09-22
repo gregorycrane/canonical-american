@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_photographic_history_civil_war" projid="americanLit:phcw09" urn="urn:cts:americanLit:series_photographic_history_civil_war.phcw09" xml:lang="eng">
+  <ti:title xml:lang="eng">Volume 9: Poetry and Eloquence</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_photographic_history_civil_war.phcw09.perseus-eng1" workUrn="urn:cts:americanLit:series_photographic_history_civil_war.phcw09" xml:lang="eng">
+    <ti:label xml:lang="eng">Volume 9: Poetry and Eloquence</ti:label>
+    <ti:description xml:lang="eng">Review of Reviews. New York. 1912.</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:the_rev_w_turner_jun_ma" projid="americanLit:turner_unit" urn="urn:cts:americanLit:the_rev_w_turner_jun_ma.turner_unit" xml:lang="eng">
-  <ti:title xml:lang="eng">Lives of the eminent Unitarians</ti:title>
-  <ti:edition urn="urn:cts:americanLit:the_rev_w_turner_jun_ma.turner_unit.perseus-eng1" workUrn="urn:cts:americanLit:the_rev_w_turner_jun_ma.turner_unit" xml:lang="eng">
-    <ti:label xml:lang="eng">Lives of the eminent Unitarians</ti:label>
-    <ti:description xml:lang="eng">London, published by the Unitarian Association, 1840.</ti:description>
-  </ti:edition>
-</ti:work>

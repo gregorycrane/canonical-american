@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:paige_lucius_r" projid="americanLit:paige_cambridge" urn="urn:cts:americanLit:paige_lucius_r.paige_cambridge" xml:lang="eng">
+  <ti:title xml:lang="eng">History of Cambridge, Massachusetts, 1630-1877, with a genealogical register</ti:title>
+  <ti:edition urn="urn:cts:americanLit:paige_lucius_r.paige_cambridge.perseus-eng1" workUrn="urn:cts:americanLit:paige_lucius_r.paige_cambridge" xml:lang="eng">
+    <ti:label xml:lang="eng">History of Cambridge, Massachusetts, 1630-1877, with a genealogical register</ti:label>
+    <ti:description xml:lang="eng">Boston. Houghton and Mifflin. 1877.</ti:description>
+  </ti:edition>
+</ti:work>

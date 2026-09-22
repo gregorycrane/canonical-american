@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:series_historic_leaves" projid="americanLit:somerville_leaves02" urn="urn:cts:americanLit:series_historic_leaves.somerville_leaves02" xml:lang="eng">
+  <ti:title xml:lang="eng">volume 2 — April, 1903 - January, 1904</ti:title>
+  <ti:edition urn="urn:cts:americanLit:series_historic_leaves.somerville_leaves02.perseus-eng1" workUrn="urn:cts:americanLit:series_historic_leaves.somerville_leaves02" xml:lang="eng">
+    <ti:label xml:lang="eng">volume 2 — April, 1903 - January, 1904</ti:label>
+    <ti:description xml:lang="eng">Somerville Historical Society, 1904.</ti:description>
+  </ti:edition>
+</ti:work>

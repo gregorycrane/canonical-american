@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:frank_preston_stearns" projid="americanLit:stearns_camb" urn="urn:cts:americanLit:frank_preston_stearns.stearns_camb" xml:lang="eng">
-  <ti:title xml:lang="eng">Cambridge Sketches</ti:title>
-  <ti:edition urn="urn:cts:americanLit:frank_preston_stearns.stearns_camb.perseus-eng1" workUrn="urn:cts:americanLit:frank_preston_stearns.stearns_camb" xml:lang="eng">
-    <ti:label xml:lang="eng">Cambridge Sketches</ti:label>
-    <ti:description xml:lang="eng">1905E. P. DUtton and CoBoston,</ti:description>
-  </ti:edition>
-</ti:work>

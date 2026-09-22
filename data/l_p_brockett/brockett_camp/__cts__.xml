@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:americanLit:l_p_brockett" projid="americanLit:brockett_camp" urn="urn:cts:americanLit:l_p_brockett.brockett_camp" xml:lang="eng">
-  <ti:title xml:lang="eng">The camp, the battlefield, and the hospital: or, lights and shadows of the great rebellion</ti:title>
-  <ti:edition urn="urn:cts:americanLit:l_p_brockett.brockett_camp.perseus-eng1" workUrn="urn:cts:americanLit:l_p_brockett.brockett_camp" xml:lang="eng">
-    <ti:label xml:lang="eng">The camp, the battlefield, and the hospital: or, lights and shadows of the great rebellion</ti:label>
-    <ti:description xml:lang="eng">Thayer and Eldridge, 1866.</ti:description>
-  </ti:edition>
-</ti:work>
