@@ -22,6 +22,11 @@ from typing import Dict, Iterable, List, Optional, Tuple
 
 from lxml import etree
 
+try:
+    from tools.beta_code_tei import convert_tree, convert_xml_file
+except ModuleNotFoundError:  # Direct execution as ``python tools/...``.
+    from beta_code_tei import convert_tree, convert_xml_file
+
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 CTS_NS = "http://chs.harvard.edu/xmlns/cts"
@@ -653,6 +658,7 @@ def convert_one(source: Path, output: Path, record: dict, allow_recovery: bool) 
     if source.stat().st_size >= 64 * 1024 * 1024:
         parse_report = convert_large(source, version_path, urn)
         report = {"source": source.name, "status": "converted", **parse_report}
+        beta_changes = convert_xml_file(version_path)
     else:
         tree, parse_report = parse_legacy(source, allow_recovery=allow_recovery)
         root = set_tei_namespace(tree.getroot())
@@ -663,7 +669,9 @@ def convert_one(source: Path, output: Path, record: dict, allow_recovery: bool) 
         replace_refs_decl(header)
         ensure_text_and_chapters(root, urn, report)
         add_revision(root, source.name)
+        beta_changes = convert_tree(tree)
         write_xml(tree, version_path)
+    report["beta_code_spans_converted"] = len(beta_changes)
     write_xml(
         cts_work(
             record["group_id"],

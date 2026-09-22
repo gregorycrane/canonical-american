@@ -596,9 +596,9 @@
 
 <milestone unit="sentence" n="259"/>And <persName n="Cicero,,,,," xml:id="n0062.0002.00042.00029" reg="mostcommon:Cicero,nomatch:0"><surname>Cicero</surname></persName> says, <quote>All wicked men are slaves.</quote>
 
-<milestone unit="sentence" n="260"/><placeName key="tgn,7013947" n="1.000 10" reg="saint paul, ramsey, minnesota">St. Paul</placeName>, Rom. <num value="6">VI</num>. <num value="16">16</num>, uses the term in the same sense, and with the greatest propriety: <quote>Know ye not that to whom ye yield yourselves servants [<foreign xml:lang="grc">dou/lous,</foreign> <hi rend="italics">slaves</hi>] to obey, his <pb xml:id="p.43" n="43"/>servants [slaves] ye are to whom ye obey; whether of sin unto death, or obedience unto righteousness?</quote>
+<milestone unit="sentence" n="260"/><placeName key="tgn,7013947" n="1.000 10" reg="saint paul, ramsey, minnesota">St. Paul</placeName>, Rom. <num value="6">VI</num>. <num value="16">16</num>, uses the term in the same sense, and with the greatest propriety: <quote>Know ye not that to whom ye yield yourselves servants [<foreign xml:lang="grc">δούλους,</foreign> <hi rend="italics">slaves</hi>] to obey, his <pb xml:id="p.43" n="43"/>servants [slaves] ye are to whom ye obey; whether of sin unto death, or obedience unto righteousness?</quote>
 
-<milestone unit="sentence" n="261"/>(See <persName n="Clarke,Doctor,A.,,," xml:id="n0062.0002.00043.00030" reg="default:Clarke,A.,,,"><roleName n="Doctor">Dr.</roleName> <forename>A.</forename> <surname>Clarke</surname></persName>, <hi rend="italics">in loc</hi>.) And again, Ephesians <num value="6">VI</num>. <num value="5">5</num>-<num value="7">7</num>: <quote>Servants, [<foreign xml:lang="grc">dou=loi,</foreign>] be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your hearts as unto <persName n="Christ,,,,," xml:id="n0062.0002.00043.00031" reg="nearbymention:Christ,Jesus,,,"><surname>Christ</surname></persName>: not with eye-service, as men-pleasers, but as the servants of <persName n="Christ,,,,," xml:id="n0062.0002.00043.00032" reg="nearbymention:Christ,Jesus,,,"><surname>Christ</surname></persName>, doing the will of <name n="God" type="God">God</name> from the heart; with good will doing service, as to the <rs>Lord</rs>, and not to men.</quote>
+<milestone unit="sentence" n="261"/>(See <persName n="Clarke,Doctor,A.,,," xml:id="n0062.0002.00043.00030" reg="default:Clarke,A.,,,"><roleName n="Doctor">Dr.</roleName> <forename>A.</forename> <surname>Clarke</surname></persName>, <hi rend="italics">in loc</hi>.) And again, Ephesians <num value="6">VI</num>. <num value="5">5</num>-<num value="7">7</num>: <quote>Servants, [<foreign xml:lang="grc">δοῦλοι,</foreign>] be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your hearts as unto <persName n="Christ,,,,," xml:id="n0062.0002.00043.00031" reg="nearbymention:Christ,Jesus,,,"><surname>Christ</surname></persName>: not with eye-service, as men-pleasers, but as the servants of <persName n="Christ,,,,," xml:id="n0062.0002.00043.00032" reg="nearbymention:Christ,Jesus,,,"><surname>Christ</surname></persName>, doing the will of <name n="God" type="God">God</name> from the heart; with good will doing service, as to the <rs>Lord</rs>, and not to men.</quote>
 
 <milestone unit="sentence" n="262"/><hi rend="italics">Doing the will of Gold — with good will</hi>. We must certainly understand that it was the duty of those slaves to give both assent and consent to their condition, as a thing coming to them in the order of <name n="God" type="God">God's</name> providence, <hi rend="italics">and pleasing to him;</hi> and therefore serve their masters with the same willing obedience, because therein they were serving the <rs>Lord</rs>.
 
@@ -2258,7 +2258,7 @@
 <milestone unit="sentence" n="1001"/>Lev. <num value="25">XXV</num>. <num value="44">44</num>-<num value="46">46</num>.</p> 
 <p>
 
-<milestone unit="sentence" n="1002"/>The attempts which are sometimes made to prove that <foreign xml:lang="grc">dou=los,</foreign> of the <name>Septuagint</name>, and <hi rend="italics">servus</hi>, of the <name>Vulgate</name> version, translated indifferently <hi rend="italics">servant</hi> or slave, means only a <hi rend="italics">hired servant</hi>, need only to be mentioned to be refuted.
+<milestone unit="sentence" n="1002"/>The attempts which are sometimes made to prove that <foreign xml:lang="grc">δοῦλος,</foreign> of the <name>Septuagint</name>, and <hi rend="italics">servus</hi>, of the <name>Vulgate</name> version, translated indifferently <hi rend="italics">servant</hi> or slave, means only a <hi rend="italics">hired servant</hi>, need only to be mentioned to be refuted.
 
 <milestone unit="sentence" n="1003"/>That these terms defined an actual state of slavery among the <name>Greeks</name> and <name>Romans</name>, no <num value="1">one</num> acquainted with <pb xml:id="p.142" n="142"/>the facts will deny.
 
@@ -4419,7 +4419,7 @@
 <head>Lecture <num value="13">XIII</num>: the duty of masters to slaves.</head> <quote rend="blockquote"> 
 <p>
 
-<milestone unit="sentence" n="1969"/><cit><quote>Masters, give unto your servants (<foreign xml:lang="grc">dou/lois,</foreign> slaves) that which is just and equal, knowing that ye also have a Master in heaven.</quote><bibl>--<rs type="role">Col.</rs>. <num value="4">IV</num>. <num value="1">1</num>.</bibl></cit></p></quote> 
+<milestone unit="sentence" n="1969"/><cit><quote>Masters, give unto your servants (<foreign xml:lang="grc">δούλοις,</foreign> slaves) that which is just and equal, knowing that ye also have a Master in heaven.</quote><bibl>--<rs type="role">Col.</rs>. <num value="4">IV</num>. <num value="1">1</num>.</bibl></cit></p></quote> 
 <p>
 
 <milestone unit="sentence" n="1970"/>The duty of masters and the rights of slaves reciprocal.</p> 

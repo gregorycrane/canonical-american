@@ -1,0 +1,765 @@
+{
+  "mode": "write",
+  "files_changed": 34,
+  "spans_converted": 147,
+  "files": [
+    {
+      "file": "data/anonymous/cam_amlit03/anonymous.cam_amlit03.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "ghra/skei ai>ei\\ polla\\ didasko/menos",
+          "unicode": "γηράσκει αἰεὶ πολλὰ διδασκόμενος"
+        }
+      ]
+    },
+    {
+      "file": "data/anonymous/heush/anonymous.heush.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "*k *a",
+          "unicode": "Κ Α"
+        },
+        {
+          "original": "*d *f",
+          "unicode": "Δ Φ"
+        },
+        {
+          "original": "*s *f",
+          "unicode": "Σ Φ"
+        },
+        {
+          "original": "*a *d *f",
+          "unicode": "Α Δ Φ"
+        },
+        {
+          "original": "*y *u",
+          "unicode": "Ψ Υ"
+        },
+        {
+          "original": "*d *u",
+          "unicode": "Δ Υ"
+        },
+        {
+          "original": "*b *q *p",
+          "unicode": "Β Θ Π"
+        },
+        {
+          "original": "*x *y",
+          "unicode": "Χ Ψ"
+        },
+        {
+          "original": "*d *k *e",
+          "unicode": "Δ Κ Ε"
+        },
+        {
+          "original": "*z *y",
+          "unicode": "Ζ Ψ"
+        },
+        {
+          "original": "*d *y",
+          "unicode": "Δ Ψ"
+        },
+        {
+          "original": "*q *d *x",
+          "unicode": "Θ Δ Χ"
+        },
+        {
+          "original": "*f *d *q",
+          "unicode": "Φ Δ Θ"
+        },
+        {
+          "original": "*f *g *d",
+          "unicode": "Φ Γ Δ"
+        },
+        {
+          "original": "*f *k *s",
+          "unicode": "Φ Κ Σ"
+        },
+        {
+          "original": "*f *k *y",
+          "unicode": "Φ Κ Ψ"
+        },
+        {
+          "original": "*x *f",
+          "unicode": "Χ Φ"
+        },
+        {
+          "original": "*s *x",
+          "unicode": "Σ Χ"
+        },
+        {
+          "original": "*s *a *e",
+          "unicode": "Σ Α Ε"
+        },
+        {
+          "original": "*d *t *d",
+          "unicode": "Δ Τ Δ"
+        },
+        {
+          "original": "*a *t *w",
+          "unicode": "Α Τ Ω"
+        },
+        {
+          "original": "*k *a",
+          "unicode": "Κ Α"
+        },
+        {
+          "original": "*k *s",
+          "unicode": "Κ Σ"
+        },
+        {
+          "original": "*s *n",
+          "unicode": "Σ Ν"
+        },
+        {
+          "original": "kth=ma e\\z a)ei\\",
+          "unicode": "κτῆμα ὲζ ἀεὶ"
+        },
+        {
+          "original": "fratri/a",
+          "unicode": "φρατρία"
+        },
+        {
+          "original": "peri/oikoi",
+          "unicode": "περίοικοι"
+        },
+        {
+          "original": "me/toikoi",
+          "unicode": "μέτοικοι"
+        }
+      ]
+    },
+    {
+      "file": "data/anonymous/mtauburn/anonymous.mtauburn.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "koimhth/ria",
+          "unicode": "κοιμητήρια"
+        }
+      ]
+    },
+    {
+      "file": "data/anonymous/phcw01/anonymous.phcw01.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "strathgi/a,",
+          "unicode": "στρατηγία,"
+        }
+      ]
+    },
+    {
+      "file": "data/anonymous/shs12/anonymous.shs12.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "xth(mata es aei,",
+          "unicode": "χτἡματα ες αει,"
+        }
+      ]
+    },
+    {
+      "file": "data/benjamnin_f_butler/butler_mem/benjamnin_f_butler.butler_mem.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "u(ste/ra?",
+          "unicode": "ὑστέρα?"
+        },
+        {
+          "original": "u(ste/ra,",
+          "unicode": "ὑστέρα,"
+        }
+      ]
+    },
+    {
+      "file": "data/c_edwards_lester/lester_sumner/c_edwards_lester.lester_sumner.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "i>sonomi/a",
+          "unicode": "ἰσονομία"
+        }
+      ]
+    },
+    {
+      "file": "data/charles_congdon/congdon_trib/charles_congdon.congdon_trib.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "dou=los",
+          "unicode": "δοῦλος"
+        }
+      ]
+    },
+    {
+      "file": "data/charles_e_stowe/stowe_stowe/charles_e_stowe.stowe_stowe.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "*do\\s pou= stw=, ",
+          "unicode": "Δὸς ποῦ στῶ, "
+        }
+      ]
+    },
+    {
+      "file": "data/colonel_theodore_lyman/lyman_grant/colonel_theodore_lyman.lyman_grant.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "oi( polloi\\",
+          "unicode": "οἱ πολλοὶ"
+        }
+      ]
+    },
+    {
+      "file": "data/edward_l_pierce/pierce_sumner1/edward_l_pierce.pierce_sumner1.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "ai>= ai>= du/stanos e>gw/",
+          "unicode": "αἶ αἶ δύστανος ἐγώ"
+        },
+        {
+          "original": "*f",
+          "unicode": "Φ"
+        },
+        {
+          "original": "*f",
+          "unicode": "Φ"
+        },
+        {
+          "original": "*f",
+          "unicode": "Φ"
+        },
+        {
+          "original": "*f",
+          "unicode": "Φ"
+        },
+        {
+          "original": "oi(/hper *nio/bhs moi/rh toih/de kai\\ h(mi=n",
+          "unicode": "οἵηπερ Νιόβης μοίρη τοιήδε καὶ ἡμῖν"
+        },
+        {
+          "original": "e)stin o)izuroi=s kai\\ maka/ressin dmou=",
+          "unicode": "ἐστιν ὀιζυροῖς καὶ μακάρεσσιν δμοῦ"
+        },
+        {
+          "original": "h(mei=s ga\\r qa/nomen *xantroi=o be/lessi dame/ntes",
+          "unicode": "ἡμεῖς γὰρ θάνομεν Χαντροῖο βέλεσσι δαμέντες"
+        },
+        {
+          "original": "ka)n li/qw| a)qana/tous au)to\\s e)/qhke pa/lin",
+          "unicode": "κἀν λίθῳ ἀθανάτους αὐτὸς ἔθηκε πάλιν"
+        }
+      ]
+    },
+    {
+      "file": "data/george_bancroft/bancroft02/george_bancroft.bancroft02.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "xai\\ me\\n ti/s te xasignh/toio fonh=os",
+          "unicode": "χαὶ μὲν τίς τε χασιγνήτοιο φονῆος"
+        },
+        {
+          "original": "Poinh\\n h)\\ ou=( paido\\s e)de\\cato te<*>nhw=tos.",
+          "unicode": "ποινὴν ἢ οὗ παιδὸς ἐδὲξατο τε<*>νηῶτος."
+        },
+        {
+          "original": "po/ll' a)poti/sas.",
+          "unicode": "πόλλ' ἀποτίσας."
+        }
+      ]
+    },
+    {
+      "file": "data/george_bancroft/bancroft05/george_bancroft.bancroft05.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "barba/rwn da*(/ellhnas a)/rxein ei)ko/s,",
+          "unicode": "βαρβάρων δαἝλληνας ἄρχειν εἰκός,"
+        }
+      ]
+    },
+    {
+      "file": "data/george_bancroft/bancroft10/george_bancroft.bancroft10.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": ". . . a)gu/rtai de\\ kai\\ ma/nteis e)pa\\ plousi/wn qu/ras I)o/ntes pei/qousin, w(s e)/sti para\\ sfi/si du/namis e)k qew=n porizome/nh. . . ei(/te ti a)di/khma/ tou ge/gonen au)tou= h\\ progo/nwn a)kei=sqai, . . . w(s a)/ra lu/seis te kai\\ kaqarmoi\\ a)dikhma/twn . . . ei)os\\ me\\n e)/ti zw=sin, ei)si\\ de\\ kai\\ teleuth\\sasin, . . . ai= tw=n e)kei= kakw=n a)polu/ousin h(ma=s mn qu/sanras de\\ deina\\ perime/nei.",
+          "unicode": ". . . ἀγύρται δὲ καὶ μάντεις ἐπὰ πλουσίων θύρας ἰόντες πείθουσιν, ὡς ἔστι παρὰ σφίσι δύναμις ἐκ θεῶν ποριζομένη. . . εἵτε τι ἀδίκημά του γέγονεν αὐτοῦ ὴ προγόνων ἀκεῖσθαι, . . . ὡς ἄρα λύσεις τε καὶ καθαρμοὶ ἀδικημάτων . . . εἰοσ` μὲν ἔτι ζῶσιν, εἰσὶ δὲ καὶ τελευτὴσασιν, . . . αῖ τῶν ἐκεῖ κακῶν ἀπολύουσιν ἡμᾶς μν θύσανρας δὲ δεινὰ περιμένει."
+        },
+        {
+          "original": "e)kei=",
+          "unicode": "ἐκεῖ"
+        }
+      ]
+    },
+    {
+      "file": "data/george_ticknor/ticknor_letters1/george_ticknor.ticknor_letters1.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "*)attikw/tatos,",
+          "unicode": "Ἀττικώτατος,"
+        }
+      ]
+    },
+    {
+      "file": "data/george_ticknor/ticknor_letters2/george_ticknor.ticknor_letters2.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "polufloi/sboio qala/sshs",
+          "unicode": "πολυφλοίσβοιο θαλάσσης"
+        }
+      ]
+    },
+    {
+      "file": "data/j_calvin_smith/harpgaz_1855/j_calvin_smith.harpgaz_1855.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "D",
+          "unicode": "δ"
+        },
+        {
+          "original": "d",
+          "unicode": "δ"
+        },
+        {
+          "original": "*)aithali/a",
+          "unicode": "Ἀιτηαλία"
+        },
+        {
+          "original": "Daimonnisoi",
+          "unicode": "δαιμοννισοι"
+        }
+      ]
+    },
+    {
+      "file": "data/james_parton/higg_women2/james_parton.higg_women2.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "ais",
+          "unicode": "αις"
+        },
+        {
+          "original": "ois",
+          "unicode": "οις"
+        }
+      ]
+    },
+    {
+      "file": "data/james_russell_lowell/lowell_books/james_russell_lowell.lowell_books.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "u(/lh",
+          "unicode": "ὕλη"
+        },
+        {
+          "original": "oi(/h per fu/llwn geneh/",
+          "unicode": "οἵη περ φύλλων γενεή"
+        },
+        {
+          "original": "pnoiai\\ pantoi/wn a)ne/mwn",
+          "unicode": "πνοιαὶ παντοίων ἀνέμων"
+        },
+        {
+          "original": "oi(=on nu=n bro/toi",
+          "unicode": "οἷον νῦν βρότοι"
+        },
+        {
+          "original": "a(/pac lego/mena,",
+          "unicode": "ἅπαξ λεγόμενα,"
+        },
+        {
+          "original": "a(pac legomena!",
+          "unicode": "ἁπαξ λεγομενα!"
+        }
+      ]
+    },
+    {
+      "file": "data/jefferson_davis/shs09/jefferson_davis.shs09.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "tautan h\\ epe tauta,",
+          "unicode": "ταυταν ὴ επε ταυτα,"
+        },
+        {
+          "original": "xth/mata ez aei,",
+          "unicode": "χτήματα εζ αει,"
+        }
+      ]
+    },
+    {
+      "file": "data/john_d_billings_ba06c5d6/billings_hard/john_d_billings_ba06c5d6.billings_hard.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "bi/blos",
+          "unicode": "βίβλος"
+        }
+      ]
+    },
+    {
+      "file": "data/laura_e_richards/richards_howe/laura_e_richards.richards_howe.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "pou= stw=",
+          "unicode": "ποῦ στῶ"
+        },
+        {
+          "original": "dw/ristos",
+          "unicode": "δώριστος"
+        }
+      ]
+    },
+    {
+      "file": "data/mary_thacher_higginson/higg_higg2/mary_thacher_higginson.higg_higg2.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "f",
+          "unicode": "φ"
+        },
+        {
+          "original": "f",
+          "unicode": "φ"
+        }
+      ]
+    },
+    {
+      "file": "data/plutarch/knight_mech/plutarch.knight_mech.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "*a *b *l.",
+          "unicode": "Α Β Λ."
+        },
+        {
+          "original": "a/cimh",
+          "unicode": "άξιμη"
+        },
+        {
+          "original": "*Ka/nna,",
+          "unicode": "Κάννα,"
+        },
+        {
+          "original": "kamh/los",
+          "unicode": "καμήλος"
+        },
+        {
+          "original": "kanqo/s",
+          "unicode": "κανθός"
+        },
+        {
+          "original": "*xhmei/a",
+          "unicode": "Χημεία"
+        },
+        {
+          "original": "h>/lektron",
+          "unicode": "ἤλεκτρον"
+        },
+        {
+          "original": "e)lektron-poie/w,",
+          "unicode": "ἐλεκτρον-ποιέω,"
+        },
+        {
+          "original": "e>ca/miton",
+          "unicode": "ἐξάμιτον"
+        },
+        {
+          "original": "ca/miton",
+          "unicode": "ξάμιτον"
+        },
+        {
+          "original": "i",
+          "unicode": "ι"
+        },
+        {
+          "original": "mwn e/grafe/ me",
+          "unicode": "μων έγραφέ με"
+        },
+        {
+          "original": "xrh/simos — somish/rx",
+          "unicode": "χρήσιμος — σομισήρχ"
+        },
+        {
+          "original": "pro/swpon",
+          "unicode": "πρόσωπον"
+        },
+        {
+          "original": "me/tron",
+          "unicode": "μέτρον"
+        },
+        {
+          "original": "q",
+          "unicode": "θ"
+        },
+        {
+          "original": "q",
+          "unicode": "θ"
+        },
+        {
+          "original": "q",
+          "unicode": "θ"
+        },
+        {
+          "original": "puro/s",
+          "unicode": "πυρός"
+        },
+        {
+          "original": "cu/lon",
+          "unicode": "ξύλον"
+        },
+        {
+          "original": "du/skos",
+          "unicode": "δύσκος"
+        },
+        {
+          "original": "e\\ca/mitos",
+          "unicode": "ὲξάμιτος"
+        },
+        {
+          "original": "sxoi=nos",
+          "unicode": "σχοῖνος"
+        },
+        {
+          "original": "Xeir",
+          "unicode": "χειρ"
+        },
+        {
+          "original": "ergein,",
+          "unicode": "εργειν,"
+        },
+        {
+          "original": "ta/phtes,",
+          "unicode": "τάπητες,"
+        },
+        {
+          "original": "kisth deipnoforos",
+          "unicode": "κιστη δειπνοφορος"
+        },
+        {
+          "original": "tri/gonon",
+          "unicode": "τρίγονον"
+        },
+        {
+          "original": "e>ca/mitos",
+          "unicode": "ἐξάμιτος"
+        },
+        {
+          "original": "qo/lion",
+          "unicode": "θόλιον"
+        },
+        {
+          "original": "oiwn xordas",
+          "unicode": "οιων χορδας"
+        }
+      ]
+    },
+    {
+      "file": "data/the_rev_w_turner_jun_ma/turner_unit/the_rev_w_turner_jun_ma.turner_unit.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "logos,",
+          "unicode": "λογος,"
+        },
+        {
+          "original": "dusno/hta",
+          "unicode": "δυσνόητα"
+        },
+        {
+          "original": "as)s(hta s(hmata",
+          "unicode": "ασʼσʽητα σʽηματα"
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_amlit/thomas_wentworth_higginson.higg_amlit.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "po/das w)ku\\s",
+          "unicode": "πόδας ὠκὺς"
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_atlantic/thomas_wentworth_higginson.higg_atlantic.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "*(ella/dos *(ella/s",
+          "unicode": "Ἑλλάδος Ἑλλάς"
+        },
+        {
+          "original": "to\\ d'e)ntele\\s w(=| k' e)pineu/sh=| *palla/s.",
+          "unicode": "τὸ δ'ἐντελὲς ᾧ κ' ἐπινεύσῇ Παλλάς."
+        },
+        {
+          "original": "*basilhi/da kourafrodi/thn",
+          "unicode": "Βασιληίδα κουραφροδίτην"
+        },
+        {
+          "original": "*)afrodi/th ga/mou plokai=s h(/detai.",
+          "unicode": "Ἀφροδίτη γάμου πλοκαῖς ἥδεται."
+        },
+        {
+          "original": "*(iero\\s ga/mos.",
+          "unicode": "Ἱερὸς γάμος."
+        },
+        {
+          "original": "e)/rrow",
+          "unicode": "ἔρροω"
+        },
+        {
+          "original": "gh= mh/thr",
+          "unicode": "γῆ μήτηρ"
+        },
+        {
+          "original": "a)/rrh/thoisi gonai=s.",
+          "unicode": "ἄρρήτηοισι γοναῖς."
+        },
+        {
+          "original": "qeoglw/|ssous gunai=kas u(/mnois.",
+          "unicode": "θεογλῴσσους γυναῖκας ὕμνοις."
+        },
+        {
+          "original": "ai(/ te pepaideume/nai tw=n gunaikw=n",
+          "unicode": "αἵ τε πεπαιδευμέναι τῶν γυναικῶν"
+        },
+        {
+          "original": "fre/nes.",
+          "unicode": "φρένες."
+        },
+        {
+          "original": "e)moi\\ de\\ mo/nois pro/pine toi=s o)/mmasin.",
+          "unicode": "ἐμοὶ δὲ μόνοις πρόπινε τοῖς ὄμμασιν."
+        },
+        {
+          "original": "*lh/qhn dw=ken o)durome/nois.",
+          "unicode": "Λήθην δῶκεν ὀδυρομένοις."
+        },
+        {
+          "original": "marmarugh\\n *qeodwria/dos.",
+          "unicode": "μαρμαρυγὴν Θεοδωριάδος."
+        },
+        {
+          "original": "a)nqei=s kai\\ lh/geis kai\\ su\\ kai\\ o( ste/fanos.",
+          "unicode": "ἀνθεῖς καὶ λήγεις καὶ σὺ καὶ ὁ στέφανος."
+        },
+        {
+          "original": "pinuta=tos.",
+          "unicode": "πινυτᾶτος."
+        },
+        {
+          "original": "sw/zois ta\\n o(si/an o(/si/ws.",
+          "unicode": "σώζοις τὰν ὁσίαν ὅσίως."
+        },
+        {
+          "original": "di=a gunaikw=n",
+          "unicode": "δῖα γυναικῶν"
+        },
+        {
+          "original": "*mousopo/lwZZZ oi)ki/an.",
+          "unicode": "Μουσοπόλωζζζ οἰκίαν."
+        },
+        {
+          "original": "qeoglw/ssous.",
+          "unicode": "θεογλώσσους."
+        },
+        {
+          "original": "gerai/tera",
+          "unicode": "γεραίτερα"
+        },
+        {
+          "original": "*sapfou=s th=s kalh=s.",
+          "unicode": "Σαπφοῦς τῆς καλῆς."
+        },
+        {
+          "original": "(espe/ra a)po\\ tou e)/sw poiei=n pera=n ta\\ zw\\a, k. t. l.",
+          "unicode": "ἑσπέρα ἀπὸ του ἔσω ποιεῖν περᾶν τὰ ζὼα, κ. τ. λ."
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_book/thomas_wentworth_higginson.higg_book.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "toioi/de lampadhfo/rwn no/moi",
+          "unicode": "τοιοίδε λαμπαδηφόρων νόμοι"
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_carlyle/thomas_wentworth_higginson.higg_carlyle.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "peni/a",
+          "unicode": "πενία"
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_fair/thomas_wentworth_higginson.higg_fair.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "patew",
+          "unicode": "πατεω"
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_harvmem1/thomas_wentworth_higginson.higg_harvmem1.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "drpagmo/n",
+          "unicode": "δρπαγμόν"
+        },
+        {
+          "original": "*f *b *k.",
+          "unicode": "Φ Β Κ."
+        },
+        {
+          "original": "poikilon te kai\\ eu)daimoni/a",
+          "unicode": "ποικιλον τε καὶ εὐδαιμονία"
+        }
+      ]
+    },
+    {
+      "file": "data/thomas_wentworth_higginson/higg_newworld/thomas_wentworth_higginson.higg_newworld.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "qa/latta!\n\nqa/latta!",
+          "unicode": "θάλαττα!\n\nθάλαττα!"
+        }
+      ]
+    },
+    {
+      "file": "data/william_a_smith_dd_president_of_randolph_macon_college_and_professor_of_moral_an/smith_lectures/william_a_smith_dd_president_of_randolph_macon_college_and_professor_of_moral_an.smith_lectures.perseus-eng1.xml",
+      "changes": [
+        {
+          "original": "dou/lous,",
+          "unicode": "δούλους,"
+        },
+        {
+          "original": "dou=loi,",
+          "unicode": "δοῦλοι,"
+        },
+        {
+          "original": "dou=los,",
+          "unicode": "δοῦλος,"
+        },
+        {
+          "original": "dou/lois,",
+          "unicode": "δούλοις,"
+        }
+      ]
+    },
+    {
+      "file": "sources/harpgaz_1855.p5.xml.gz",
+      "changes": [
+        {
+          "original": "D",
+          "unicode": "δ"
+        },
+        {
+          "original": "d",
+          "unicode": "δ"
+        },
+        {
+          "original": "*)aithali/a",
+          "unicode": "Ἀιτηαλία"
+        },
+        {
+          "original": "Daimonnisoi",
+          "unicode": "δαιμοννισοι"
+        }
+      ]
+    }
+  ]
+}

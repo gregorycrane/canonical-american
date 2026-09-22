@@ -31,6 +31,20 @@ The converter:
 The collection namespace is `urn:cts:americanLit:`. Generated documents use the
 version identifier `perseus-eng1`.
 
+### Greek Beta Code
+
+Legacy Greek inside `<foreign xml:lang="grc">` is converted to NFC Unicode
+Greek during the P4-to-P5 build. To audit and update an existing checkout,
+including Harper's compressed reproducible source, run:
+
+```bash
+make beta-code
+```
+
+The command writes `beta_code_conversion.json` with every original and converted
+span. Existing Unicode Greek and the known `Zzz` authority-control placeholder
+are left unchanged.
+
 ## Harper's gazetteer
 
 Harper's 1855 gazetteer is both a historical reading text and a database of

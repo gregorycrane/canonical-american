@@ -16,7 +16,7 @@ SAMPLE = '''<?xml version="1.0"?>
 <!DOCTYPE TEI.2 [<!ENTITY mdash "&#x2014;">]>
 <TEI.2>
  <teiHeader><fileDesc><titleStmt><title>A Test &mdash; Work</title><author>Jane Doe</author></titleStmt><sourceDesc><p>Boston, 1890.</p></sourceDesc></fileDesc><encodingDesc><refsDecl><state unit="chapter"/></refsDecl></encodingDesc></teiHeader>
- <text><body><div1 id="c.1" type="chapter" n="1"><pb id="p.1" n="1"/><head>One</head><p>Text.</p></div1></body></text>
+ <text><body><div1 id="c.1" type="chapter" n="1"><pb id="p.1" n="1"/><head>One</head><p>Text. <foreign lang="greek">*)afrodi/th</foreign></p></div1></body></text>
 </TEI.2>'''
 
 
@@ -39,6 +39,7 @@ class ConvertP4Tests(unittest.TestCase):
             body = tree.find("./tei:text/tei:body", ns)
             self.assertTrue(body.get(f"{{{convert_p4.XML_NS}}}base").startswith("urn:cts:americanLit:"))
             self.assertEqual(body.find("./tei:div", ns).get("type"), "chapter")
+            self.assertEqual(tree.find(".//tei:foreign", ns).text, "Ἀφροδίτη")
             self.assertIsNotNone(tree.find(".//tei:refsDecl[@xml:id='CTS']", {**ns, "xml": convert_p4.XML_NS}))
             self.assertTrue((version.parent / "__cts__.xml").exists())
             self.assertTrue((version.parent.parent / "__cts__.xml").exists())
